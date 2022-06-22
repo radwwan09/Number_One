@@ -41,9 +41,33 @@ Partial Class Home
         Me.Button36 = New System.Windows.Forms.Button()
         Me.Button37 = New System.Windows.Forms.Button()
         Me.Label98 = New System.Windows.Forms.Label()
-        Me.TextBox38 = New System.Windows.Forms.TextBox()
+        Me.txt_U = New System.Windows.Forms.TextBox()
         Me.DataGridView8 = New System.Windows.Forms.DataGridView()
         Me.TabPage16 = New System.Windows.Forms.TabPage()
+        Me.GroupBox11 = New System.Windows.Forms.GroupBox()
+        Me.DataGridView13 = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewTextBoxColumn11 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn12 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Button51 = New System.Windows.Forms.Button()
+        Me.Button52 = New System.Windows.Forms.Button()
+        Me.GroupBox10 = New System.Windows.Forms.GroupBox()
+        Me.DataGridView12 = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewTextBoxColumn9 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn10 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Button49 = New System.Windows.Forms.Button()
+        Me.Button50 = New System.Windows.Forms.Button()
+        Me.GroupBox9 = New System.Windows.Forms.GroupBox()
+        Me.DataGridView11 = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewTextBoxColumn7 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn8 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Button47 = New System.Windows.Forms.Button()
+        Me.Button48 = New System.Windows.Forms.Button()
+        Me.GroupBox8 = New System.Windows.Forms.GroupBox()
+        Me.DataGridView10 = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewTextBoxColumn5 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn6 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Button45 = New System.Windows.Forms.Button()
+        Me.Button46 = New System.Windows.Forms.Button()
         Me.GroupBox7 = New System.Windows.Forms.GroupBox()
         Me.DataGridView9 = New System.Windows.Forms.DataGridView()
         Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -82,7 +106,7 @@ Partial Class Home
         Me.Button26 = New System.Windows.Forms.Button()
         Me.Button27 = New System.Windows.Forms.Button()
         Me.Label91 = New System.Windows.Forms.Label()
-        Me.TextBox31 = New System.Windows.Forms.TextBox()
+        Me.txt_C = New System.Windows.Forms.TextBox()
         Me.DataGridView6 = New System.Windows.Forms.DataGridView()
         Me.TabPage14 = New System.Windows.Forms.TabPage()
         Me.Button28 = New System.Windows.Forms.Button()
@@ -98,7 +122,7 @@ Partial Class Home
         Me.Button31 = New System.Windows.Forms.Button()
         Me.Button32 = New System.Windows.Forms.Button()
         Me.Label97 = New System.Windows.Forms.Label()
-        Me.TextBox35 = New System.Windows.Forms.TextBox()
+        Me.txt_T = New System.Windows.Forms.TextBox()
         Me.DataGridView7 = New System.Windows.Forms.DataGridView()
         Me.TabPage3 = New System.Windows.Forms.TabPage()
         Me.TabControl4 = New System.Windows.Forms.TabControl()
@@ -112,7 +136,7 @@ Partial Class Home
         Me.Button14 = New System.Windows.Forms.Button()
         Me.Button13 = New System.Windows.Forms.Button()
         Me.Label85 = New System.Windows.Forms.Label()
-        Me.TextBox27 = New System.Windows.Forms.TextBox()
+        Me.txt_mang = New System.Windows.Forms.TextBox()
         Me.DataGridView4 = New System.Windows.Forms.DataGridView()
         Me.TabPage4 = New System.Windows.Forms.TabPage()
         Me.Button18 = New System.Windows.Forms.Button()
@@ -128,56 +152,56 @@ Partial Class Home
         Me.Button21 = New System.Windows.Forms.Button()
         Me.Button22 = New System.Windows.Forms.Button()
         Me.Label88 = New System.Windows.Forms.Label()
-        Me.TextBox30 = New System.Windows.Forms.TextBox()
+        Me.txt_dep = New System.Windows.Forms.TextBox()
         Me.DataGridView5 = New System.Windows.Forms.DataGridView()
         Me.TabPage2 = New System.Windows.Forms.TabPage()
         Me.TabControl3 = New System.Windows.Forms.TabControl()
         Me.TabPage10 = New System.Windows.Forms.TabPage()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
+        Me.Emp_name_A = New System.Windows.Forms.TextBox()
         Me.Label11 = New System.Windows.Forms.Label()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
+        Me.Emp_id_A = New System.Windows.Forms.TextBox()
+        Me.Day_Emergency_A = New System.Windows.Forms.TextBox()
+        Me.Day_Annual_A = New System.Windows.Forms.TextBox()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.Label8 = New System.Windows.Forms.Label()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
+        Me.H_type_A = New System.Windows.Forms.ComboBox()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
+        Me.H_end_A = New System.Windows.Forms.DateTimePicker()
         Me.Button4 = New System.Windows.Forms.Button()
-        Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker()
+        Me.H_start_A = New System.Windows.Forms.DateTimePicker()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.TabPage11 = New System.Windows.Forms.TabPage()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
-        Me.TextBox6 = New System.Windows.Forms.TextBox()
+        Me.Emp_name_E = New System.Windows.Forms.TextBox()
         Me.Label12 = New System.Windows.Forms.Label()
         Me.Label13 = New System.Windows.Forms.Label()
         Me.Label14 = New System.Windows.Forms.Label()
         Me.Label15 = New System.Windows.Forms.Label()
-        Me.TextBox7 = New System.Windows.Forms.TextBox()
-        Me.TextBox8 = New System.Windows.Forms.TextBox()
-        Me.TextBox9 = New System.Windows.Forms.TextBox()
+        Me.Emp_id_E = New System.Windows.Forms.TextBox()
+        Me.Day_Emergency_E = New System.Windows.Forms.TextBox()
+        Me.Day_Annual_E = New System.Windows.Forms.TextBox()
         Me.GroupBox4 = New System.Windows.Forms.GroupBox()
         Me.Button12 = New System.Windows.Forms.Button()
         Me.Label16 = New System.Windows.Forms.Label()
-        Me.ComboBox2 = New System.Windows.Forms.ComboBox()
+        Me.H_type_E = New System.Windows.Forms.ComboBox()
         Me.Button2 = New System.Windows.Forms.Button()
-        Me.DateTimePicker3 = New System.Windows.Forms.DateTimePicker()
+        Me.H_end_E = New System.Windows.Forms.DateTimePicker()
         Me.Button5 = New System.Windows.Forms.Button()
-        Me.DateTimePicker4 = New System.Windows.Forms.DateTimePicker()
+        Me.H_start_E = New System.Windows.Forms.DateTimePicker()
         Me.Label17 = New System.Windows.Forms.Label()
         Me.Label18 = New System.Windows.Forms.Label()
         Me.Label19 = New System.Windows.Forms.Label()
         Me.Label20 = New System.Windows.Forms.Label()
         Me.TabPage12 = New System.Windows.Forms.TabPage()
         Me.Label21 = New System.Windows.Forms.Label()
-        Me.TextBox10 = New System.Windows.Forms.TextBox()
+        Me.txt_H = New System.Windows.Forms.TextBox()
         Me.DataGridView2 = New System.Windows.Forms.DataGridView()
         Me.Emp_P = New System.Windows.Forms.TabPage()
         Me.Panel1 = New System.Windows.Forms.Panel()
@@ -317,42 +341,26 @@ Partial Class Home
         Me.Label84 = New System.Windows.Forms.Label()
         Me.TextBox26 = New System.Windows.Forms.TextBox()
         Me.DataGridView3 = New System.Windows.Forms.DataGridView()
+        Me.TabPage17 = New System.Windows.Forms.TabPage()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.txt_Emp = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.TabControl1 = New System.Windows.Forms.TabControl()
-        Me.GroupBox8 = New System.Windows.Forms.GroupBox()
-        Me.DataGridView10 = New System.Windows.Forms.DataGridView()
-        Me.Button45 = New System.Windows.Forms.Button()
-        Me.Button46 = New System.Windows.Forms.Button()
-        Me.GroupBox9 = New System.Windows.Forms.GroupBox()
-        Me.DataGridView11 = New System.Windows.Forms.DataGridView()
-        Me.Button47 = New System.Windows.Forms.Button()
-        Me.Button48 = New System.Windows.Forms.Button()
-        Me.GroupBox10 = New System.Windows.Forms.GroupBox()
-        Me.DataGridView12 = New System.Windows.Forms.DataGridView()
-        Me.Button49 = New System.Windows.Forms.Button()
-        Me.Button50 = New System.Windows.Forms.Button()
-        Me.GroupBox11 = New System.Windows.Forms.GroupBox()
-        Me.DataGridView13 = New System.Windows.Forms.DataGridView()
-        Me.Button51 = New System.Windows.Forms.Button()
-        Me.Button52 = New System.Windows.Forms.Button()
-        Me.DataGridViewTextBoxColumn5 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn6 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn7 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn8 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn9 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn10 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn11 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn12 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.TabPage17 = New System.Windows.Forms.TabPage()
         Me.TabPage6.SuspendLayout()
         Me.TabControl6.SuspendLayout()
         Me.TabPage15.SuspendLayout()
         Me.Panel10.SuspendLayout()
         CType(Me.DataGridView8, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage16.SuspendLayout()
+        Me.GroupBox11.SuspendLayout()
+        CType(Me.DataGridView13, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox10.SuspendLayout()
+        CType(Me.DataGridView12, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox9.SuspendLayout()
+        CType(Me.DataGridView11, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox8.SuspendLayout()
+        CType(Me.DataGridView10, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox7.SuspendLayout()
         CType(Me.DataGridView9, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox6.SuspendLayout()
@@ -398,23 +406,15 @@ Partial Class Home
         CType(Me.DataGridView3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabControl1.SuspendLayout()
-        Me.GroupBox8.SuspendLayout()
-        CType(Me.DataGridView10, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox9.SuspendLayout()
-        CType(Me.DataGridView11, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox10.SuspendLayout()
-        CType(Me.DataGridView12, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox11.SuspendLayout()
-        CType(Me.DataGridView13, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'TabPage6
         '
         Me.TabPage6.Controls.Add(Me.TabControl6)
-        Me.TabPage6.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage6.Location = New System.Drawing.Point(4, 26)
         Me.TabPage6.Name = "TabPage6"
         Me.TabPage6.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage6.Size = New System.Drawing.Size(1199, 737)
+        Me.TabPage6.Size = New System.Drawing.Size(1199, 740)
         Me.TabPage6.TabIndex = 5
         Me.TabPage6.Text = "المستخدم"
         Me.TabPage6.UseVisualStyleBackColor = True
@@ -438,12 +438,12 @@ Partial Class Home
         Me.TabPage15.Controls.Add(Me.Button36)
         Me.TabPage15.Controls.Add(Me.Button37)
         Me.TabPage15.Controls.Add(Me.Label98)
-        Me.TabPage15.Controls.Add(Me.TextBox38)
+        Me.TabPage15.Controls.Add(Me.txt_U)
         Me.TabPage15.Controls.Add(Me.DataGridView8)
-        Me.TabPage15.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage15.Location = New System.Drawing.Point(4, 26)
         Me.TabPage15.Name = "TabPage15"
         Me.TabPage15.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage15.Size = New System.Drawing.Size(1182, 698)
+        Me.TabPage15.Size = New System.Drawing.Size(1182, 701)
         Me.TabPage15.TabIndex = 0
         Me.TabPage15.Text = "المستخدمون"
         Me.TabPage15.UseVisualStyleBackColor = True
@@ -490,7 +490,7 @@ Partial Class Home
         Me.Label103.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label103.Location = New System.Drawing.Point(389, 81)
         Me.Label103.Name = "Label103"
-        Me.Label103.Size = New System.Drawing.Size(60, 26)
+        Me.Label103.Size = New System.Drawing.Size(47, 22)
         Me.Label103.TabIndex = 19
         Me.Label103.Text = "الصفة"
         '
@@ -500,7 +500,7 @@ Partial Class Home
         Me.ComboBox25.FormattingEnabled = True
         Me.ComboBox25.Location = New System.Drawing.Point(194, 81)
         Me.ComboBox25.Name = "ComboBox25"
-        Me.ComboBox25.Size = New System.Drawing.Size(179, 33)
+        Me.ComboBox25.Size = New System.Drawing.Size(179, 28)
         Me.ComboBox25.TabIndex = 18
         '
         'TextBox39
@@ -508,7 +508,7 @@ Partial Class Home
         Me.TextBox39.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox39.Location = New System.Drawing.Point(546, 78)
         Me.TextBox39.Name = "TextBox39"
-        Me.TextBox39.Size = New System.Drawing.Size(349, 34)
+        Me.TextBox39.Size = New System.Drawing.Size(349, 29)
         Me.TextBox39.TabIndex = 17
         '
         'Label102
@@ -517,7 +517,7 @@ Partial Class Home
         Me.Label102.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label102.Location = New System.Drawing.Point(901, 81)
         Me.Label102.Name = "Label102"
-        Me.Label102.Size = New System.Drawing.Size(64, 26)
+        Me.Label102.Size = New System.Drawing.Size(50, 22)
         Me.Label102.TabIndex = 16
         Me.Label102.Text = "الايميل"
         '
@@ -526,7 +526,7 @@ Partial Class Home
         Me.TextBox40.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox40.Location = New System.Drawing.Point(117, 24)
         Me.TextBox40.Name = "TextBox40"
-        Me.TextBox40.Size = New System.Drawing.Size(256, 34)
+        Me.TextBox40.Size = New System.Drawing.Size(256, 29)
         Me.TextBox40.TabIndex = 15
         '
         'Label104
@@ -535,7 +535,7 @@ Partial Class Home
         Me.Label104.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label104.Location = New System.Drawing.Point(379, 27)
         Me.Label104.Name = "Label104"
-        Me.Label104.Size = New System.Drawing.Size(105, 26)
+        Me.Label104.Size = New System.Drawing.Size(83, 22)
         Me.Label104.TabIndex = 14
         Me.Label104.Text = "كلمة المرور"
         '
@@ -564,7 +564,7 @@ Partial Class Home
         Me.TextBox41.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox41.Location = New System.Drawing.Point(546, 29)
         Me.TextBox41.Name = "TextBox41"
-        Me.TextBox41.Size = New System.Drawing.Size(349, 34)
+        Me.TextBox41.Size = New System.Drawing.Size(349, 29)
         Me.TextBox41.TabIndex = 1
         '
         'Label106
@@ -573,7 +573,7 @@ Partial Class Home
         Me.Label106.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label106.Location = New System.Drawing.Point(901, 32)
         Me.Label106.Name = "Label106"
-        Me.Label106.Size = New System.Drawing.Size(120, 26)
+        Me.Label106.Size = New System.Drawing.Size(95, 22)
         Me.Label106.TabIndex = 0
         Me.Label106.Text = "اسم المستخدم"
         '
@@ -605,13 +605,13 @@ Partial Class Home
         Me.Label98.Text = "بحث :"
         Me.Label98.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'TextBox38
+        'txt_U
         '
-        Me.TextBox38.Location = New System.Drawing.Point(385, 13)
-        Me.TextBox38.Name = "TextBox38"
-        Me.TextBox38.Size = New System.Drawing.Size(395, 28)
-        Me.TextBox38.TabIndex = 7
-        Me.TextBox38.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txt_U.Location = New System.Drawing.Point(385, 13)
+        Me.txt_U.Name = "txt_U"
+        Me.txt_U.Size = New System.Drawing.Size(395, 24)
+        Me.txt_U.TabIndex = 7
+        Me.txt_U.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'DataGridView8
         '
@@ -632,12 +632,276 @@ Partial Class Home
         Me.TabPage16.Controls.Add(Me.GroupBox7)
         Me.TabPage16.Controls.Add(Me.GroupBox6)
         Me.TabPage16.Controls.Add(Me.GroupBox5)
-        Me.TabPage16.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage16.Location = New System.Drawing.Point(4, 26)
         Me.TabPage16.Name = "TabPage16"
         Me.TabPage16.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage16.Size = New System.Drawing.Size(1182, 698)
+        Me.TabPage16.Size = New System.Drawing.Size(1182, 701)
         Me.TabPage16.TabIndex = 1
         Me.TabPage16.Text = "معلومات"
+        '
+        'GroupBox11
+        '
+        Me.GroupBox11.Controls.Add(Me.DataGridView13)
+        Me.GroupBox11.Controls.Add(Me.Button51)
+        Me.GroupBox11.Controls.Add(Me.Button52)
+        Me.GroupBox11.Location = New System.Drawing.Point(723, 366)
+        Me.GroupBox11.Name = "GroupBox11"
+        Me.GroupBox11.Size = New System.Drawing.Size(222, 326)
+        Me.GroupBox11.TabIndex = 14
+        Me.GroupBox11.TabStop = False
+        Me.GroupBox11.Text = "التخصصات"
+        '
+        'DataGridView13
+        '
+        Me.DataGridView13.AllowUserToAddRows = False
+        Me.DataGridView13.AllowUserToDeleteRows = False
+        Me.DataGridView13.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView13.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn11, Me.DataGridViewTextBoxColumn12})
+        Me.DataGridView13.Location = New System.Drawing.Point(6, 30)
+        Me.DataGridView13.Margin = New System.Windows.Forms.Padding(10)
+        Me.DataGridView13.Name = "DataGridView13"
+        Me.DataGridView13.ReadOnly = True
+        Me.DataGridView13.RightToLeft = System.Windows.Forms.RightToLeft.Yes
+        Me.DataGridView13.RowHeadersVisible = False
+        Me.DataGridView13.Size = New System.Drawing.Size(203, 238)
+        Me.DataGridView13.TabIndex = 10
+        '
+        'DataGridViewTextBoxColumn11
+        '
+        Me.DataGridViewTextBoxColumn11.DataPropertyName = "H_Id"
+        Me.DataGridViewTextBoxColumn11.FillWeight = 150.0!
+        Me.DataGridViewTextBoxColumn11.HeaderText = "رقم التخصص"
+        Me.DataGridViewTextBoxColumn11.Name = "DataGridViewTextBoxColumn11"
+        Me.DataGridViewTextBoxColumn11.ReadOnly = True
+        '
+        'DataGridViewTextBoxColumn12
+        '
+        Me.DataGridViewTextBoxColumn12.DataPropertyName = "H_type"
+        Me.DataGridViewTextBoxColumn12.HeaderText = "التخصص"
+        Me.DataGridViewTextBoxColumn12.Name = "DataGridViewTextBoxColumn12"
+        Me.DataGridViewTextBoxColumn12.ReadOnly = True
+        '
+        'Button51
+        '
+        Me.Button51.BackColor = System.Drawing.Color.White
+        Me.Button51.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button51.Location = New System.Drawing.Point(125, 284)
+        Me.Button51.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
+        Me.Button51.Name = "Button51"
+        Me.Button51.Size = New System.Drawing.Size(78, 33)
+        Me.Button51.TabIndex = 8
+        Me.Button51.Text = "تعديل"
+        Me.Button51.UseVisualStyleBackColor = False
+        '
+        'Button52
+        '
+        Me.Button52.BackColor = System.Drawing.Color.White
+        Me.Button52.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button52.Location = New System.Drawing.Point(43, 284)
+        Me.Button52.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
+        Me.Button52.Name = "Button52"
+        Me.Button52.Size = New System.Drawing.Size(72, 33)
+        Me.Button52.TabIndex = 7
+        Me.Button52.Text = "اضافة"
+        Me.Button52.UseVisualStyleBackColor = False
+        '
+        'GroupBox10
+        '
+        Me.GroupBox10.Controls.Add(Me.DataGridView12)
+        Me.GroupBox10.Controls.Add(Me.Button49)
+        Me.GroupBox10.Controls.Add(Me.Button50)
+        Me.GroupBox10.Location = New System.Drawing.Point(957, 369)
+        Me.GroupBox10.Name = "GroupBox10"
+        Me.GroupBox10.Size = New System.Drawing.Size(222, 323)
+        Me.GroupBox10.TabIndex = 14
+        Me.GroupBox10.TabStop = False
+        Me.GroupBox10.Text = "الدرجات"
+        '
+        'DataGridView12
+        '
+        Me.DataGridView12.AllowUserToAddRows = False
+        Me.DataGridView12.AllowUserToDeleteRows = False
+        Me.DataGridView12.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView12.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn9, Me.DataGridViewTextBoxColumn10})
+        Me.DataGridView12.Location = New System.Drawing.Point(5, 24)
+        Me.DataGridView12.Margin = New System.Windows.Forms.Padding(10)
+        Me.DataGridView12.Name = "DataGridView12"
+        Me.DataGridView12.ReadOnly = True
+        Me.DataGridView12.RightToLeft = System.Windows.Forms.RightToLeft.Yes
+        Me.DataGridView12.RowHeadersVisible = False
+        Me.DataGridView12.Size = New System.Drawing.Size(203, 241)
+        Me.DataGridView12.TabIndex = 10
+        '
+        'DataGridViewTextBoxColumn9
+        '
+        Me.DataGridViewTextBoxColumn9.DataPropertyName = "H_Id"
+        Me.DataGridViewTextBoxColumn9.FillWeight = 150.0!
+        Me.DataGridViewTextBoxColumn9.HeaderText = "رقم الدرجة"
+        Me.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9"
+        Me.DataGridViewTextBoxColumn9.ReadOnly = True
+        '
+        'DataGridViewTextBoxColumn10
+        '
+        Me.DataGridViewTextBoxColumn10.DataPropertyName = "H_type"
+        Me.DataGridViewTextBoxColumn10.HeaderText = "الدرجة"
+        Me.DataGridViewTextBoxColumn10.Name = "DataGridViewTextBoxColumn10"
+        Me.DataGridViewTextBoxColumn10.ReadOnly = True
+        '
+        'Button49
+        '
+        Me.Button49.BackColor = System.Drawing.Color.White
+        Me.Button49.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button49.Location = New System.Drawing.Point(130, 281)
+        Me.Button49.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
+        Me.Button49.Name = "Button49"
+        Me.Button49.Size = New System.Drawing.Size(78, 33)
+        Me.Button49.TabIndex = 8
+        Me.Button49.Text = "تعديل"
+        Me.Button49.UseVisualStyleBackColor = False
+        '
+        'Button50
+        '
+        Me.Button50.BackColor = System.Drawing.Color.White
+        Me.Button50.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button50.Location = New System.Drawing.Point(30, 281)
+        Me.Button50.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
+        Me.Button50.Name = "Button50"
+        Me.Button50.Size = New System.Drawing.Size(72, 33)
+        Me.Button50.TabIndex = 7
+        Me.Button50.Text = "اضافة"
+        Me.Button50.UseVisualStyleBackColor = False
+        '
+        'GroupBox9
+        '
+        Me.GroupBox9.Controls.Add(Me.DataGridView11)
+        Me.GroupBox9.Controls.Add(Me.Button47)
+        Me.GroupBox9.Controls.Add(Me.Button48)
+        Me.GroupBox9.Location = New System.Drawing.Point(18, 6)
+        Me.GroupBox9.Name = "GroupBox9"
+        Me.GroupBox9.Size = New System.Drawing.Size(222, 357)
+        Me.GroupBox9.TabIndex = 13
+        Me.GroupBox9.TabStop = False
+        Me.GroupBox9.Text = "المستوي الوظيفي"
+        '
+        'DataGridView11
+        '
+        Me.DataGridView11.AllowUserToAddRows = False
+        Me.DataGridView11.AllowUserToDeleteRows = False
+        Me.DataGridView11.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView11.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn7, Me.DataGridViewTextBoxColumn8})
+        Me.DataGridView11.Location = New System.Drawing.Point(6, 30)
+        Me.DataGridView11.Margin = New System.Windows.Forms.Padding(10)
+        Me.DataGridView11.Name = "DataGridView11"
+        Me.DataGridView11.ReadOnly = True
+        Me.DataGridView11.RightToLeft = System.Windows.Forms.RightToLeft.Yes
+        Me.DataGridView11.RowHeadersVisible = False
+        Me.DataGridView11.Size = New System.Drawing.Size(203, 276)
+        Me.DataGridView11.TabIndex = 10
+        '
+        'DataGridViewTextBoxColumn7
+        '
+        Me.DataGridViewTextBoxColumn7.DataPropertyName = "H_Id"
+        Me.DataGridViewTextBoxColumn7.FillWeight = 150.0!
+        Me.DataGridViewTextBoxColumn7.HeaderText = "رقم المستوي الوظيفي"
+        Me.DataGridViewTextBoxColumn7.Name = "DataGridViewTextBoxColumn7"
+        Me.DataGridViewTextBoxColumn7.ReadOnly = True
+        '
+        'DataGridViewTextBoxColumn8
+        '
+        Me.DataGridViewTextBoxColumn8.DataPropertyName = "H_type"
+        Me.DataGridViewTextBoxColumn8.HeaderText = "المستوي الوظيفي"
+        Me.DataGridViewTextBoxColumn8.Name = "DataGridViewTextBoxColumn8"
+        Me.DataGridViewTextBoxColumn8.ReadOnly = True
+        '
+        'Button47
+        '
+        Me.Button47.BackColor = System.Drawing.Color.White
+        Me.Button47.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button47.Location = New System.Drawing.Point(108, 322)
+        Me.Button47.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
+        Me.Button47.Name = "Button47"
+        Me.Button47.Size = New System.Drawing.Size(78, 33)
+        Me.Button47.TabIndex = 8
+        Me.Button47.Text = "تعديل"
+        Me.Button47.UseVisualStyleBackColor = False
+        '
+        'Button48
+        '
+        Me.Button48.BackColor = System.Drawing.Color.White
+        Me.Button48.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button48.Location = New System.Drawing.Point(26, 322)
+        Me.Button48.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
+        Me.Button48.Name = "Button48"
+        Me.Button48.Size = New System.Drawing.Size(72, 33)
+        Me.Button48.TabIndex = 7
+        Me.Button48.Text = "اضافة"
+        Me.Button48.UseVisualStyleBackColor = False
+        '
+        'GroupBox8
+        '
+        Me.GroupBox8.Controls.Add(Me.DataGridView10)
+        Me.GroupBox8.Controls.Add(Me.Button45)
+        Me.GroupBox8.Controls.Add(Me.Button46)
+        Me.GroupBox8.Location = New System.Drawing.Point(247, 6)
+        Me.GroupBox8.Name = "GroupBox8"
+        Me.GroupBox8.Size = New System.Drawing.Size(222, 380)
+        Me.GroupBox8.TabIndex = 12
+        Me.GroupBox8.TabStop = False
+        Me.GroupBox8.Text = "الوظائف"
+        '
+        'DataGridView10
+        '
+        Me.DataGridView10.AllowUserToAddRows = False
+        Me.DataGridView10.AllowUserToDeleteRows = False
+        Me.DataGridView10.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView10.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn5, Me.DataGridViewTextBoxColumn6})
+        Me.DataGridView10.Location = New System.Drawing.Point(6, 30)
+        Me.DataGridView10.Margin = New System.Windows.Forms.Padding(10)
+        Me.DataGridView10.Name = "DataGridView10"
+        Me.DataGridView10.ReadOnly = True
+        Me.DataGridView10.RightToLeft = System.Windows.Forms.RightToLeft.Yes
+        Me.DataGridView10.RowHeadersVisible = False
+        Me.DataGridView10.Size = New System.Drawing.Size(203, 278)
+        Me.DataGridView10.TabIndex = 10
+        '
+        'DataGridViewTextBoxColumn5
+        '
+        Me.DataGridViewTextBoxColumn5.DataPropertyName = "H_Id"
+        Me.DataGridViewTextBoxColumn5.FillWeight = 150.0!
+        Me.DataGridViewTextBoxColumn5.HeaderText = "رقم الوظيفة"
+        Me.DataGridViewTextBoxColumn5.Name = "DataGridViewTextBoxColumn5"
+        Me.DataGridViewTextBoxColumn5.ReadOnly = True
+        '
+        'DataGridViewTextBoxColumn6
+        '
+        Me.DataGridViewTextBoxColumn6.DataPropertyName = "H_type"
+        Me.DataGridViewTextBoxColumn6.HeaderText = "اسم الوظيفة"
+        Me.DataGridViewTextBoxColumn6.Name = "DataGridViewTextBoxColumn6"
+        Me.DataGridViewTextBoxColumn6.ReadOnly = True
+        '
+        'Button45
+        '
+        Me.Button45.BackColor = System.Drawing.Color.White
+        Me.Button45.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button45.Location = New System.Drawing.Point(133, 324)
+        Me.Button45.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
+        Me.Button45.Name = "Button45"
+        Me.Button45.Size = New System.Drawing.Size(78, 33)
+        Me.Button45.TabIndex = 8
+        Me.Button45.Text = "تعديل"
+        Me.Button45.UseVisualStyleBackColor = False
+        '
+        'Button46
+        '
+        Me.Button46.BackColor = System.Drawing.Color.White
+        Me.Button46.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button46.Location = New System.Drawing.Point(33, 324)
+        Me.Button46.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
+        Me.Button46.Name = "Button46"
+        Me.Button46.Size = New System.Drawing.Size(72, 33)
+        Me.Button46.TabIndex = 7
+        Me.Button46.Text = "اضافة"
+        Me.Button46.UseVisualStyleBackColor = False
         '
         'GroupBox7
         '
@@ -840,10 +1104,10 @@ Partial Class Home
         'TabPage5
         '
         Me.TabPage5.Controls.Add(Me.TabControl5)
-        Me.TabPage5.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage5.Location = New System.Drawing.Point(4, 26)
         Me.TabPage5.Name = "TabPage5"
         Me.TabPage5.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage5.Size = New System.Drawing.Size(1199, 737)
+        Me.TabPage5.Size = New System.Drawing.Size(1199, 740)
         Me.TabPage5.TabIndex = 4
         Me.TabPage5.Text = "الدورات"
         Me.TabPage5.UseVisualStyleBackColor = True
@@ -866,12 +1130,12 @@ Partial Class Home
         Me.TabPage13.Controls.Add(Me.Button26)
         Me.TabPage13.Controls.Add(Me.Button27)
         Me.TabPage13.Controls.Add(Me.Label91)
-        Me.TabPage13.Controls.Add(Me.TextBox31)
+        Me.TabPage13.Controls.Add(Me.txt_C)
         Me.TabPage13.Controls.Add(Me.DataGridView6)
-        Me.TabPage13.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage13.Location = New System.Drawing.Point(4, 26)
         Me.TabPage13.Name = "TabPage13"
         Me.TabPage13.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage13.Size = New System.Drawing.Size(1182, 689)
+        Me.TabPage13.Size = New System.Drawing.Size(1182, 692)
         Me.TabPage13.TabIndex = 0
         Me.TabPage13.Text = "الدورات"
         Me.TabPage13.UseVisualStyleBackColor = True
@@ -912,7 +1176,7 @@ Partial Class Home
         Me.TextBox34.Location = New System.Drawing.Point(157, 71)
         Me.TextBox34.Name = "TextBox34"
         Me.TextBox34.ReadOnly = True
-        Me.TextBox34.Size = New System.Drawing.Size(167, 34)
+        Me.TextBox34.Size = New System.Drawing.Size(167, 29)
         Me.TextBox34.TabIndex = 19
         '
         'Label96
@@ -921,7 +1185,7 @@ Partial Class Home
         Me.Label96.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label96.Location = New System.Drawing.Point(330, 74)
         Me.Label96.Name = "Label96"
-        Me.Label96.Size = New System.Drawing.Size(92, 26)
+        Me.Label96.Size = New System.Drawing.Size(76, 22)
         Me.Label96.TabIndex = 18
         Me.Label96.Text = "مدة الدورة"
         '
@@ -931,7 +1195,7 @@ Partial Class Home
         Me.Label93.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label93.Location = New System.Drawing.Point(658, 74)
         Me.Label93.Name = "Label93"
-        Me.Label93.Size = New System.Drawing.Size(120, 26)
+        Me.Label93.Size = New System.Drawing.Size(93, 22)
         Me.Label93.TabIndex = 17
         Me.Label93.Text = "تاريخ الانتهاء"
         '
@@ -940,7 +1204,7 @@ Partial Class Home
         Me.DateTimePicker14.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DateTimePicker14.Location = New System.Drawing.Point(452, 67)
         Me.DateTimePicker14.Name = "DateTimePicker14"
-        Me.DateTimePicker14.Size = New System.Drawing.Size(200, 34)
+        Me.DateTimePicker14.Size = New System.Drawing.Size(200, 29)
         Me.DateTimePicker14.TabIndex = 16
         '
         'TextBox33
@@ -948,7 +1212,7 @@ Partial Class Home
         Me.TextBox33.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox33.Location = New System.Drawing.Point(157, 9)
         Me.TextBox33.Name = "TextBox33"
-        Me.TextBox33.Size = New System.Drawing.Size(349, 34)
+        Me.TextBox33.Size = New System.Drawing.Size(349, 29)
         Me.TextBox33.TabIndex = 15
         '
         'Label95
@@ -957,7 +1221,7 @@ Partial Class Home
         Me.Label95.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label95.Location = New System.Drawing.Point(512, 12)
         Me.Label95.Name = "Label95"
-        Me.Label95.Size = New System.Drawing.Size(102, 26)
+        Me.Label95.Size = New System.Drawing.Size(81, 22)
         Me.Label95.TabIndex = 14
         Me.Label95.Text = "اسم المدرب"
         '
@@ -967,7 +1231,7 @@ Partial Class Home
         Me.Label92.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label92.Location = New System.Drawing.Point(1014, 74)
         Me.Label92.Name = "Label92"
-        Me.Label92.Size = New System.Drawing.Size(116, 26)
+        Me.Label92.Size = New System.Drawing.Size(90, 22)
         Me.Label92.TabIndex = 13
         Me.Label92.Text = "تاريخ الانعقاد"
         '
@@ -976,7 +1240,7 @@ Partial Class Home
         Me.DateTimePicker13.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DateTimePicker13.Location = New System.Drawing.Point(806, 67)
         Me.DateTimePicker13.Name = "DateTimePicker13"
-        Me.DateTimePicker13.Size = New System.Drawing.Size(200, 34)
+        Me.DateTimePicker13.Size = New System.Drawing.Size(200, 29)
         Me.DateTimePicker13.TabIndex = 12
         '
         'Button24
@@ -1004,7 +1268,7 @@ Partial Class Home
         Me.TextBox32.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox32.Location = New System.Drawing.Point(679, 14)
         Me.TextBox32.Name = "TextBox32"
-        Me.TextBox32.Size = New System.Drawing.Size(349, 34)
+        Me.TextBox32.Size = New System.Drawing.Size(349, 29)
         Me.TextBox32.TabIndex = 1
         '
         'Label94
@@ -1013,7 +1277,7 @@ Partial Class Home
         Me.Label94.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label94.Location = New System.Drawing.Point(1034, 17)
         Me.Label94.Name = "Label94"
-        Me.Label94.Size = New System.Drawing.Size(95, 26)
+        Me.Label94.Size = New System.Drawing.Size(77, 22)
         Me.Label94.TabIndex = 0
         Me.Label94.Text = "اسم الدورة"
         '
@@ -1045,13 +1309,13 @@ Partial Class Home
         Me.Label91.Text = "بحث :"
         Me.Label91.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'TextBox31
+        'txt_C
         '
-        Me.TextBox31.Location = New System.Drawing.Point(353, 6)
-        Me.TextBox31.Name = "TextBox31"
-        Me.TextBox31.Size = New System.Drawing.Size(395, 28)
-        Me.TextBox31.TabIndex = 7
-        Me.TextBox31.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txt_C.Location = New System.Drawing.Point(353, 6)
+        Me.txt_C.Name = "txt_C"
+        Me.txt_C.Size = New System.Drawing.Size(395, 24)
+        Me.txt_C.TabIndex = 7
+        Me.txt_C.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'DataGridView6
         '
@@ -1069,12 +1333,12 @@ Partial Class Home
         Me.TabPage14.Controls.Add(Me.Button31)
         Me.TabPage14.Controls.Add(Me.Button32)
         Me.TabPage14.Controls.Add(Me.Label97)
-        Me.TabPage14.Controls.Add(Me.TextBox35)
+        Me.TabPage14.Controls.Add(Me.txt_T)
         Me.TabPage14.Controls.Add(Me.DataGridView7)
-        Me.TabPage14.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage14.Location = New System.Drawing.Point(4, 26)
         Me.TabPage14.Name = "TabPage14"
         Me.TabPage14.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage14.Size = New System.Drawing.Size(1182, 689)
+        Me.TabPage14.Size = New System.Drawing.Size(1182, 692)
         Me.TabPage14.TabIndex = 1
         Me.TabPage14.Text = "المتدربون"
         Me.TabPage14.UseVisualStyleBackColor = True
@@ -1109,7 +1373,7 @@ Partial Class Home
         Me.TextBox37.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox37.Location = New System.Drawing.Point(102, 22)
         Me.TextBox37.Name = "TextBox37"
-        Me.TextBox37.Size = New System.Drawing.Size(389, 34)
+        Me.TextBox37.Size = New System.Drawing.Size(389, 29)
         Me.TextBox37.TabIndex = 15
         '
         'Label101
@@ -1118,7 +1382,7 @@ Partial Class Home
         Me.Label101.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label101.Location = New System.Drawing.Point(497, 25)
         Me.Label101.Name = "Label101"
-        Me.Label101.Size = New System.Drawing.Size(110, 26)
+        Me.Label101.Size = New System.Drawing.Size(87, 22)
         Me.Label101.TabIndex = 14
         Me.Label101.Text = "اسم الموظف"
         '
@@ -1128,7 +1392,7 @@ Partial Class Home
         Me.Label99.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label99.Location = New System.Drawing.Point(646, 84)
         Me.Label99.Name = "Label99"
-        Me.Label99.Size = New System.Drawing.Size(95, 26)
+        Me.Label99.Size = New System.Drawing.Size(77, 22)
         Me.Label99.TabIndex = 11
         Me.Label99.Text = "اسم الدورة"
         '
@@ -1138,7 +1402,7 @@ Partial Class Home
         Me.ComboBox24.FormattingEnabled = True
         Me.ComboBox24.Location = New System.Drawing.Point(461, 81)
         Me.ComboBox24.Name = "ComboBox24"
-        Me.ComboBox24.Size = New System.Drawing.Size(179, 33)
+        Me.ComboBox24.Size = New System.Drawing.Size(179, 28)
         Me.ComboBox24.TabIndex = 10
         '
         'Button29
@@ -1166,7 +1430,7 @@ Partial Class Home
         Me.TextBox36.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox36.Location = New System.Drawing.Point(642, 22)
         Me.TextBox36.Name = "TextBox36"
-        Me.TextBox36.Size = New System.Drawing.Size(215, 34)
+        Me.TextBox36.Size = New System.Drawing.Size(215, 29)
         Me.TextBox36.TabIndex = 1
         '
         'Label100
@@ -1175,7 +1439,7 @@ Partial Class Home
         Me.Label100.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label100.Location = New System.Drawing.Point(863, 25)
         Me.Label100.Name = "Label100"
-        Me.Label100.Size = New System.Drawing.Size(107, 26)
+        Me.Label100.Size = New System.Drawing.Size(85, 22)
         Me.Label100.TabIndex = 0
         Me.Label100.Text = "رقم الموظف"
         '
@@ -1207,13 +1471,13 @@ Partial Class Home
         Me.Label97.Text = "بحث :"
         Me.Label97.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'TextBox35
+        'txt_T
         '
-        Me.TextBox35.Location = New System.Drawing.Point(356, 18)
-        Me.TextBox35.Name = "TextBox35"
-        Me.TextBox35.Size = New System.Drawing.Size(395, 28)
-        Me.TextBox35.TabIndex = 10
-        Me.TextBox35.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txt_T.Location = New System.Drawing.Point(356, 18)
+        Me.txt_T.Name = "txt_T"
+        Me.txt_T.Size = New System.Drawing.Size(395, 24)
+        Me.txt_T.TabIndex = 10
+        Me.txt_T.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'DataGridView7
         '
@@ -1227,10 +1491,10 @@ Partial Class Home
         'TabPage3
         '
         Me.TabPage3.Controls.Add(Me.TabControl4)
-        Me.TabPage3.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage3.Location = New System.Drawing.Point(4, 26)
         Me.TabPage3.Name = "TabPage3"
         Me.TabPage3.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage3.Size = New System.Drawing.Size(1199, 737)
+        Me.TabPage3.Size = New System.Drawing.Size(1199, 740)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "الادارات والاقسام"
         Me.TabPage3.UseVisualStyleBackColor = True
@@ -1253,12 +1517,12 @@ Partial Class Home
         Me.TabPage1.Controls.Add(Me.Button14)
         Me.TabPage1.Controls.Add(Me.Button13)
         Me.TabPage1.Controls.Add(Me.Label85)
-        Me.TabPage1.Controls.Add(Me.TextBox27)
+        Me.TabPage1.Controls.Add(Me.txt_mang)
         Me.TabPage1.Controls.Add(Me.DataGridView4)
-        Me.TabPage1.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage1.Location = New System.Drawing.Point(4, 26)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage1.Size = New System.Drawing.Size(1179, 695)
+        Me.TabPage1.Size = New System.Drawing.Size(1179, 698)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "الادارات"
         Me.TabPage1.UseVisualStyleBackColor = True
@@ -1307,7 +1571,7 @@ Partial Class Home
         Me.TextBox28.Font = New System.Drawing.Font("Times New Roman", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox28.Location = New System.Drawing.Point(260, 60)
         Me.TextBox28.Name = "TextBox28"
-        Me.TextBox28.Size = New System.Drawing.Size(349, 39)
+        Me.TextBox28.Size = New System.Drawing.Size(349, 32)
         Me.TextBox28.TabIndex = 1
         '
         'Label86
@@ -1316,7 +1580,7 @@ Partial Class Home
         Me.Label86.Font = New System.Drawing.Font("Times New Roman", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label86.Location = New System.Drawing.Point(615, 63)
         Me.Label86.Name = "Label86"
-        Me.Label86.Size = New System.Drawing.Size(113, 32)
+        Me.Label86.Size = New System.Drawing.Size(91, 25)
         Me.Label86.TabIndex = 0
         Me.Label86.Text = "اسم الادارة"
         '
@@ -1348,13 +1612,13 @@ Partial Class Home
         Me.Label85.Text = "بحث :"
         Me.Label85.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'TextBox27
+        'txt_mang
         '
-        Me.TextBox27.Location = New System.Drawing.Point(373, 6)
-        Me.TextBox27.Name = "TextBox27"
-        Me.TextBox27.Size = New System.Drawing.Size(395, 28)
-        Me.TextBox27.TabIndex = 4
-        Me.TextBox27.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txt_mang.Location = New System.Drawing.Point(373, 6)
+        Me.txt_mang.Name = "txt_mang"
+        Me.txt_mang.Size = New System.Drawing.Size(395, 24)
+        Me.txt_mang.TabIndex = 4
+        Me.txt_mang.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'DataGridView4
         '
@@ -1372,12 +1636,12 @@ Partial Class Home
         Me.TabPage4.Controls.Add(Me.Button21)
         Me.TabPage4.Controls.Add(Me.Button22)
         Me.TabPage4.Controls.Add(Me.Label88)
-        Me.TabPage4.Controls.Add(Me.TextBox30)
+        Me.TabPage4.Controls.Add(Me.txt_dep)
         Me.TabPage4.Controls.Add(Me.DataGridView5)
-        Me.TabPage4.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage4.Location = New System.Drawing.Point(4, 26)
         Me.TabPage4.Name = "TabPage4"
         Me.TabPage4.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage4.Size = New System.Drawing.Size(1179, 695)
+        Me.TabPage4.Size = New System.Drawing.Size(1179, 698)
         Me.TabPage4.TabIndex = 1
         Me.TabPage4.Text = "الاقسام"
         Me.TabPage4.UseVisualStyleBackColor = True
@@ -1413,7 +1677,7 @@ Partial Class Home
         Me.Label90.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label90.Location = New System.Drawing.Point(354, 17)
         Me.Label90.Name = "Label90"
-        Me.Label90.Size = New System.Drawing.Size(154, 26)
+        Me.Label90.Size = New System.Drawing.Size(120, 22)
         Me.Label90.TabIndex = 13
         Me.Label90.Text = "تاريخ انشاء القسم"
         '
@@ -1422,7 +1686,7 @@ Partial Class Home
         Me.DateTimePicker12.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DateTimePicker12.Location = New System.Drawing.Point(148, 10)
         Me.DateTimePicker12.Name = "DateTimePicker12"
-        Me.DateTimePicker12.Size = New System.Drawing.Size(200, 34)
+        Me.DateTimePicker12.Size = New System.Drawing.Size(200, 29)
         Me.DateTimePicker12.TabIndex = 12
         '
         'Label89
@@ -1431,7 +1695,7 @@ Partial Class Home
         Me.Label89.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label89.Location = New System.Drawing.Point(643, 82)
         Me.Label89.Name = "Label89"
-        Me.Label89.Size = New System.Drawing.Size(137, 26)
+        Me.Label89.Size = New System.Drawing.Size(107, 22)
         Me.Label89.TabIndex = 11
         Me.Label89.Text = "الادارة التابع لها"
         '
@@ -1441,7 +1705,7 @@ Partial Class Home
         Me.ComboBox23.FormattingEnabled = True
         Me.ComboBox23.Location = New System.Drawing.Point(458, 79)
         Me.ComboBox23.Name = "ComboBox23"
-        Me.ComboBox23.Size = New System.Drawing.Size(179, 33)
+        Me.ComboBox23.Size = New System.Drawing.Size(179, 28)
         Me.ComboBox23.TabIndex = 10
         '
         'Button19
@@ -1469,7 +1733,7 @@ Partial Class Home
         Me.TextBox29.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox29.Location = New System.Drawing.Point(679, 14)
         Me.TextBox29.Name = "TextBox29"
-        Me.TextBox29.Size = New System.Drawing.Size(349, 34)
+        Me.TextBox29.Size = New System.Drawing.Size(349, 29)
         Me.TextBox29.TabIndex = 1
         '
         'Label87
@@ -1478,7 +1742,7 @@ Partial Class Home
         Me.Label87.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label87.Location = New System.Drawing.Point(1034, 17)
         Me.Label87.Name = "Label87"
-        Me.Label87.Size = New System.Drawing.Size(90, 26)
+        Me.Label87.Size = New System.Drawing.Size(71, 22)
         Me.Label87.TabIndex = 0
         Me.Label87.Text = "اسم القسم"
         '
@@ -1510,13 +1774,13 @@ Partial Class Home
         Me.Label88.Text = "بحث :"
         Me.Label88.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'TextBox30
+        'txt_dep
         '
-        Me.TextBox30.Location = New System.Drawing.Point(372, 15)
-        Me.TextBox30.Name = "TextBox30"
-        Me.TextBox30.Size = New System.Drawing.Size(395, 28)
-        Me.TextBox30.TabIndex = 11
-        Me.TextBox30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txt_dep.Location = New System.Drawing.Point(372, 15)
+        Me.txt_dep.Name = "txt_dep"
+        Me.txt_dep.Size = New System.Drawing.Size(395, 24)
+        Me.txt_dep.TabIndex = 11
+        Me.txt_dep.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'DataGridView5
         '
@@ -1530,10 +1794,10 @@ Partial Class Home
         'TabPage2
         '
         Me.TabPage2.Controls.Add(Me.TabControl3)
-        Me.TabPage2.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage2.Location = New System.Drawing.Point(4, 26)
         Me.TabPage2.Name = "TabPage2"
         Me.TabPage2.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage2.Size = New System.Drawing.Size(1199, 737)
+        Me.TabPage2.Size = New System.Drawing.Size(1199, 740)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "الاجازات"
         Me.TabPage2.UseVisualStyleBackColor = True
@@ -1554,10 +1818,10 @@ Partial Class Home
         '
         Me.TabPage10.Controls.Add(Me.GroupBox1)
         Me.TabPage10.Controls.Add(Me.GroupBox2)
-        Me.TabPage10.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage10.Location = New System.Drawing.Point(4, 26)
         Me.TabPage10.Name = "TabPage10"
         Me.TabPage10.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage10.Size = New System.Drawing.Size(1182, 695)
+        Me.TabPage10.Size = New System.Drawing.Size(1182, 698)
         Me.TabPage10.TabIndex = 0
         Me.TabPage10.Text = "طلب اجازة لموظف"
         Me.TabPage10.UseVisualStyleBackColor = True
@@ -1565,14 +1829,14 @@ Partial Class Home
         'GroupBox1
         '
         Me.GroupBox1.BackColor = System.Drawing.Color.Gainsboro
-        Me.GroupBox1.Controls.Add(Me.TextBox5)
+        Me.GroupBox1.Controls.Add(Me.Emp_name_A)
         Me.GroupBox1.Controls.Add(Me.Label11)
         Me.GroupBox1.Controls.Add(Me.Label10)
         Me.GroupBox1.Controls.Add(Me.Label9)
         Me.GroupBox1.Controls.Add(Me.Label3)
-        Me.GroupBox1.Controls.Add(Me.TextBox4)
-        Me.GroupBox1.Controls.Add(Me.TextBox2)
-        Me.GroupBox1.Controls.Add(Me.TextBox3)
+        Me.GroupBox1.Controls.Add(Me.Emp_id_A)
+        Me.GroupBox1.Controls.Add(Me.Day_Emergency_A)
+        Me.GroupBox1.Controls.Add(Me.Day_Annual_A)
         Me.GroupBox1.Location = New System.Drawing.Point(40, 8)
         Me.GroupBox1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.GroupBox1.Name = "GroupBox1"
@@ -1583,15 +1847,15 @@ Partial Class Home
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "بيانات الموظف :"
         '
-        'TextBox5
+        'Emp_name_A
         '
-        Me.TextBox5.BackColor = System.Drawing.Color.White
-        Me.TextBox5.Location = New System.Drawing.Point(234, 46)
-        Me.TextBox5.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.ReadOnly = True
-        Me.TextBox5.Size = New System.Drawing.Size(346, 28)
-        Me.TextBox5.TabIndex = 30
+        Me.Emp_name_A.BackColor = System.Drawing.Color.White
+        Me.Emp_name_A.Location = New System.Drawing.Point(234, 46)
+        Me.Emp_name_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Emp_name_A.Name = "Emp_name_A"
+        Me.Emp_name_A.ReadOnly = True
+        Me.Emp_name_A.Size = New System.Drawing.Size(346, 24)
+        Me.Emp_name_A.TabIndex = 30
         '
         'Label11
         '
@@ -1599,7 +1863,7 @@ Partial Class Home
         Me.Label11.Location = New System.Drawing.Point(588, 48)
         Me.Label11.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(97, 22)
+        Me.Label11.Size = New System.Drawing.Size(79, 17)
         Me.Label11.TabIndex = 29
         Me.Label11.Text = "اسم الموظف :"
         '
@@ -1609,7 +1873,7 @@ Partial Class Home
         Me.Label10.Location = New System.Drawing.Point(868, 48)
         Me.Label10.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(95, 22)
+        Me.Label10.Size = New System.Drawing.Size(77, 17)
         Me.Label10.TabIndex = 7
         Me.Label10.Text = "رقم الموظف :"
         '
@@ -1619,7 +1883,7 @@ Partial Class Home
         Me.Label9.Location = New System.Drawing.Point(828, 96)
         Me.Label9.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(139, 22)
+        Me.Label9.Size = New System.Drawing.Size(114, 17)
         Me.Label9.TabIndex = 8
         Me.Label9.Text = "ايام الاجازة السنوية :"
         '
@@ -1629,47 +1893,47 @@ Partial Class Home
         Me.Label3.Location = New System.Drawing.Point(553, 96)
         Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(135, 22)
+        Me.Label3.Size = New System.Drawing.Size(112, 17)
         Me.Label3.TabIndex = 9
         Me.Label3.Text = "ايام الاجازة الطارئة :"
         '
-        'TextBox4
+        'Emp_id_A
         '
-        Me.TextBox4.Location = New System.Drawing.Point(688, 46)
-        Me.TextBox4.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(134, 28)
-        Me.TextBox4.TabIndex = 14
+        Me.Emp_id_A.Location = New System.Drawing.Point(688, 46)
+        Me.Emp_id_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Emp_id_A.Name = "Emp_id_A"
+        Me.Emp_id_A.Size = New System.Drawing.Size(134, 24)
+        Me.Emp_id_A.TabIndex = 14
         '
-        'TextBox2
+        'Day_Emergency_A
         '
-        Me.TextBox2.BackColor = System.Drawing.Color.White
-        Me.TextBox2.Location = New System.Drawing.Point(421, 92)
-        Me.TextBox2.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.ReadOnly = True
-        Me.TextBox2.Size = New System.Drawing.Size(134, 28)
-        Me.TextBox2.TabIndex = 15
+        Me.Day_Emergency_A.BackColor = System.Drawing.Color.White
+        Me.Day_Emergency_A.Location = New System.Drawing.Point(421, 92)
+        Me.Day_Emergency_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Day_Emergency_A.Name = "Day_Emergency_A"
+        Me.Day_Emergency_A.ReadOnly = True
+        Me.Day_Emergency_A.Size = New System.Drawing.Size(134, 24)
+        Me.Day_Emergency_A.TabIndex = 15
         '
-        'TextBox3
+        'Day_Annual_A
         '
-        Me.TextBox3.BackColor = System.Drawing.Color.White
-        Me.TextBox3.Location = New System.Drawing.Point(688, 92)
-        Me.TextBox3.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.ReadOnly = True
-        Me.TextBox3.Size = New System.Drawing.Size(134, 28)
-        Me.TextBox3.TabIndex = 15
+        Me.Day_Annual_A.BackColor = System.Drawing.Color.White
+        Me.Day_Annual_A.Location = New System.Drawing.Point(688, 92)
+        Me.Day_Annual_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Day_Annual_A.Name = "Day_Annual_A"
+        Me.Day_Annual_A.ReadOnly = True
+        Me.Day_Annual_A.Size = New System.Drawing.Size(134, 24)
+        Me.Day_Annual_A.TabIndex = 15
         '
         'GroupBox2
         '
         Me.GroupBox2.BackColor = System.Drawing.Color.Gainsboro
         Me.GroupBox2.Controls.Add(Me.Label8)
-        Me.GroupBox2.Controls.Add(Me.ComboBox1)
+        Me.GroupBox2.Controls.Add(Me.H_type_A)
         Me.GroupBox2.Controls.Add(Me.Button1)
-        Me.GroupBox2.Controls.Add(Me.DateTimePicker2)
+        Me.GroupBox2.Controls.Add(Me.H_end_A)
         Me.GroupBox2.Controls.Add(Me.Button4)
-        Me.GroupBox2.Controls.Add(Me.DateTimePicker1)
+        Me.GroupBox2.Controls.Add(Me.H_start_A)
         Me.GroupBox2.Controls.Add(Me.Label6)
         Me.GroupBox2.Controls.Add(Me.Label4)
         Me.GroupBox2.Controls.Add(Me.Label5)
@@ -1690,17 +1954,17 @@ Partial Class Home
         Me.Label8.Location = New System.Drawing.Point(578, 139)
         Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(0, 22)
+        Me.Label8.Size = New System.Drawing.Size(0, 17)
         Me.Label8.TabIndex = 29
         '
-        'ComboBox1
+        'H_type_A
         '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Location = New System.Drawing.Point(424, 28)
-        Me.ComboBox1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(170, 28)
-        Me.ComboBox1.TabIndex = 28
+        Me.H_type_A.FormattingEnabled = True
+        Me.H_type_A.Location = New System.Drawing.Point(424, 28)
+        Me.H_type_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_type_A.Name = "H_type_A"
+        Me.H_type_A.Size = New System.Drawing.Size(170, 25)
+        Me.H_type_A.TabIndex = 28
         '
         'Button1
         '
@@ -1713,13 +1977,13 @@ Partial Class Home
         Me.Button1.Text = "حفظ"
         Me.Button1.UseVisualStyleBackColor = False
         '
-        'DateTimePicker2
+        'H_end_A
         '
-        Me.DateTimePicker2.Location = New System.Drawing.Point(257, 80)
-        Me.DateTimePicker2.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.DateTimePicker2.Name = "DateTimePicker2"
-        Me.DateTimePicker2.Size = New System.Drawing.Size(172, 28)
-        Me.DateTimePicker2.TabIndex = 27
+        Me.H_end_A.Location = New System.Drawing.Point(257, 80)
+        Me.H_end_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_end_A.Name = "H_end_A"
+        Me.H_end_A.Size = New System.Drawing.Size(172, 24)
+        Me.H_end_A.TabIndex = 27
         '
         'Button4
         '
@@ -1732,13 +1996,13 @@ Partial Class Home
         Me.Button4.Text = "الغاء الامر"
         Me.Button4.UseVisualStyleBackColor = False
         '
-        'DateTimePicker1
+        'H_start_A
         '
-        Me.DateTimePicker1.Location = New System.Drawing.Point(588, 80)
-        Me.DateTimePicker1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.DateTimePicker1.Name = "DateTimePicker1"
-        Me.DateTimePicker1.Size = New System.Drawing.Size(188, 28)
-        Me.DateTimePicker1.TabIndex = 26
+        Me.H_start_A.Location = New System.Drawing.Point(588, 80)
+        Me.H_start_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_start_A.Name = "H_start_A"
+        Me.H_start_A.Size = New System.Drawing.Size(188, 24)
+        Me.H_start_A.TabIndex = 26
         '
         'Label6
         '
@@ -1746,7 +2010,7 @@ Partial Class Home
         Me.Label6.Location = New System.Drawing.Point(605, 31)
         Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(91, 22)
+        Me.Label6.Size = New System.Drawing.Size(74, 17)
         Me.Label6.TabIndex = 25
         Me.Label6.Text = "نوع الاجازة :"
         '
@@ -1756,7 +2020,7 @@ Partial Class Home
         Me.Label4.Location = New System.Drawing.Point(436, 85)
         Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(120, 22)
+        Me.Label4.Size = New System.Drawing.Size(99, 17)
         Me.Label4.TabIndex = 21
         Me.Label4.Text = "ت/انتهاء الاجازة :"
         '
@@ -1766,7 +2030,7 @@ Partial Class Home
         Me.Label5.Location = New System.Drawing.Point(783, 85)
         Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(113, 22)
+        Me.Label5.Size = New System.Drawing.Size(92, 17)
         Me.Label5.TabIndex = 20
         Me.Label5.Text = "ت/بداية الاجازة :"
         '
@@ -1776,7 +2040,7 @@ Partial Class Home
         Me.Label7.Location = New System.Drawing.Point(607, 139)
         Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(89, 22)
+        Me.Label7.Size = New System.Drawing.Size(73, 17)
         Me.Label7.TabIndex = 12
         Me.Label7.Text = "المدة بالايام :"
         '
@@ -1784,10 +2048,10 @@ Partial Class Home
         '
         Me.TabPage11.Controls.Add(Me.GroupBox3)
         Me.TabPage11.Controls.Add(Me.GroupBox4)
-        Me.TabPage11.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage11.Location = New System.Drawing.Point(4, 26)
         Me.TabPage11.Name = "TabPage11"
         Me.TabPage11.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage11.Size = New System.Drawing.Size(1182, 695)
+        Me.TabPage11.Size = New System.Drawing.Size(1182, 698)
         Me.TabPage11.TabIndex = 1
         Me.TabPage11.Text = "تعديل اجازة موظف"
         Me.TabPage11.UseVisualStyleBackColor = True
@@ -1795,14 +2059,14 @@ Partial Class Home
         'GroupBox3
         '
         Me.GroupBox3.BackColor = System.Drawing.Color.Gainsboro
-        Me.GroupBox3.Controls.Add(Me.TextBox6)
+        Me.GroupBox3.Controls.Add(Me.Emp_name_E)
         Me.GroupBox3.Controls.Add(Me.Label12)
         Me.GroupBox3.Controls.Add(Me.Label13)
         Me.GroupBox3.Controls.Add(Me.Label14)
         Me.GroupBox3.Controls.Add(Me.Label15)
-        Me.GroupBox3.Controls.Add(Me.TextBox7)
-        Me.GroupBox3.Controls.Add(Me.TextBox8)
-        Me.GroupBox3.Controls.Add(Me.TextBox9)
+        Me.GroupBox3.Controls.Add(Me.Emp_id_E)
+        Me.GroupBox3.Controls.Add(Me.Day_Emergency_E)
+        Me.GroupBox3.Controls.Add(Me.Day_Annual_E)
         Me.GroupBox3.Location = New System.Drawing.Point(38, 20)
         Me.GroupBox3.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.GroupBox3.Name = "GroupBox3"
@@ -1813,15 +2077,15 @@ Partial Class Home
         Me.GroupBox3.TabStop = False
         Me.GroupBox3.Text = "بيانات الموظف :"
         '
-        'TextBox6
+        'Emp_name_E
         '
-        Me.TextBox6.BackColor = System.Drawing.Color.White
-        Me.TextBox6.Location = New System.Drawing.Point(234, 46)
-        Me.TextBox6.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.ReadOnly = True
-        Me.TextBox6.Size = New System.Drawing.Size(346, 28)
-        Me.TextBox6.TabIndex = 30
+        Me.Emp_name_E.BackColor = System.Drawing.Color.White
+        Me.Emp_name_E.Location = New System.Drawing.Point(234, 46)
+        Me.Emp_name_E.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Emp_name_E.Name = "Emp_name_E"
+        Me.Emp_name_E.ReadOnly = True
+        Me.Emp_name_E.Size = New System.Drawing.Size(346, 24)
+        Me.Emp_name_E.TabIndex = 30
         '
         'Label12
         '
@@ -1829,7 +2093,7 @@ Partial Class Home
         Me.Label12.Location = New System.Drawing.Point(588, 48)
         Me.Label12.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(97, 22)
+        Me.Label12.Size = New System.Drawing.Size(79, 17)
         Me.Label12.TabIndex = 29
         Me.Label12.Text = "اسم الموظف :"
         '
@@ -1839,7 +2103,7 @@ Partial Class Home
         Me.Label13.Location = New System.Drawing.Point(868, 48)
         Me.Label13.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(95, 22)
+        Me.Label13.Size = New System.Drawing.Size(77, 17)
         Me.Label13.TabIndex = 7
         Me.Label13.Text = "رقم الموظف :"
         '
@@ -1849,7 +2113,7 @@ Partial Class Home
         Me.Label14.Location = New System.Drawing.Point(828, 96)
         Me.Label14.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(139, 22)
+        Me.Label14.Size = New System.Drawing.Size(114, 17)
         Me.Label14.TabIndex = 8
         Me.Label14.Text = "ايام الاجازة السنوية :"
         '
@@ -1859,48 +2123,48 @@ Partial Class Home
         Me.Label15.Location = New System.Drawing.Point(553, 96)
         Me.Label15.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(135, 22)
+        Me.Label15.Size = New System.Drawing.Size(112, 17)
         Me.Label15.TabIndex = 9
         Me.Label15.Text = "ايام الاجازة الطارئة :"
         '
-        'TextBox7
+        'Emp_id_E
         '
-        Me.TextBox7.Location = New System.Drawing.Point(688, 46)
-        Me.TextBox7.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox7.Name = "TextBox7"
-        Me.TextBox7.Size = New System.Drawing.Size(134, 28)
-        Me.TextBox7.TabIndex = 14
+        Me.Emp_id_E.Location = New System.Drawing.Point(688, 46)
+        Me.Emp_id_E.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Emp_id_E.Name = "Emp_id_E"
+        Me.Emp_id_E.Size = New System.Drawing.Size(134, 24)
+        Me.Emp_id_E.TabIndex = 14
         '
-        'TextBox8
+        'Day_Emergency_E
         '
-        Me.TextBox8.BackColor = System.Drawing.Color.White
-        Me.TextBox8.Location = New System.Drawing.Point(421, 92)
-        Me.TextBox8.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox8.Name = "TextBox8"
-        Me.TextBox8.ReadOnly = True
-        Me.TextBox8.Size = New System.Drawing.Size(134, 28)
-        Me.TextBox8.TabIndex = 15
+        Me.Day_Emergency_E.BackColor = System.Drawing.Color.White
+        Me.Day_Emergency_E.Location = New System.Drawing.Point(421, 92)
+        Me.Day_Emergency_E.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Day_Emergency_E.Name = "Day_Emergency_E"
+        Me.Day_Emergency_E.ReadOnly = True
+        Me.Day_Emergency_E.Size = New System.Drawing.Size(134, 24)
+        Me.Day_Emergency_E.TabIndex = 15
         '
-        'TextBox9
+        'Day_Annual_E
         '
-        Me.TextBox9.BackColor = System.Drawing.Color.White
-        Me.TextBox9.Location = New System.Drawing.Point(688, 92)
-        Me.TextBox9.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox9.Name = "TextBox9"
-        Me.TextBox9.ReadOnly = True
-        Me.TextBox9.Size = New System.Drawing.Size(134, 28)
-        Me.TextBox9.TabIndex = 15
+        Me.Day_Annual_E.BackColor = System.Drawing.Color.White
+        Me.Day_Annual_E.Location = New System.Drawing.Point(688, 92)
+        Me.Day_Annual_E.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Day_Annual_E.Name = "Day_Annual_E"
+        Me.Day_Annual_E.ReadOnly = True
+        Me.Day_Annual_E.Size = New System.Drawing.Size(134, 24)
+        Me.Day_Annual_E.TabIndex = 15
         '
         'GroupBox4
         '
         Me.GroupBox4.BackColor = System.Drawing.Color.Gainsboro
         Me.GroupBox4.Controls.Add(Me.Button12)
         Me.GroupBox4.Controls.Add(Me.Label16)
-        Me.GroupBox4.Controls.Add(Me.ComboBox2)
+        Me.GroupBox4.Controls.Add(Me.H_type_E)
         Me.GroupBox4.Controls.Add(Me.Button2)
-        Me.GroupBox4.Controls.Add(Me.DateTimePicker3)
+        Me.GroupBox4.Controls.Add(Me.H_end_E)
         Me.GroupBox4.Controls.Add(Me.Button5)
-        Me.GroupBox4.Controls.Add(Me.DateTimePicker4)
+        Me.GroupBox4.Controls.Add(Me.H_start_E)
         Me.GroupBox4.Controls.Add(Me.Label17)
         Me.GroupBox4.Controls.Add(Me.Label18)
         Me.GroupBox4.Controls.Add(Me.Label19)
@@ -1932,17 +2196,17 @@ Partial Class Home
         Me.Label16.Location = New System.Drawing.Point(578, 139)
         Me.Label16.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(0, 22)
+        Me.Label16.Size = New System.Drawing.Size(0, 17)
         Me.Label16.TabIndex = 29
         '
-        'ComboBox2
+        'H_type_E
         '
-        Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Location = New System.Drawing.Point(424, 28)
-        Me.ComboBox2.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.ComboBox2.Name = "ComboBox2"
-        Me.ComboBox2.Size = New System.Drawing.Size(170, 28)
-        Me.ComboBox2.TabIndex = 28
+        Me.H_type_E.FormattingEnabled = True
+        Me.H_type_E.Location = New System.Drawing.Point(424, 28)
+        Me.H_type_E.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_type_E.Name = "H_type_E"
+        Me.H_type_E.Size = New System.Drawing.Size(170, 25)
+        Me.H_type_E.TabIndex = 28
         '
         'Button2
         '
@@ -1955,13 +2219,13 @@ Partial Class Home
         Me.Button2.Text = "حفظ"
         Me.Button2.UseVisualStyleBackColor = False
         '
-        'DateTimePicker3
+        'H_end_E
         '
-        Me.DateTimePicker3.Location = New System.Drawing.Point(257, 80)
-        Me.DateTimePicker3.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.DateTimePicker3.Name = "DateTimePicker3"
-        Me.DateTimePicker3.Size = New System.Drawing.Size(172, 28)
-        Me.DateTimePicker3.TabIndex = 27
+        Me.H_end_E.Location = New System.Drawing.Point(257, 80)
+        Me.H_end_E.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_end_E.Name = "H_end_E"
+        Me.H_end_E.Size = New System.Drawing.Size(172, 24)
+        Me.H_end_E.TabIndex = 27
         '
         'Button5
         '
@@ -1974,13 +2238,13 @@ Partial Class Home
         Me.Button5.Text = "الغاء الامر"
         Me.Button5.UseVisualStyleBackColor = False
         '
-        'DateTimePicker4
+        'H_start_E
         '
-        Me.DateTimePicker4.Location = New System.Drawing.Point(588, 80)
-        Me.DateTimePicker4.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.DateTimePicker4.Name = "DateTimePicker4"
-        Me.DateTimePicker4.Size = New System.Drawing.Size(188, 28)
-        Me.DateTimePicker4.TabIndex = 26
+        Me.H_start_E.Location = New System.Drawing.Point(588, 80)
+        Me.H_start_E.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_start_E.Name = "H_start_E"
+        Me.H_start_E.Size = New System.Drawing.Size(188, 24)
+        Me.H_start_E.TabIndex = 26
         '
         'Label17
         '
@@ -1988,7 +2252,7 @@ Partial Class Home
         Me.Label17.Location = New System.Drawing.Point(605, 31)
         Me.Label17.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(91, 22)
+        Me.Label17.Size = New System.Drawing.Size(74, 17)
         Me.Label17.TabIndex = 25
         Me.Label17.Text = "نوع الاجازة :"
         '
@@ -1998,7 +2262,7 @@ Partial Class Home
         Me.Label18.Location = New System.Drawing.Point(436, 85)
         Me.Label18.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(120, 22)
+        Me.Label18.Size = New System.Drawing.Size(99, 17)
         Me.Label18.TabIndex = 21
         Me.Label18.Text = "ت/انتهاء الاجازة :"
         '
@@ -2008,7 +2272,7 @@ Partial Class Home
         Me.Label19.Location = New System.Drawing.Point(783, 85)
         Me.Label19.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(113, 22)
+        Me.Label19.Size = New System.Drawing.Size(92, 17)
         Me.Label19.TabIndex = 20
         Me.Label19.Text = "ت/بداية الاجازة :"
         '
@@ -2018,19 +2282,19 @@ Partial Class Home
         Me.Label20.Location = New System.Drawing.Point(607, 139)
         Me.Label20.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(89, 22)
+        Me.Label20.Size = New System.Drawing.Size(73, 17)
         Me.Label20.TabIndex = 12
         Me.Label20.Text = "المدة بالايام :"
         '
         'TabPage12
         '
         Me.TabPage12.Controls.Add(Me.Label21)
-        Me.TabPage12.Controls.Add(Me.TextBox10)
+        Me.TabPage12.Controls.Add(Me.txt_H)
         Me.TabPage12.Controls.Add(Me.DataGridView2)
-        Me.TabPage12.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage12.Location = New System.Drawing.Point(4, 26)
         Me.TabPage12.Name = "TabPage12"
         Me.TabPage12.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage12.Size = New System.Drawing.Size(1182, 695)
+        Me.TabPage12.Size = New System.Drawing.Size(1182, 698)
         Me.TabPage12.TabIndex = 2
         Me.TabPage12.Text = "الموظفون في اجازة"
         Me.TabPage12.UseVisualStyleBackColor = True
@@ -2045,13 +2309,13 @@ Partial Class Home
         Me.Label21.Text = "بحث :"
         Me.Label21.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'TextBox10
+        'txt_H
         '
-        Me.TextBox10.Location = New System.Drawing.Point(395, 19)
-        Me.TextBox10.Name = "TextBox10"
-        Me.TextBox10.Size = New System.Drawing.Size(395, 28)
-        Me.TextBox10.TabIndex = 4
-        Me.TextBox10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txt_H.Location = New System.Drawing.Point(395, 19)
+        Me.txt_H.Name = "txt_H"
+        Me.txt_H.Size = New System.Drawing.Size(395, 24)
+        Me.txt_H.TabIndex = 4
+        Me.txt_H.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'DataGridView2
         '
@@ -2066,10 +2330,10 @@ Partial Class Home
         '
         Me.Emp_P.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.Emp_P.Controls.Add(Me.Panel1)
-        Me.Emp_P.Location = New System.Drawing.Point(4, 29)
+        Me.Emp_P.Location = New System.Drawing.Point(4, 26)
         Me.Emp_P.Name = "Emp_P"
         Me.Emp_P.Padding = New System.Windows.Forms.Padding(3)
-        Me.Emp_P.Size = New System.Drawing.Size(1199, 737)
+        Me.Emp_P.Size = New System.Drawing.Size(1199, 740)
         Me.Emp_P.TabIndex = 0
         Me.Emp_P.Text = "الموظفون"
         Me.Emp_P.UseVisualStyleBackColor = True
@@ -2079,7 +2343,7 @@ Partial Class Home
         Me.Panel1.BackColor = System.Drawing.Color.Gainsboro
         Me.Panel1.Controls.Add(Me.TabControl2)
         Me.Panel1.Controls.Add(Me.Label2)
-        Me.Panel1.Controls.Add(Me.TextBox1)
+        Me.Panel1.Controls.Add(Me.txt_Emp)
         Me.Panel1.Controls.Add(Me.Label1)
         Me.Panel1.Controls.Add(Me.DataGridView1)
         Me.Panel1.Location = New System.Drawing.Point(3, 3)
@@ -2107,10 +2371,10 @@ Partial Class Home
         Me.TabPage7.Controls.Add(Me.Panel3)
         Me.TabPage7.Controls.Add(Me.Label37)
         Me.TabPage7.Controls.Add(Me.Panel4)
-        Me.TabPage7.Location = New System.Drawing.Point(4, 34)
+        Me.TabPage7.Location = New System.Drawing.Point(4, 29)
         Me.TabPage7.Name = "TabPage7"
         Me.TabPage7.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage7.Size = New System.Drawing.Size(1175, 359)
+        Me.TabPage7.Size = New System.Drawing.Size(1175, 364)
         Me.TabPage7.TabIndex = 0
         Me.TabPage7.Text = "اضافة موظف"
         Me.TabPage7.UseVisualStyleBackColor = True
@@ -2120,7 +2384,7 @@ Partial Class Home
         Me.Label24.AutoSize = True
         Me.Label24.Location = New System.Drawing.Point(606, -48)
         Me.Label24.Name = "Label24"
-        Me.Label24.Size = New System.Drawing.Size(145, 26)
+        Me.Label24.Size = New System.Drawing.Size(109, 22)
         Me.Label24.TabIndex = 39
         Me.Label24.Text = "البيانات الوظيفية"
         '
@@ -2182,7 +2446,7 @@ Partial Class Home
         Me.ComboBox12.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox12.Location = New System.Drawing.Point(13, 208)
         Me.ComboBox12.Name = "ComboBox12"
-        Me.ComboBox12.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox12.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox12.TabIndex = 57
         Me.ComboBox12.UseWaitCursor = True
         '
@@ -2192,7 +2456,7 @@ Partial Class Home
         Me.ComboBox11.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox11.Location = New System.Drawing.Point(13, 178)
         Me.ComboBox11.Name = "ComboBox11"
-        Me.ComboBox11.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox11.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox11.TabIndex = 56
         Me.ComboBox11.UseWaitCursor = True
         '
@@ -2202,7 +2466,7 @@ Partial Class Home
         Me.Label30.Location = New System.Drawing.Point(151, 182)
         Me.Label30.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label30.Name = "Label30"
-        Me.Label30.Size = New System.Drawing.Size(92, 21)
+        Me.Label30.Size = New System.Drawing.Size(74, 17)
         Me.Label30.TabIndex = 55
         Me.Label30.Text = "مكان الاصدار"
         Me.Label30.UseWaitCursor = True
@@ -2211,7 +2475,7 @@ Partial Class Home
         '
         Me.DateTimePicker5.Location = New System.Drawing.Point(13, 143)
         Me.DateTimePicker5.Name = "DateTimePicker5"
-        Me.DateTimePicker5.Size = New System.Drawing.Size(127, 28)
+        Me.DateTimePicker5.Size = New System.Drawing.Size(127, 24)
         Me.DateTimePicker5.TabIndex = 53
         Me.DateTimePicker5.UseWaitCursor = True
         '
@@ -2230,7 +2494,7 @@ Partial Class Home
         Me.Label29.Location = New System.Drawing.Point(151, 151)
         Me.Label29.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label29.Name = "Label29"
-        Me.Label29.Size = New System.Drawing.Size(97, 21)
+        Me.Label29.Size = New System.Drawing.Size(77, 17)
         Me.Label29.TabIndex = 54
         Me.Label29.Text = "تاريخ الاصدار"
         Me.Label29.UseWaitCursor = True
@@ -2241,7 +2505,7 @@ Partial Class Home
         Me.ComboBox10.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox10.Location = New System.Drawing.Point(11, 109)
         Me.ComboBox10.Name = "ComboBox10"
-        Me.ComboBox10.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox10.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox10.TabIndex = 52
         Me.ComboBox10.UseWaitCursor = True
         '
@@ -2260,7 +2524,7 @@ Partial Class Home
         Me.Label28.Location = New System.Drawing.Point(176, 119)
         Me.Label28.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label28.Name = "Label28"
-        Me.Label28.Size = New System.Drawing.Size(48, 21)
+        Me.Label28.Size = New System.Drawing.Size(38, 17)
         Me.Label28.TabIndex = 51
         Me.Label28.Text = "التقدير"
         Me.Label28.UseWaitCursor = True
@@ -2271,7 +2535,7 @@ Partial Class Home
         Me.ComboBox9.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox9.Location = New System.Drawing.Point(11, 77)
         Me.ComboBox9.Name = "ComboBox9"
-        Me.ComboBox9.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox9.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox9.TabIndex = 50
         Me.ComboBox9.UseWaitCursor = True
         '
@@ -2281,7 +2545,7 @@ Partial Class Home
         Me.Label27.Location = New System.Drawing.Point(177, 84)
         Me.Label27.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(52, 21)
+        Me.Label27.Size = New System.Drawing.Size(41, 17)
         Me.Label27.TabIndex = 49
         Me.Label27.Text = "المؤهل"
         Me.Label27.UseWaitCursor = True
@@ -2292,7 +2556,7 @@ Partial Class Home
         Me.ComboBox8.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox8.Location = New System.Drawing.Point(11, 41)
         Me.ComboBox8.Name = "ComboBox8"
-        Me.ComboBox8.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox8.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox8.TabIndex = 48
         Me.ComboBox8.UseWaitCursor = True
         '
@@ -2302,7 +2566,7 @@ Partial Class Home
         Me.Label26.Location = New System.Drawing.Point(162, 47)
         Me.Label26.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(70, 21)
+        Me.Label26.Size = New System.Drawing.Size(55, 17)
         Me.Label26.TabIndex = 47
         Me.Label26.Text = "التخصص"
         Me.Label26.UseWaitCursor = True
@@ -2313,7 +2577,7 @@ Partial Class Home
         Me.Label25.Location = New System.Drawing.Point(423, 271)
         Me.Label25.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(113, 21)
+        Me.Label25.Size = New System.Drawing.Size(89, 17)
         Me.Label25.TabIndex = 46
         Me.Label25.Text = "رقم وثيقة التخرج"
         Me.Label25.UseWaitCursor = True
@@ -2323,7 +2587,7 @@ Partial Class Home
         Me.TextBox11.Location = New System.Drawing.Point(246, 268)
         Me.TextBox11.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox11.Name = "TextBox11"
-        Me.TextBox11.Size = New System.Drawing.Size(132, 28)
+        Me.TextBox11.Size = New System.Drawing.Size(132, 24)
         Me.TextBox11.TabIndex = 45
         Me.TextBox11.UseWaitCursor = True
         '
@@ -2333,7 +2597,7 @@ Partial Class Home
         Me.ComboBox7.Items.AddRange(New Object() {"أعزب", "متزوج"})
         Me.ComboBox7.Location = New System.Drawing.Point(246, 201)
         Me.ComboBox7.Name = "ComboBox7"
-        Me.ComboBox7.Size = New System.Drawing.Size(131, 28)
+        Me.ComboBox7.Size = New System.Drawing.Size(131, 24)
         Me.ComboBox7.TabIndex = 44
         Me.ComboBox7.UseWaitCursor = True
         '
@@ -2343,7 +2607,7 @@ Partial Class Home
         Me.ComboBox4.Items.AddRange(New Object() {"أعزب", "متزوج"})
         Me.ComboBox4.Location = New System.Drawing.Point(245, 169)
         Me.ComboBox4.Name = "ComboBox4"
-        Me.ComboBox4.Size = New System.Drawing.Size(132, 28)
+        Me.ComboBox4.Size = New System.Drawing.Size(132, 24)
         Me.ComboBox4.TabIndex = 29
         Me.ComboBox4.UseWaitCursor = True
         '
@@ -2352,7 +2616,7 @@ Partial Class Home
         Me.TextBox12.Location = New System.Drawing.Point(246, 104)
         Me.TextBox12.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox12.Name = "TextBox12"
-        Me.TextBox12.Size = New System.Drawing.Size(132, 28)
+        Me.TextBox12.Size = New System.Drawing.Size(132, 24)
         Me.TextBox12.TabIndex = 42
         Me.TextBox12.UseWaitCursor = True
         '
@@ -2362,7 +2626,7 @@ Partial Class Home
         Me.Label22.Location = New System.Drawing.Point(397, 107)
         Me.Label22.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label22.Name = "Label22"
-        Me.Label22.Size = New System.Drawing.Size(154, 21)
+        Me.Label22.Size = New System.Drawing.Size(122, 17)
         Me.Label22.TabIndex = 43
         Me.Label22.Text = "رصيد الاجازات السنوية"
         Me.Label22.UseWaitCursor = True
@@ -2371,7 +2635,7 @@ Partial Class Home
         '
         Me.DateTimePicker6.Location = New System.Drawing.Point(246, 42)
         Me.DateTimePicker6.Name = "DateTimePicker6"
-        Me.DateTimePicker6.Size = New System.Drawing.Size(132, 28)
+        Me.DateTimePicker6.Size = New System.Drawing.Size(132, 24)
         Me.DateTimePicker6.TabIndex = 40
         Me.DateTimePicker6.UseWaitCursor = True
         '
@@ -2381,7 +2645,7 @@ Partial Class Home
         Me.Label23.Location = New System.Drawing.Point(423, 44)
         Me.Label23.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label23.Name = "Label23"
-        Me.Label23.Size = New System.Drawing.Size(125, 21)
+        Me.Label23.Size = New System.Drawing.Size(100, 17)
         Me.Label23.TabIndex = 41
         Me.Label23.Text = "تاريخ مباشرة العمل"
         Me.Label23.UseWaitCursor = True
@@ -2392,7 +2656,7 @@ Partial Class Home
         Me.Label31.Location = New System.Drawing.Point(177, 216)
         Me.Label31.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label31.Name = "Label31"
-        Me.Label31.Size = New System.Drawing.Size(64, 21)
+        Me.Label31.Size = New System.Drawing.Size(51, 17)
         Me.Label31.TabIndex = 39
         Me.Label31.Text = "رقم القسم"
         Me.Label31.UseWaitCursor = True
@@ -2403,7 +2667,7 @@ Partial Class Home
         Me.ComboBox5.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox5.Location = New System.Drawing.Point(246, 235)
         Me.ComboBox5.Name = "ComboBox5"
-        Me.ComboBox5.Size = New System.Drawing.Size(132, 28)
+        Me.ComboBox5.Size = New System.Drawing.Size(132, 24)
         Me.ComboBox5.TabIndex = 38
         Me.ComboBox5.UseWaitCursor = True
         '
@@ -2413,7 +2677,7 @@ Partial Class Home
         Me.Label32.Location = New System.Drawing.Point(457, 237)
         Me.Label32.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label32.Name = "Label32"
-        Me.Label32.Size = New System.Drawing.Size(50, 21)
+        Me.Label32.Size = New System.Drawing.Size(40, 17)
         Me.Label32.TabIndex = 37
         Me.Label32.Text = "الدرجة"
         Me.Label32.UseWaitCursor = True
@@ -2424,7 +2688,7 @@ Partial Class Home
         Me.Label33.Location = New System.Drawing.Point(423, 204)
         Me.Label33.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(113, 21)
+        Me.Label33.Size = New System.Drawing.Size(90, 17)
         Me.Label33.TabIndex = 35
         Me.Label33.Text = "المستوي الوظيفي"
         Me.Label33.UseWaitCursor = True
@@ -2435,7 +2699,7 @@ Partial Class Home
         Me.Label34.Location = New System.Drawing.Point(449, 172)
         Me.Label34.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label34.Name = "Label34"
-        Me.Label34.Size = New System.Drawing.Size(79, 21)
+        Me.Label34.Size = New System.Drawing.Size(63, 17)
         Me.Label34.TabIndex = 33
         Me.Label34.Text = "اسم الوظيفة"
         Me.Label34.UseWaitCursor = True
@@ -2445,7 +2709,7 @@ Partial Class Home
         Me.TextBox13.Location = New System.Drawing.Point(246, 136)
         Me.TextBox13.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox13.Name = "TextBox13"
-        Me.TextBox13.Size = New System.Drawing.Size(132, 28)
+        Me.TextBox13.Size = New System.Drawing.Size(132, 24)
         Me.TextBox13.TabIndex = 30
         Me.TextBox13.UseWaitCursor = True
         '
@@ -2455,7 +2719,7 @@ Partial Class Home
         Me.Label35.Location = New System.Drawing.Point(396, 139)
         Me.Label35.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label35.Name = "Label35"
-        Me.Label35.Size = New System.Drawing.Size(155, 21)
+        Me.Label35.Size = New System.Drawing.Size(123, 17)
         Me.Label35.TabIndex = 31
         Me.Label35.Text = "رصيد الاجازات الطارئة"
         Me.Label35.UseWaitCursor = True
@@ -2464,7 +2728,7 @@ Partial Class Home
         '
         Me.DateTimePicker7.Location = New System.Drawing.Point(246, 72)
         Me.DateTimePicker7.Name = "DateTimePicker7"
-        Me.DateTimePicker7.Size = New System.Drawing.Size(132, 28)
+        Me.DateTimePicker7.Size = New System.Drawing.Size(132, 24)
         Me.DateTimePicker7.TabIndex = 28
         Me.DateTimePicker7.UseWaitCursor = True
         '
@@ -2474,7 +2738,7 @@ Partial Class Home
         Me.Label36.Location = New System.Drawing.Point(383, 78)
         Me.Label36.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(175, 21)
+        Me.Label36.Size = New System.Drawing.Size(140, 17)
         Me.Label36.TabIndex = 29
         Me.Label36.Text = "تاريخ مباشرة العمل الاصلي"
         Me.Label36.UseWaitCursor = True
@@ -2484,7 +2748,7 @@ Partial Class Home
         Me.Label37.AutoSize = True
         Me.Label37.Location = New System.Drawing.Point(53, -48)
         Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(153, 26)
+        Me.Label37.Size = New System.Drawing.Size(116, 22)
         Me.Label37.TabIndex = 37
         Me.Label37.Text = "البيانات الشخصية"
         '
@@ -2546,7 +2810,7 @@ Partial Class Home
         Me.Birth_Place.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
         Me.Birth_Place.Location = New System.Drawing.Point(347, 210)
         Me.Birth_Place.Name = "Birth_Place"
-        Me.Birth_Place.Size = New System.Drawing.Size(129, 28)
+        Me.Birth_Place.Size = New System.Drawing.Size(129, 24)
         Me.Birth_Place.TabIndex = 28
         Me.Birth_Place.UseWaitCursor = True
         '
@@ -2555,7 +2819,7 @@ Partial Class Home
         Me.Conf_Id.Location = New System.Drawing.Point(347, 107)
         Me.Conf_Id.Margin = New System.Windows.Forms.Padding(4)
         Me.Conf_Id.Name = "Conf_Id"
-        Me.Conf_Id.Size = New System.Drawing.Size(129, 28)
+        Me.Conf_Id.Size = New System.Drawing.Size(129, 24)
         Me.Conf_Id.TabIndex = 6
         Me.Conf_Id.UseWaitCursor = True
         '
@@ -2566,7 +2830,7 @@ Partial Class Home
         Me.Emp_Id.Margin = New System.Windows.Forms.Padding(4)
         Me.Emp_Id.Name = "Emp_Id"
         Me.Emp_Id.ReadOnly = True
-        Me.Emp_Id.Size = New System.Drawing.Size(126, 28)
+        Me.Emp_Id.Size = New System.Drawing.Size(126, 24)
         Me.Emp_Id.TabIndex = 0
         Me.Emp_Id.UseWaitCursor = True
         '
@@ -2576,7 +2840,7 @@ Partial Class Home
         Me.Label38.Location = New System.Drawing.Point(491, 38)
         Me.Label38.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(84, 21)
+        Me.Label38.Size = New System.Drawing.Size(67, 17)
         Me.Label38.TabIndex = 1
         Me.Label38.Text = "رقم الموظف"
         Me.Label38.UseWaitCursor = True
@@ -2586,7 +2850,7 @@ Partial Class Home
         Me.Email.Location = New System.Drawing.Point(10, 271)
         Me.Email.Margin = New System.Windows.Forms.Padding(4)
         Me.Email.Name = "Email"
-        Me.Email.Size = New System.Drawing.Size(210, 28)
+        Me.Email.Size = New System.Drawing.Size(210, 24)
         Me.Email.TabIndex = 27
         Me.Email.UseWaitCursor = True
         '
@@ -2595,7 +2859,7 @@ Partial Class Home
         Me.Emp_Name.Location = New System.Drawing.Point(10, 32)
         Me.Emp_Name.Margin = New System.Windows.Forms.Padding(4)
         Me.Emp_Name.Name = "Emp_Name"
-        Me.Emp_Name.Size = New System.Drawing.Size(210, 28)
+        Me.Emp_Name.Size = New System.Drawing.Size(210, 24)
         Me.Emp_Name.TabIndex = 2
         Me.Emp_Name.UseWaitCursor = True
         '
@@ -2605,7 +2869,7 @@ Partial Class Home
         Me.Label39.Location = New System.Drawing.Point(237, 274)
         Me.Label39.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(51, 21)
+        Me.Label39.Size = New System.Drawing.Size(41, 17)
         Me.Label39.TabIndex = 26
         Me.Label39.Text = "الايميل"
         Me.Label39.UseWaitCursor = True
@@ -2616,7 +2880,7 @@ Partial Class Home
         Me.Label40.Location = New System.Drawing.Point(237, 38)
         Me.Label40.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(84, 21)
+        Me.Label40.Size = New System.Drawing.Size(67, 17)
         Me.Label40.TabIndex = 3
         Me.Label40.Text = "اسم الموظف"
         Me.Label40.UseWaitCursor = True
@@ -2626,7 +2890,7 @@ Partial Class Home
         Me.Phone.Location = New System.Drawing.Point(10, 234)
         Me.Phone.Margin = New System.Windows.Forms.Padding(4)
         Me.Phone.Name = "Phone"
-        Me.Phone.Size = New System.Drawing.Size(210, 28)
+        Me.Phone.Size = New System.Drawing.Size(210, 24)
         Me.Phone.TabIndex = 25
         Me.Phone.UseWaitCursor = True
         '
@@ -2635,7 +2899,7 @@ Partial Class Home
         Me.Emp_M.Location = New System.Drawing.Point(10, 66)
         Me.Emp_M.Margin = New System.Windows.Forms.Padding(4)
         Me.Emp_M.Name = "Emp_M"
-        Me.Emp_M.Size = New System.Drawing.Size(210, 28)
+        Me.Emp_M.Size = New System.Drawing.Size(210, 24)
         Me.Emp_M.TabIndex = 4
         Me.Emp_M.UseWaitCursor = True
         '
@@ -2645,7 +2909,7 @@ Partial Class Home
         Me.Label41.Location = New System.Drawing.Point(237, 239)
         Me.Label41.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(49, 21)
+        Me.Label41.Size = New System.Drawing.Size(39, 17)
         Me.Label41.TabIndex = 24
         Me.Label41.Text = "الهاتف"
         Me.Label41.UseWaitCursor = True
@@ -2656,7 +2920,7 @@ Partial Class Home
         Me.Label42.Location = New System.Drawing.Point(237, 71)
         Me.Label42.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label42.Name = "Label42"
-        Me.Label42.Size = New System.Drawing.Size(55, 21)
+        Me.Label42.Size = New System.Drawing.Size(44, 17)
         Me.Label42.TabIndex = 5
         Me.Label42.Text = "اسم الام"
         Me.Label42.UseWaitCursor = True
@@ -2666,7 +2930,7 @@ Partial Class Home
         Me.Address.Location = New System.Drawing.Point(10, 200)
         Me.Address.Margin = New System.Windows.Forms.Padding(4)
         Me.Address.Name = "Address"
-        Me.Address.Size = New System.Drawing.Size(210, 28)
+        Me.Address.Size = New System.Drawing.Size(210, 24)
         Me.Address.TabIndex = 23
         Me.Address.UseWaitCursor = True
         '
@@ -2676,7 +2940,7 @@ Partial Class Home
         Me.Label43.Location = New System.Drawing.Point(491, 71)
         Me.Label43.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label43.Name = "Label43"
-        Me.Label43.Size = New System.Drawing.Size(115, 21)
+        Me.Label43.Size = New System.Drawing.Size(91, 17)
         Me.Label43.TabIndex = 7
         Me.Label43.Text = "نوع وثيقة الاثبات"
         Me.Label43.UseWaitCursor = True
@@ -2687,7 +2951,7 @@ Partial Class Home
         Me.Label44.Location = New System.Drawing.Point(239, 206)
         Me.Label44.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label44.Name = "Label44"
-        Me.Label44.Size = New System.Drawing.Size(52, 21)
+        Me.Label44.Size = New System.Drawing.Size(41, 17)
         Me.Label44.TabIndex = 22
         Me.Label44.Text = "العنوان"
         Me.Label44.UseWaitCursor = True
@@ -2697,7 +2961,7 @@ Partial Class Home
         Me.Emp_NW.Location = New System.Drawing.Point(347, 142)
         Me.Emp_NW.Margin = New System.Windows.Forms.Padding(4)
         Me.Emp_NW.Name = "Emp_NW"
-        Me.Emp_NW.Size = New System.Drawing.Size(129, 28)
+        Me.Emp_NW.Size = New System.Drawing.Size(129, 24)
         Me.Emp_NW.TabIndex = 8
         Me.Emp_NW.UseWaitCursor = True
         '
@@ -2706,7 +2970,7 @@ Partial Class Home
         Me.Nationa.Location = New System.Drawing.Point(10, 167)
         Me.Nationa.Margin = New System.Windows.Forms.Padding(4)
         Me.Nationa.Name = "Nationa"
-        Me.Nationa.Size = New System.Drawing.Size(210, 28)
+        Me.Nationa.Size = New System.Drawing.Size(210, 24)
         Me.Nationa.TabIndex = 21
         Me.Nationa.UseWaitCursor = True
         '
@@ -2716,7 +2980,7 @@ Partial Class Home
         Me.Label45.Location = New System.Drawing.Point(491, 110)
         Me.Label45.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(73, 21)
+        Me.Label45.Size = New System.Drawing.Size(58, 17)
         Me.Label45.TabIndex = 9
         Me.Label45.Text = "رقم الوثيقة"
         Me.Label45.UseWaitCursor = True
@@ -2727,7 +2991,7 @@ Partial Class Home
         Me.Label46.Location = New System.Drawing.Point(237, 173)
         Me.Label46.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label46.Name = "Label46"
-        Me.Label46.Size = New System.Drawing.Size(55, 21)
+        Me.Label46.Size = New System.Drawing.Size(44, 17)
         Me.Label46.TabIndex = 20
         Me.Label46.Text = "الجنسية"
         Me.Label46.UseWaitCursor = True
@@ -2738,7 +3002,7 @@ Partial Class Home
         Me.Conf_Type.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
         Me.Conf_Type.Location = New System.Drawing.Point(347, 68)
         Me.Conf_Type.Name = "Conf_Type"
-        Me.Conf_Type.Size = New System.Drawing.Size(129, 28)
+        Me.Conf_Type.Size = New System.Drawing.Size(129, 24)
         Me.Conf_Type.TabIndex = 10
         Me.Conf_Type.UseWaitCursor = True
         '
@@ -2748,7 +3012,7 @@ Partial Class Home
         Me.Gender.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.Gender.Location = New System.Drawing.Point(86, 135)
         Me.Gender.Name = "Gender"
-        Me.Gender.Size = New System.Drawing.Size(134, 28)
+        Me.Gender.Size = New System.Drawing.Size(134, 24)
         Me.Gender.TabIndex = 19
         Me.Gender.UseWaitCursor = True
         '
@@ -2758,7 +3022,7 @@ Partial Class Home
         Me.Label47.Location = New System.Drawing.Point(491, 145)
         Me.Label47.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label47.Name = "Label47"
-        Me.Label47.Size = New System.Drawing.Size(86, 21)
+        Me.Label47.Size = New System.Drawing.Size(68, 17)
         Me.Label47.TabIndex = 11
         Me.Label47.Text = "الرقم الوطني"
         Me.Label47.UseWaitCursor = True
@@ -2769,7 +3033,7 @@ Partial Class Home
         Me.Label48.Location = New System.Drawing.Point(237, 142)
         Me.Label48.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label48.Name = "Label48"
-        Me.Label48.Size = New System.Drawing.Size(49, 21)
+        Me.Label48.Size = New System.Drawing.Size(38, 17)
         Me.Label48.TabIndex = 18
         Me.Label48.Text = "الجنس"
         Me.Label48.UseWaitCursor = True
@@ -2778,7 +3042,7 @@ Partial Class Home
         '
         Me.Birth_Data.Location = New System.Drawing.Point(347, 175)
         Me.Birth_Data.Name = "Birth_Data"
-        Me.Birth_Data.Size = New System.Drawing.Size(129, 28)
+        Me.Birth_Data.Size = New System.Drawing.Size(129, 24)
         Me.Birth_Data.TabIndex = 12
         Me.Birth_Data.UseWaitCursor = True
         '
@@ -2788,7 +3052,7 @@ Partial Class Home
         Me.Social_Case.Items.AddRange(New Object() {"أعزب", "متزوج"})
         Me.Social_Case.Location = New System.Drawing.Point(86, 104)
         Me.Social_Case.Name = "Social_Case"
-        Me.Social_Case.Size = New System.Drawing.Size(134, 28)
+        Me.Social_Case.Size = New System.Drawing.Size(134, 24)
         Me.Social_Case.TabIndex = 17
         Me.Social_Case.UseWaitCursor = True
         '
@@ -2798,7 +3062,7 @@ Partial Class Home
         Me.Label49.Location = New System.Drawing.Point(491, 180)
         Me.Label49.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label49.Name = "Label49"
-        Me.Label49.Size = New System.Drawing.Size(85, 21)
+        Me.Label49.Size = New System.Drawing.Size(68, 17)
         Me.Label49.TabIndex = 13
         Me.Label49.Text = "تاريخ الميلاد"
         Me.Label49.UseWaitCursor = True
@@ -2809,7 +3073,7 @@ Partial Class Home
         Me.Label50.Location = New System.Drawing.Point(237, 110)
         Me.Label50.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label50.Name = "Label50"
-        Me.Label50.Size = New System.Drawing.Size(110, 21)
+        Me.Label50.Size = New System.Drawing.Size(88, 17)
         Me.Label50.TabIndex = 16
         Me.Label50.Text = "الحالة الاجتماعية"
         Me.Label50.UseWaitCursor = True
@@ -2820,7 +3084,7 @@ Partial Class Home
         Me.Label51.Location = New System.Drawing.Point(491, 213)
         Me.Label51.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label51.Name = "Label51"
-        Me.Label51.Size = New System.Drawing.Size(80, 21)
+        Me.Label51.Size = New System.Drawing.Size(65, 17)
         Me.Label51.TabIndex = 15
         Me.Label51.Text = "مكان الميلاد"
         Me.Label51.UseWaitCursor = True
@@ -2829,10 +3093,10 @@ Partial Class Home
         '
         Me.TabPage8.Controls.Add(Me.Panel5)
         Me.TabPage8.Controls.Add(Me.Panel6)
-        Me.TabPage8.Location = New System.Drawing.Point(4, 34)
+        Me.TabPage8.Location = New System.Drawing.Point(4, 29)
         Me.TabPage8.Name = "TabPage8"
         Me.TabPage8.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage8.Size = New System.Drawing.Size(1175, 359)
+        Me.TabPage8.Size = New System.Drawing.Size(1175, 364)
         Me.TabPage8.TabIndex = 1
         Me.TabPage8.Text = "تعديل بيانات الموظف"
         Me.TabPage8.UseVisualStyleBackColor = True
@@ -2905,7 +3169,7 @@ Partial Class Home
         Me.ComboBox3.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox3.Location = New System.Drawing.Point(13, 208)
         Me.ComboBox3.Name = "ComboBox3"
-        Me.ComboBox3.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox3.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox3.TabIndex = 57
         Me.ComboBox3.UseWaitCursor = True
         '
@@ -2915,7 +3179,7 @@ Partial Class Home
         Me.ComboBox6.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox6.Location = New System.Drawing.Point(13, 178)
         Me.ComboBox6.Name = "ComboBox6"
-        Me.ComboBox6.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox6.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox6.TabIndex = 56
         Me.ComboBox6.UseWaitCursor = True
         '
@@ -2925,7 +3189,7 @@ Partial Class Home
         Me.Label55.Location = New System.Drawing.Point(151, 182)
         Me.Label55.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label55.Name = "Label55"
-        Me.Label55.Size = New System.Drawing.Size(92, 21)
+        Me.Label55.Size = New System.Drawing.Size(74, 17)
         Me.Label55.TabIndex = 55
         Me.Label55.Text = "مكان الاصدار"
         Me.Label55.UseWaitCursor = True
@@ -2934,7 +3198,7 @@ Partial Class Home
         '
         Me.DateTimePicker8.Location = New System.Drawing.Point(13, 143)
         Me.DateTimePicker8.Name = "DateTimePicker8"
-        Me.DateTimePicker8.Size = New System.Drawing.Size(127, 28)
+        Me.DateTimePicker8.Size = New System.Drawing.Size(127, 24)
         Me.DateTimePicker8.TabIndex = 53
         Me.DateTimePicker8.UseWaitCursor = True
         '
@@ -2953,7 +3217,7 @@ Partial Class Home
         Me.Label56.Location = New System.Drawing.Point(151, 151)
         Me.Label56.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label56.Name = "Label56"
-        Me.Label56.Size = New System.Drawing.Size(97, 21)
+        Me.Label56.Size = New System.Drawing.Size(77, 17)
         Me.Label56.TabIndex = 54
         Me.Label56.Text = "تاريخ الاصدار"
         Me.Label56.UseWaitCursor = True
@@ -2964,7 +3228,7 @@ Partial Class Home
         Me.ComboBox13.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox13.Location = New System.Drawing.Point(11, 109)
         Me.ComboBox13.Name = "ComboBox13"
-        Me.ComboBox13.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox13.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox13.TabIndex = 52
         Me.ComboBox13.UseWaitCursor = True
         '
@@ -2983,7 +3247,7 @@ Partial Class Home
         Me.Label57.Location = New System.Drawing.Point(176, 119)
         Me.Label57.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label57.Name = "Label57"
-        Me.Label57.Size = New System.Drawing.Size(48, 21)
+        Me.Label57.Size = New System.Drawing.Size(38, 17)
         Me.Label57.TabIndex = 51
         Me.Label57.Text = "التقدير"
         Me.Label57.UseWaitCursor = True
@@ -2994,7 +3258,7 @@ Partial Class Home
         Me.ComboBox14.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox14.Location = New System.Drawing.Point(11, 77)
         Me.ComboBox14.Name = "ComboBox14"
-        Me.ComboBox14.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox14.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox14.TabIndex = 50
         Me.ComboBox14.UseWaitCursor = True
         '
@@ -3004,7 +3268,7 @@ Partial Class Home
         Me.Label58.Location = New System.Drawing.Point(177, 84)
         Me.Label58.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label58.Name = "Label58"
-        Me.Label58.Size = New System.Drawing.Size(52, 21)
+        Me.Label58.Size = New System.Drawing.Size(41, 17)
         Me.Label58.TabIndex = 49
         Me.Label58.Text = "المؤهل"
         Me.Label58.UseWaitCursor = True
@@ -3015,7 +3279,7 @@ Partial Class Home
         Me.ComboBox15.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox15.Location = New System.Drawing.Point(11, 41)
         Me.ComboBox15.Name = "ComboBox15"
-        Me.ComboBox15.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox15.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox15.TabIndex = 48
         Me.ComboBox15.UseWaitCursor = True
         '
@@ -3025,7 +3289,7 @@ Partial Class Home
         Me.Label59.Location = New System.Drawing.Point(162, 47)
         Me.Label59.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label59.Name = "Label59"
-        Me.Label59.Size = New System.Drawing.Size(70, 21)
+        Me.Label59.Size = New System.Drawing.Size(55, 17)
         Me.Label59.TabIndex = 47
         Me.Label59.Text = "التخصص"
         Me.Label59.UseWaitCursor = True
@@ -3036,7 +3300,7 @@ Partial Class Home
         Me.Label60.Location = New System.Drawing.Point(439, 245)
         Me.Label60.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label60.Name = "Label60"
-        Me.Label60.Size = New System.Drawing.Size(113, 21)
+        Me.Label60.Size = New System.Drawing.Size(89, 17)
         Me.Label60.TabIndex = 46
         Me.Label60.Text = "رقم وثيقة التخرج"
         Me.Label60.UseWaitCursor = True
@@ -3046,7 +3310,7 @@ Partial Class Home
         Me.TextBox14.Location = New System.Drawing.Point(261, 242)
         Me.TextBox14.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox14.Name = "TextBox14"
-        Me.TextBox14.Size = New System.Drawing.Size(132, 28)
+        Me.TextBox14.Size = New System.Drawing.Size(132, 24)
         Me.TextBox14.TabIndex = 45
         Me.TextBox14.UseWaitCursor = True
         '
@@ -3056,7 +3320,7 @@ Partial Class Home
         Me.ComboBox16.Items.AddRange(New Object() {"أعزب", "متزوج"})
         Me.ComboBox16.Location = New System.Drawing.Point(262, 201)
         Me.ComboBox16.Name = "ComboBox16"
-        Me.ComboBox16.Size = New System.Drawing.Size(131, 28)
+        Me.ComboBox16.Size = New System.Drawing.Size(131, 24)
         Me.ComboBox16.TabIndex = 44
         Me.ComboBox16.UseWaitCursor = True
         '
@@ -3066,7 +3330,7 @@ Partial Class Home
         Me.ComboBox17.Items.AddRange(New Object() {"أعزب", "متزوج"})
         Me.ComboBox17.Location = New System.Drawing.Point(261, 169)
         Me.ComboBox17.Name = "ComboBox17"
-        Me.ComboBox17.Size = New System.Drawing.Size(132, 28)
+        Me.ComboBox17.Size = New System.Drawing.Size(132, 24)
         Me.ComboBox17.TabIndex = 29
         Me.ComboBox17.UseWaitCursor = True
         '
@@ -3075,7 +3339,7 @@ Partial Class Home
         Me.TextBox15.Location = New System.Drawing.Point(262, 104)
         Me.TextBox15.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox15.Name = "TextBox15"
-        Me.TextBox15.Size = New System.Drawing.Size(132, 28)
+        Me.TextBox15.Size = New System.Drawing.Size(132, 24)
         Me.TextBox15.TabIndex = 42
         Me.TextBox15.UseWaitCursor = True
         '
@@ -3085,7 +3349,7 @@ Partial Class Home
         Me.Label61.Location = New System.Drawing.Point(413, 107)
         Me.Label61.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label61.Name = "Label61"
-        Me.Label61.Size = New System.Drawing.Size(154, 21)
+        Me.Label61.Size = New System.Drawing.Size(122, 17)
         Me.Label61.TabIndex = 43
         Me.Label61.Text = "رصيد الاجازات السنوية"
         Me.Label61.UseWaitCursor = True
@@ -3094,7 +3358,7 @@ Partial Class Home
         '
         Me.DateTimePicker9.Location = New System.Drawing.Point(262, 42)
         Me.DateTimePicker9.Name = "DateTimePicker9"
-        Me.DateTimePicker9.Size = New System.Drawing.Size(132, 28)
+        Me.DateTimePicker9.Size = New System.Drawing.Size(132, 24)
         Me.DateTimePicker9.TabIndex = 40
         Me.DateTimePicker9.UseWaitCursor = True
         '
@@ -3104,7 +3368,7 @@ Partial Class Home
         Me.Label62.Location = New System.Drawing.Point(439, 44)
         Me.Label62.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label62.Name = "Label62"
-        Me.Label62.Size = New System.Drawing.Size(125, 21)
+        Me.Label62.Size = New System.Drawing.Size(100, 17)
         Me.Label62.TabIndex = 41
         Me.Label62.Text = "تاريخ مباشرة العمل"
         Me.Label62.UseWaitCursor = True
@@ -3115,7 +3379,7 @@ Partial Class Home
         Me.Label63.Location = New System.Drawing.Point(177, 216)
         Me.Label63.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label63.Name = "Label63"
-        Me.Label63.Size = New System.Drawing.Size(64, 21)
+        Me.Label63.Size = New System.Drawing.Size(51, 17)
         Me.Label63.TabIndex = 39
         Me.Label63.Text = "رقم القسم"
         Me.Label63.UseWaitCursor = True
@@ -3126,7 +3390,7 @@ Partial Class Home
         Me.ComboBox18.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox18.Location = New System.Drawing.Point(11, 242)
         Me.ComboBox18.Name = "ComboBox18"
-        Me.ComboBox18.Size = New System.Drawing.Size(132, 28)
+        Me.ComboBox18.Size = New System.Drawing.Size(132, 24)
         Me.ComboBox18.TabIndex = 38
         Me.ComboBox18.UseWaitCursor = True
         '
@@ -3136,7 +3400,7 @@ Partial Class Home
         Me.Label64.Location = New System.Drawing.Point(182, 245)
         Me.Label64.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label64.Name = "Label64"
-        Me.Label64.Size = New System.Drawing.Size(50, 21)
+        Me.Label64.Size = New System.Drawing.Size(40, 17)
         Me.Label64.TabIndex = 37
         Me.Label64.Text = "الدرجة"
         Me.Label64.UseWaitCursor = True
@@ -3147,7 +3411,7 @@ Partial Class Home
         Me.Label65.Location = New System.Drawing.Point(439, 204)
         Me.Label65.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label65.Name = "Label65"
-        Me.Label65.Size = New System.Drawing.Size(113, 21)
+        Me.Label65.Size = New System.Drawing.Size(90, 17)
         Me.Label65.TabIndex = 35
         Me.Label65.Text = "المستوي الوظيفي"
         Me.Label65.UseWaitCursor = True
@@ -3158,7 +3422,7 @@ Partial Class Home
         Me.Label66.Location = New System.Drawing.Point(465, 172)
         Me.Label66.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label66.Name = "Label66"
-        Me.Label66.Size = New System.Drawing.Size(79, 21)
+        Me.Label66.Size = New System.Drawing.Size(63, 17)
         Me.Label66.TabIndex = 33
         Me.Label66.Text = "اسم الوظيفة"
         Me.Label66.UseWaitCursor = True
@@ -3168,7 +3432,7 @@ Partial Class Home
         Me.TextBox16.Location = New System.Drawing.Point(262, 136)
         Me.TextBox16.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox16.Name = "TextBox16"
-        Me.TextBox16.Size = New System.Drawing.Size(132, 28)
+        Me.TextBox16.Size = New System.Drawing.Size(132, 24)
         Me.TextBox16.TabIndex = 30
         Me.TextBox16.UseWaitCursor = True
         '
@@ -3178,7 +3442,7 @@ Partial Class Home
         Me.Label67.Location = New System.Drawing.Point(412, 139)
         Me.Label67.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label67.Name = "Label67"
-        Me.Label67.Size = New System.Drawing.Size(155, 21)
+        Me.Label67.Size = New System.Drawing.Size(123, 17)
         Me.Label67.TabIndex = 31
         Me.Label67.Text = "رصيد الاجازات الطارئة"
         Me.Label67.UseWaitCursor = True
@@ -3187,7 +3451,7 @@ Partial Class Home
         '
         Me.DateTimePicker10.Location = New System.Drawing.Point(262, 72)
         Me.DateTimePicker10.Name = "DateTimePicker10"
-        Me.DateTimePicker10.Size = New System.Drawing.Size(132, 28)
+        Me.DateTimePicker10.Size = New System.Drawing.Size(132, 24)
         Me.DateTimePicker10.TabIndex = 28
         Me.DateTimePicker10.UseWaitCursor = True
         '
@@ -3197,7 +3461,7 @@ Partial Class Home
         Me.Label68.Location = New System.Drawing.Point(399, 78)
         Me.Label68.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label68.Name = "Label68"
-        Me.Label68.Size = New System.Drawing.Size(175, 21)
+        Me.Label68.Size = New System.Drawing.Size(140, 17)
         Me.Label68.TabIndex = 29
         Me.Label68.Text = "تاريخ مباشرة العمل الاصلي"
         Me.Label68.UseWaitCursor = True
@@ -3260,7 +3524,7 @@ Partial Class Home
         Me.ComboBox19.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
         Me.ComboBox19.Location = New System.Drawing.Point(326, 217)
         Me.ComboBox19.Name = "ComboBox19"
-        Me.ComboBox19.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox19.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox19.TabIndex = 28
         Me.ComboBox19.UseWaitCursor = True
         '
@@ -3269,7 +3533,7 @@ Partial Class Home
         Me.TextBox17.Location = New System.Drawing.Point(326, 114)
         Me.TextBox17.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox17.Name = "TextBox17"
-        Me.TextBox17.Size = New System.Drawing.Size(129, 28)
+        Me.TextBox17.Size = New System.Drawing.Size(129, 24)
         Me.TextBox17.TabIndex = 6
         Me.TextBox17.UseWaitCursor = True
         '
@@ -3280,7 +3544,7 @@ Partial Class Home
         Me.TextBox18.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox18.Name = "TextBox18"
         Me.TextBox18.ReadOnly = True
-        Me.TextBox18.Size = New System.Drawing.Size(126, 28)
+        Me.TextBox18.Size = New System.Drawing.Size(126, 24)
         Me.TextBox18.TabIndex = 0
         Me.TextBox18.UseWaitCursor = True
         '
@@ -3290,7 +3554,7 @@ Partial Class Home
         Me.Label70.Location = New System.Drawing.Point(470, 45)
         Me.Label70.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label70.Name = "Label70"
-        Me.Label70.Size = New System.Drawing.Size(84, 21)
+        Me.Label70.Size = New System.Drawing.Size(67, 17)
         Me.Label70.TabIndex = 1
         Me.Label70.Text = "رقم الموظف"
         Me.Label70.UseWaitCursor = True
@@ -3300,7 +3564,7 @@ Partial Class Home
         Me.TextBox19.Location = New System.Drawing.Point(4, 278)
         Me.TextBox19.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox19.Name = "TextBox19"
-        Me.TextBox19.Size = New System.Drawing.Size(193, 28)
+        Me.TextBox19.Size = New System.Drawing.Size(193, 24)
         Me.TextBox19.TabIndex = 27
         Me.TextBox19.UseWaitCursor = True
         '
@@ -3309,7 +3573,7 @@ Partial Class Home
         Me.TextBox20.Location = New System.Drawing.Point(4, 39)
         Me.TextBox20.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox20.Name = "TextBox20"
-        Me.TextBox20.Size = New System.Drawing.Size(193, 28)
+        Me.TextBox20.Size = New System.Drawing.Size(193, 24)
         Me.TextBox20.TabIndex = 2
         Me.TextBox20.UseWaitCursor = True
         '
@@ -3319,7 +3583,7 @@ Partial Class Home
         Me.Label71.Location = New System.Drawing.Point(214, 281)
         Me.Label71.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label71.Name = "Label71"
-        Me.Label71.Size = New System.Drawing.Size(51, 21)
+        Me.Label71.Size = New System.Drawing.Size(41, 17)
         Me.Label71.TabIndex = 26
         Me.Label71.Text = "الايميل"
         Me.Label71.UseWaitCursor = True
@@ -3330,7 +3594,7 @@ Partial Class Home
         Me.Label72.Location = New System.Drawing.Point(214, 45)
         Me.Label72.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label72.Name = "Label72"
-        Me.Label72.Size = New System.Drawing.Size(84, 21)
+        Me.Label72.Size = New System.Drawing.Size(67, 17)
         Me.Label72.TabIndex = 3
         Me.Label72.Text = "اسم الموظف"
         Me.Label72.UseWaitCursor = True
@@ -3340,7 +3604,7 @@ Partial Class Home
         Me.TextBox21.Location = New System.Drawing.Point(4, 241)
         Me.TextBox21.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox21.Name = "TextBox21"
-        Me.TextBox21.Size = New System.Drawing.Size(193, 28)
+        Me.TextBox21.Size = New System.Drawing.Size(193, 24)
         Me.TextBox21.TabIndex = 25
         Me.TextBox21.UseWaitCursor = True
         '
@@ -3349,7 +3613,7 @@ Partial Class Home
         Me.TextBox22.Location = New System.Drawing.Point(4, 73)
         Me.TextBox22.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox22.Name = "TextBox22"
-        Me.TextBox22.Size = New System.Drawing.Size(193, 28)
+        Me.TextBox22.Size = New System.Drawing.Size(193, 24)
         Me.TextBox22.TabIndex = 4
         Me.TextBox22.UseWaitCursor = True
         '
@@ -3359,7 +3623,7 @@ Partial Class Home
         Me.Label73.Location = New System.Drawing.Point(214, 246)
         Me.Label73.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label73.Name = "Label73"
-        Me.Label73.Size = New System.Drawing.Size(49, 21)
+        Me.Label73.Size = New System.Drawing.Size(39, 17)
         Me.Label73.TabIndex = 24
         Me.Label73.Text = "الهاتف"
         Me.Label73.UseWaitCursor = True
@@ -3370,7 +3634,7 @@ Partial Class Home
         Me.Label74.Location = New System.Drawing.Point(214, 78)
         Me.Label74.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label74.Name = "Label74"
-        Me.Label74.Size = New System.Drawing.Size(55, 21)
+        Me.Label74.Size = New System.Drawing.Size(44, 17)
         Me.Label74.TabIndex = 5
         Me.Label74.Text = "اسم الام"
         Me.Label74.UseWaitCursor = True
@@ -3380,7 +3644,7 @@ Partial Class Home
         Me.TextBox23.Location = New System.Drawing.Point(4, 207)
         Me.TextBox23.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox23.Name = "TextBox23"
-        Me.TextBox23.Size = New System.Drawing.Size(193, 28)
+        Me.TextBox23.Size = New System.Drawing.Size(193, 24)
         Me.TextBox23.TabIndex = 23
         Me.TextBox23.UseWaitCursor = True
         '
@@ -3390,7 +3654,7 @@ Partial Class Home
         Me.Label75.Location = New System.Drawing.Point(470, 78)
         Me.Label75.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label75.Name = "Label75"
-        Me.Label75.Size = New System.Drawing.Size(115, 21)
+        Me.Label75.Size = New System.Drawing.Size(91, 17)
         Me.Label75.TabIndex = 7
         Me.Label75.Text = "نوع وثيقة الاثبات"
         Me.Label75.UseWaitCursor = True
@@ -3401,7 +3665,7 @@ Partial Class Home
         Me.Label76.Location = New System.Drawing.Point(216, 213)
         Me.Label76.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label76.Name = "Label76"
-        Me.Label76.Size = New System.Drawing.Size(52, 21)
+        Me.Label76.Size = New System.Drawing.Size(41, 17)
         Me.Label76.TabIndex = 22
         Me.Label76.Text = "العنوان"
         Me.Label76.UseWaitCursor = True
@@ -3411,7 +3675,7 @@ Partial Class Home
         Me.TextBox24.Location = New System.Drawing.Point(326, 149)
         Me.TextBox24.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox24.Name = "TextBox24"
-        Me.TextBox24.Size = New System.Drawing.Size(129, 28)
+        Me.TextBox24.Size = New System.Drawing.Size(129, 24)
         Me.TextBox24.TabIndex = 8
         Me.TextBox24.UseWaitCursor = True
         '
@@ -3420,7 +3684,7 @@ Partial Class Home
         Me.TextBox25.Location = New System.Drawing.Point(4, 174)
         Me.TextBox25.Margin = New System.Windows.Forms.Padding(4)
         Me.TextBox25.Name = "TextBox25"
-        Me.TextBox25.Size = New System.Drawing.Size(193, 28)
+        Me.TextBox25.Size = New System.Drawing.Size(193, 24)
         Me.TextBox25.TabIndex = 21
         Me.TextBox25.UseWaitCursor = True
         '
@@ -3430,7 +3694,7 @@ Partial Class Home
         Me.Label77.Location = New System.Drawing.Point(470, 117)
         Me.Label77.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label77.Name = "Label77"
-        Me.Label77.Size = New System.Drawing.Size(73, 21)
+        Me.Label77.Size = New System.Drawing.Size(58, 17)
         Me.Label77.TabIndex = 9
         Me.Label77.Text = "رقم الوثيقة"
         Me.Label77.UseWaitCursor = True
@@ -3441,7 +3705,7 @@ Partial Class Home
         Me.Label78.Location = New System.Drawing.Point(214, 180)
         Me.Label78.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label78.Name = "Label78"
-        Me.Label78.Size = New System.Drawing.Size(55, 21)
+        Me.Label78.Size = New System.Drawing.Size(44, 17)
         Me.Label78.TabIndex = 20
         Me.Label78.Text = "الجنسية"
         Me.Label78.UseWaitCursor = True
@@ -3452,7 +3716,7 @@ Partial Class Home
         Me.ComboBox20.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
         Me.ComboBox20.Location = New System.Drawing.Point(326, 75)
         Me.ComboBox20.Name = "ComboBox20"
-        Me.ComboBox20.Size = New System.Drawing.Size(129, 28)
+        Me.ComboBox20.Size = New System.Drawing.Size(129, 24)
         Me.ComboBox20.TabIndex = 10
         Me.ComboBox20.UseWaitCursor = True
         '
@@ -3462,7 +3726,7 @@ Partial Class Home
         Me.ComboBox21.Items.AddRange(New Object() {"ذكر", "انثي"})
         Me.ComboBox21.Location = New System.Drawing.Point(63, 142)
         Me.ComboBox21.Name = "ComboBox21"
-        Me.ComboBox21.Size = New System.Drawing.Size(134, 28)
+        Me.ComboBox21.Size = New System.Drawing.Size(134, 24)
         Me.ComboBox21.TabIndex = 19
         Me.ComboBox21.UseWaitCursor = True
         '
@@ -3472,7 +3736,7 @@ Partial Class Home
         Me.Label79.Location = New System.Drawing.Point(470, 152)
         Me.Label79.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label79.Name = "Label79"
-        Me.Label79.Size = New System.Drawing.Size(86, 21)
+        Me.Label79.Size = New System.Drawing.Size(68, 17)
         Me.Label79.TabIndex = 11
         Me.Label79.Text = "الرقم الوطني"
         Me.Label79.UseWaitCursor = True
@@ -3483,7 +3747,7 @@ Partial Class Home
         Me.Label80.Location = New System.Drawing.Point(214, 149)
         Me.Label80.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label80.Name = "Label80"
-        Me.Label80.Size = New System.Drawing.Size(49, 21)
+        Me.Label80.Size = New System.Drawing.Size(38, 17)
         Me.Label80.TabIndex = 18
         Me.Label80.Text = "الجنس"
         Me.Label80.UseWaitCursor = True
@@ -3492,7 +3756,7 @@ Partial Class Home
         '
         Me.DateTimePicker11.Location = New System.Drawing.Point(326, 182)
         Me.DateTimePicker11.Name = "DateTimePicker11"
-        Me.DateTimePicker11.Size = New System.Drawing.Size(129, 28)
+        Me.DateTimePicker11.Size = New System.Drawing.Size(129, 24)
         Me.DateTimePicker11.TabIndex = 12
         Me.DateTimePicker11.UseWaitCursor = True
         '
@@ -3502,7 +3766,7 @@ Partial Class Home
         Me.ComboBox22.Items.AddRange(New Object() {"أعزب", "متزوج"})
         Me.ComboBox22.Location = New System.Drawing.Point(63, 111)
         Me.ComboBox22.Name = "ComboBox22"
-        Me.ComboBox22.Size = New System.Drawing.Size(134, 28)
+        Me.ComboBox22.Size = New System.Drawing.Size(134, 24)
         Me.ComboBox22.TabIndex = 17
         Me.ComboBox22.UseWaitCursor = True
         '
@@ -3512,7 +3776,7 @@ Partial Class Home
         Me.Label81.Location = New System.Drawing.Point(470, 187)
         Me.Label81.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label81.Name = "Label81"
-        Me.Label81.Size = New System.Drawing.Size(85, 21)
+        Me.Label81.Size = New System.Drawing.Size(68, 17)
         Me.Label81.TabIndex = 13
         Me.Label81.Text = "تاريخ الميلاد"
         Me.Label81.UseWaitCursor = True
@@ -3523,7 +3787,7 @@ Partial Class Home
         Me.Label82.Location = New System.Drawing.Point(214, 117)
         Me.Label82.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label82.Name = "Label82"
-        Me.Label82.Size = New System.Drawing.Size(110, 21)
+        Me.Label82.Size = New System.Drawing.Size(88, 17)
         Me.Label82.TabIndex = 16
         Me.Label82.Text = "الحالة الاجتماعية"
         Me.Label82.UseWaitCursor = True
@@ -3534,7 +3798,7 @@ Partial Class Home
         Me.Label83.Location = New System.Drawing.Point(470, 220)
         Me.Label83.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label83.Name = "Label83"
-        Me.Label83.Size = New System.Drawing.Size(80, 21)
+        Me.Label83.Size = New System.Drawing.Size(65, 17)
         Me.Label83.TabIndex = 15
         Me.Label83.Text = "مكان الميلاد"
         Me.Label83.UseWaitCursor = True
@@ -3546,10 +3810,10 @@ Partial Class Home
         Me.TabPage9.Controls.Add(Me.Label84)
         Me.TabPage9.Controls.Add(Me.TextBox26)
         Me.TabPage9.Controls.Add(Me.DataGridView3)
-        Me.TabPage9.Location = New System.Drawing.Point(4, 34)
+        Me.TabPage9.Location = New System.Drawing.Point(4, 29)
         Me.TabPage9.Name = "TabPage9"
         Me.TabPage9.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage9.Size = New System.Drawing.Size(1175, 359)
+        Me.TabPage9.Size = New System.Drawing.Size(1175, 364)
         Me.TabPage9.TabIndex = 2
         Me.TabPage9.Text = "عائلة الموظف"
         Me.TabPage9.UseVisualStyleBackColor = True
@@ -3589,7 +3853,7 @@ Partial Class Home
         Me.TextBox26.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox26.Location = New System.Drawing.Point(388, 5)
         Me.TextBox26.Name = "TextBox26"
-        Me.TextBox26.Size = New System.Drawing.Size(395, 28)
+        Me.TextBox26.Size = New System.Drawing.Size(395, 24)
         Me.TextBox26.TabIndex = 6
         Me.TextBox26.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
@@ -3602,6 +3866,16 @@ Partial Class Home
         Me.DataGridView3.Size = New System.Drawing.Size(1154, 268)
         Me.DataGridView3.TabIndex = 4
         '
+        'TabPage17
+        '
+        Me.TabPage17.Location = New System.Drawing.Point(4, 29)
+        Me.TabPage17.Name = "TabPage17"
+        Me.TabPage17.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage17.Size = New System.Drawing.Size(1175, 364)
+        Me.TabPage17.TabIndex = 3
+        Me.TabPage17.Text = "حالة الموظف"
+        Me.TabPage17.UseVisualStyleBackColor = True
+        '
         'Label2
         '
         Me.Label2.Font = New System.Drawing.Font("Times New Roman", 13.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -3612,13 +3886,13 @@ Partial Class Home
         Me.Label2.Text = "بحث :"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'TextBox1
+        'txt_Emp
         '
-        Me.TextBox1.Location = New System.Drawing.Point(399, 9)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(395, 28)
-        Me.TextBox1.TabIndex = 2
-        Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txt_Emp.Location = New System.Drawing.Point(399, 9)
+        Me.txt_Emp.Name = "txt_Emp"
+        Me.txt_Emp.Size = New System.Drawing.Size(395, 24)
+        Me.txt_Emp.TabIndex = 2
+        Me.txt_Emp.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Label1
         '
@@ -3666,285 +3940,11 @@ Partial Class Home
         Me.TabControl1.SizeMode = System.Windows.Forms.TabSizeMode.Fixed
         Me.TabControl1.TabIndex = 3
         '
-        'GroupBox8
-        '
-        Me.GroupBox8.Controls.Add(Me.DataGridView10)
-        Me.GroupBox8.Controls.Add(Me.Button45)
-        Me.GroupBox8.Controls.Add(Me.Button46)
-        Me.GroupBox8.Location = New System.Drawing.Point(247, 6)
-        Me.GroupBox8.Name = "GroupBox8"
-        Me.GroupBox8.Size = New System.Drawing.Size(222, 380)
-        Me.GroupBox8.TabIndex = 12
-        Me.GroupBox8.TabStop = False
-        Me.GroupBox8.Text = "الوظائف"
-        '
-        'DataGridView10
-        '
-        Me.DataGridView10.AllowUserToAddRows = False
-        Me.DataGridView10.AllowUserToDeleteRows = False
-        Me.DataGridView10.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView10.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn5, Me.DataGridViewTextBoxColumn6})
-        Me.DataGridView10.Location = New System.Drawing.Point(6, 30)
-        Me.DataGridView10.Margin = New System.Windows.Forms.Padding(10)
-        Me.DataGridView10.Name = "DataGridView10"
-        Me.DataGridView10.ReadOnly = True
-        Me.DataGridView10.RightToLeft = System.Windows.Forms.RightToLeft.Yes
-        Me.DataGridView10.RowHeadersVisible = False
-        Me.DataGridView10.Size = New System.Drawing.Size(203, 278)
-        Me.DataGridView10.TabIndex = 10
-        '
-        'Button45
-        '
-        Me.Button45.BackColor = System.Drawing.Color.White
-        Me.Button45.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button45.Location = New System.Drawing.Point(133, 324)
-        Me.Button45.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
-        Me.Button45.Name = "Button45"
-        Me.Button45.Size = New System.Drawing.Size(78, 33)
-        Me.Button45.TabIndex = 8
-        Me.Button45.Text = "تعديل"
-        Me.Button45.UseVisualStyleBackColor = False
-        '
-        'Button46
-        '
-        Me.Button46.BackColor = System.Drawing.Color.White
-        Me.Button46.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button46.Location = New System.Drawing.Point(33, 324)
-        Me.Button46.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
-        Me.Button46.Name = "Button46"
-        Me.Button46.Size = New System.Drawing.Size(72, 33)
-        Me.Button46.TabIndex = 7
-        Me.Button46.Text = "اضافة"
-        Me.Button46.UseVisualStyleBackColor = False
-        '
-        'GroupBox9
-        '
-        Me.GroupBox9.Controls.Add(Me.DataGridView11)
-        Me.GroupBox9.Controls.Add(Me.Button47)
-        Me.GroupBox9.Controls.Add(Me.Button48)
-        Me.GroupBox9.Location = New System.Drawing.Point(18, 6)
-        Me.GroupBox9.Name = "GroupBox9"
-        Me.GroupBox9.Size = New System.Drawing.Size(222, 357)
-        Me.GroupBox9.TabIndex = 13
-        Me.GroupBox9.TabStop = False
-        Me.GroupBox9.Text = "المستوي الوظيفي"
-        '
-        'DataGridView11
-        '
-        Me.DataGridView11.AllowUserToAddRows = False
-        Me.DataGridView11.AllowUserToDeleteRows = False
-        Me.DataGridView11.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView11.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn7, Me.DataGridViewTextBoxColumn8})
-        Me.DataGridView11.Location = New System.Drawing.Point(6, 30)
-        Me.DataGridView11.Margin = New System.Windows.Forms.Padding(10)
-        Me.DataGridView11.Name = "DataGridView11"
-        Me.DataGridView11.ReadOnly = True
-        Me.DataGridView11.RightToLeft = System.Windows.Forms.RightToLeft.Yes
-        Me.DataGridView11.RowHeadersVisible = False
-        Me.DataGridView11.Size = New System.Drawing.Size(203, 276)
-        Me.DataGridView11.TabIndex = 10
-        '
-        'Button47
-        '
-        Me.Button47.BackColor = System.Drawing.Color.White
-        Me.Button47.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button47.Location = New System.Drawing.Point(108, 322)
-        Me.Button47.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
-        Me.Button47.Name = "Button47"
-        Me.Button47.Size = New System.Drawing.Size(78, 33)
-        Me.Button47.TabIndex = 8
-        Me.Button47.Text = "تعديل"
-        Me.Button47.UseVisualStyleBackColor = False
-        '
-        'Button48
-        '
-        Me.Button48.BackColor = System.Drawing.Color.White
-        Me.Button48.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button48.Location = New System.Drawing.Point(26, 322)
-        Me.Button48.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
-        Me.Button48.Name = "Button48"
-        Me.Button48.Size = New System.Drawing.Size(72, 33)
-        Me.Button48.TabIndex = 7
-        Me.Button48.Text = "اضافة"
-        Me.Button48.UseVisualStyleBackColor = False
-        '
-        'GroupBox10
-        '
-        Me.GroupBox10.Controls.Add(Me.DataGridView12)
-        Me.GroupBox10.Controls.Add(Me.Button49)
-        Me.GroupBox10.Controls.Add(Me.Button50)
-        Me.GroupBox10.Location = New System.Drawing.Point(957, 369)
-        Me.GroupBox10.Name = "GroupBox10"
-        Me.GroupBox10.Size = New System.Drawing.Size(222, 323)
-        Me.GroupBox10.TabIndex = 14
-        Me.GroupBox10.TabStop = False
-        Me.GroupBox10.Text = "الدرجات"
-        '
-        'DataGridView12
-        '
-        Me.DataGridView12.AllowUserToAddRows = False
-        Me.DataGridView12.AllowUserToDeleteRows = False
-        Me.DataGridView12.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView12.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn9, Me.DataGridViewTextBoxColumn10})
-        Me.DataGridView12.Location = New System.Drawing.Point(5, 24)
-        Me.DataGridView12.Margin = New System.Windows.Forms.Padding(10)
-        Me.DataGridView12.Name = "DataGridView12"
-        Me.DataGridView12.ReadOnly = True
-        Me.DataGridView12.RightToLeft = System.Windows.Forms.RightToLeft.Yes
-        Me.DataGridView12.RowHeadersVisible = False
-        Me.DataGridView12.Size = New System.Drawing.Size(203, 241)
-        Me.DataGridView12.TabIndex = 10
-        '
-        'Button49
-        '
-        Me.Button49.BackColor = System.Drawing.Color.White
-        Me.Button49.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button49.Location = New System.Drawing.Point(130, 281)
-        Me.Button49.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
-        Me.Button49.Name = "Button49"
-        Me.Button49.Size = New System.Drawing.Size(78, 33)
-        Me.Button49.TabIndex = 8
-        Me.Button49.Text = "تعديل"
-        Me.Button49.UseVisualStyleBackColor = False
-        '
-        'Button50
-        '
-        Me.Button50.BackColor = System.Drawing.Color.White
-        Me.Button50.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button50.Location = New System.Drawing.Point(30, 281)
-        Me.Button50.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
-        Me.Button50.Name = "Button50"
-        Me.Button50.Size = New System.Drawing.Size(72, 33)
-        Me.Button50.TabIndex = 7
-        Me.Button50.Text = "اضافة"
-        Me.Button50.UseVisualStyleBackColor = False
-        '
-        'GroupBox11
-        '
-        Me.GroupBox11.Controls.Add(Me.DataGridView13)
-        Me.GroupBox11.Controls.Add(Me.Button51)
-        Me.GroupBox11.Controls.Add(Me.Button52)
-        Me.GroupBox11.Location = New System.Drawing.Point(723, 366)
-        Me.GroupBox11.Name = "GroupBox11"
-        Me.GroupBox11.Size = New System.Drawing.Size(222, 326)
-        Me.GroupBox11.TabIndex = 14
-        Me.GroupBox11.TabStop = False
-        Me.GroupBox11.Text = "التخصصات"
-        '
-        'DataGridView13
-        '
-        Me.DataGridView13.AllowUserToAddRows = False
-        Me.DataGridView13.AllowUserToDeleteRows = False
-        Me.DataGridView13.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView13.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn11, Me.DataGridViewTextBoxColumn12})
-        Me.DataGridView13.Location = New System.Drawing.Point(6, 30)
-        Me.DataGridView13.Margin = New System.Windows.Forms.Padding(10)
-        Me.DataGridView13.Name = "DataGridView13"
-        Me.DataGridView13.ReadOnly = True
-        Me.DataGridView13.RightToLeft = System.Windows.Forms.RightToLeft.Yes
-        Me.DataGridView13.RowHeadersVisible = False
-        Me.DataGridView13.Size = New System.Drawing.Size(203, 238)
-        Me.DataGridView13.TabIndex = 10
-        '
-        'Button51
-        '
-        Me.Button51.BackColor = System.Drawing.Color.White
-        Me.Button51.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button51.Location = New System.Drawing.Point(125, 284)
-        Me.Button51.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
-        Me.Button51.Name = "Button51"
-        Me.Button51.Size = New System.Drawing.Size(78, 33)
-        Me.Button51.TabIndex = 8
-        Me.Button51.Text = "تعديل"
-        Me.Button51.UseVisualStyleBackColor = False
-        '
-        'Button52
-        '
-        Me.Button52.BackColor = System.Drawing.Color.White
-        Me.Button52.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button52.Location = New System.Drawing.Point(43, 284)
-        Me.Button52.Margin = New System.Windows.Forms.Padding(5, 6, 5, 6)
-        Me.Button52.Name = "Button52"
-        Me.Button52.Size = New System.Drawing.Size(72, 33)
-        Me.Button52.TabIndex = 7
-        Me.Button52.Text = "اضافة"
-        Me.Button52.UseVisualStyleBackColor = False
-        '
-        'DataGridViewTextBoxColumn5
-        '
-        Me.DataGridViewTextBoxColumn5.DataPropertyName = "H_Id"
-        Me.DataGridViewTextBoxColumn5.FillWeight = 150.0!
-        Me.DataGridViewTextBoxColumn5.HeaderText = "رقم الوظيفة"
-        Me.DataGridViewTextBoxColumn5.Name = "DataGridViewTextBoxColumn5"
-        Me.DataGridViewTextBoxColumn5.ReadOnly = True
-        '
-        'DataGridViewTextBoxColumn6
-        '
-        Me.DataGridViewTextBoxColumn6.DataPropertyName = "H_type"
-        Me.DataGridViewTextBoxColumn6.HeaderText = "اسم الوظيفة"
-        Me.DataGridViewTextBoxColumn6.Name = "DataGridViewTextBoxColumn6"
-        Me.DataGridViewTextBoxColumn6.ReadOnly = True
-        '
-        'DataGridViewTextBoxColumn7
-        '
-        Me.DataGridViewTextBoxColumn7.DataPropertyName = "H_Id"
-        Me.DataGridViewTextBoxColumn7.FillWeight = 150.0!
-        Me.DataGridViewTextBoxColumn7.HeaderText = "رقم المستوي الوظيفي"
-        Me.DataGridViewTextBoxColumn7.Name = "DataGridViewTextBoxColumn7"
-        Me.DataGridViewTextBoxColumn7.ReadOnly = True
-        '
-        'DataGridViewTextBoxColumn8
-        '
-        Me.DataGridViewTextBoxColumn8.DataPropertyName = "H_type"
-        Me.DataGridViewTextBoxColumn8.HeaderText = "المستوي الوظيفي"
-        Me.DataGridViewTextBoxColumn8.Name = "DataGridViewTextBoxColumn8"
-        Me.DataGridViewTextBoxColumn8.ReadOnly = True
-        '
-        'DataGridViewTextBoxColumn9
-        '
-        Me.DataGridViewTextBoxColumn9.DataPropertyName = "H_Id"
-        Me.DataGridViewTextBoxColumn9.FillWeight = 150.0!
-        Me.DataGridViewTextBoxColumn9.HeaderText = "رقم الدرجة"
-        Me.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9"
-        Me.DataGridViewTextBoxColumn9.ReadOnly = True
-        '
-        'DataGridViewTextBoxColumn10
-        '
-        Me.DataGridViewTextBoxColumn10.DataPropertyName = "H_type"
-        Me.DataGridViewTextBoxColumn10.HeaderText = "الدرجة"
-        Me.DataGridViewTextBoxColumn10.Name = "DataGridViewTextBoxColumn10"
-        Me.DataGridViewTextBoxColumn10.ReadOnly = True
-        '
-        'DataGridViewTextBoxColumn11
-        '
-        Me.DataGridViewTextBoxColumn11.DataPropertyName = "H_Id"
-        Me.DataGridViewTextBoxColumn11.FillWeight = 150.0!
-        Me.DataGridViewTextBoxColumn11.HeaderText = "رقم التخصص"
-        Me.DataGridViewTextBoxColumn11.Name = "DataGridViewTextBoxColumn11"
-        Me.DataGridViewTextBoxColumn11.ReadOnly = True
-        '
-        'DataGridViewTextBoxColumn12
-        '
-        Me.DataGridViewTextBoxColumn12.DataPropertyName = "H_type"
-        Me.DataGridViewTextBoxColumn12.HeaderText = "التخصص"
-        Me.DataGridViewTextBoxColumn12.Name = "DataGridViewTextBoxColumn12"
-        Me.DataGridViewTextBoxColumn12.ReadOnly = True
-        '
-        'TabPage17
-        '
-        Me.TabPage17.Location = New System.Drawing.Point(4, 34)
-        Me.TabPage17.Name = "TabPage17"
-        Me.TabPage17.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage17.Size = New System.Drawing.Size(1175, 359)
-        Me.TabPage17.TabIndex = 3
-        Me.TabPage17.Text = "حالة الموظف"
-        Me.TabPage17.UseVisualStyleBackColor = True
-        '
         'Home
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 19.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1207, 769)
+        Me.ClientSize = New System.Drawing.Size(1207, 749)
         Me.Controls.Add(Me.TabControl1)
         Me.Font = New System.Drawing.Font("Times New Roman", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Margin = New System.Windows.Forms.Padding(4)
@@ -3964,6 +3964,14 @@ Partial Class Home
         Me.Panel10.PerformLayout()
         CType(Me.DataGridView8, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage16.ResumeLayout(False)
+        Me.GroupBox11.ResumeLayout(False)
+        CType(Me.DataGridView13, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox10.ResumeLayout(False)
+        CType(Me.DataGridView12, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox9.ResumeLayout(False)
+        CType(Me.DataGridView11, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox8.ResumeLayout(False)
+        CType(Me.DataGridView10, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox7.ResumeLayout(False)
         CType(Me.DataGridView9, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox6.ResumeLayout(False)
@@ -4029,14 +4037,6 @@ Partial Class Home
         CType(Me.DataGridView3, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabControl1.ResumeLayout(False)
-        Me.GroupBox8.ResumeLayout(False)
-        CType(Me.DataGridView10, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GroupBox9.ResumeLayout(False)
-        CType(Me.DataGridView11, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GroupBox10.ResumeLayout(False)
-        CType(Me.DataGridView12, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GroupBox11.ResumeLayout(False)
-        CType(Me.DataGridView13, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -4047,49 +4047,49 @@ Partial Class Home
     Friend WithEvents TabControl3 As System.Windows.Forms.TabControl
     Friend WithEvents TabPage10 As System.Windows.Forms.TabPage
     Friend WithEvents GroupBox1 As System.Windows.Forms.GroupBox
-    Friend WithEvents TextBox5 As System.Windows.Forms.TextBox
+    Friend WithEvents Emp_name_A As System.Windows.Forms.TextBox
     Friend WithEvents Label11 As System.Windows.Forms.Label
     Friend WithEvents Label10 As System.Windows.Forms.Label
     Friend WithEvents Label9 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
-    Friend WithEvents TextBox4 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox3 As System.Windows.Forms.TextBox
+    Friend WithEvents Emp_id_A As System.Windows.Forms.TextBox
+    Friend WithEvents Day_Emergency_A As System.Windows.Forms.TextBox
+    Friend WithEvents Day_Annual_A As System.Windows.Forms.TextBox
     Friend WithEvents GroupBox2 As System.Windows.Forms.GroupBox
     Friend WithEvents Label8 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
+    Friend WithEvents H_type_A As System.Windows.Forms.ComboBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
-    Friend WithEvents DateTimePicker2 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents H_end_A As System.Windows.Forms.DateTimePicker
     Friend WithEvents Button4 As System.Windows.Forms.Button
-    Friend WithEvents DateTimePicker1 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents H_start_A As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label6 As System.Windows.Forms.Label
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents TabPage11 As System.Windows.Forms.TabPage
     Friend WithEvents GroupBox3 As System.Windows.Forms.GroupBox
-    Friend WithEvents TextBox6 As System.Windows.Forms.TextBox
+    Friend WithEvents Emp_name_E As System.Windows.Forms.TextBox
     Friend WithEvents Label12 As System.Windows.Forms.Label
     Friend WithEvents Label13 As System.Windows.Forms.Label
     Friend WithEvents Label14 As System.Windows.Forms.Label
     Friend WithEvents Label15 As System.Windows.Forms.Label
-    Friend WithEvents TextBox7 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox8 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox9 As System.Windows.Forms.TextBox
+    Friend WithEvents Emp_id_E As System.Windows.Forms.TextBox
+    Friend WithEvents Day_Emergency_E As System.Windows.Forms.TextBox
+    Friend WithEvents Day_Annual_E As System.Windows.Forms.TextBox
     Friend WithEvents GroupBox4 As System.Windows.Forms.GroupBox
     Friend WithEvents Label16 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox2 As System.Windows.Forms.ComboBox
+    Friend WithEvents H_type_E As System.Windows.Forms.ComboBox
     Friend WithEvents Button2 As System.Windows.Forms.Button
-    Friend WithEvents DateTimePicker3 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents H_end_E As System.Windows.Forms.DateTimePicker
     Friend WithEvents Button5 As System.Windows.Forms.Button
-    Friend WithEvents DateTimePicker4 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents H_start_E As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label17 As System.Windows.Forms.Label
     Friend WithEvents Label18 As System.Windows.Forms.Label
     Friend WithEvents Label19 As System.Windows.Forms.Label
     Friend WithEvents Label20 As System.Windows.Forms.Label
     Friend WithEvents TabPage12 As System.Windows.Forms.TabPage
     Friend WithEvents Label21 As System.Windows.Forms.Label
-    Friend WithEvents TextBox10 As System.Windows.Forms.TextBox
+    Friend WithEvents txt_H As System.Windows.Forms.TextBox
     Friend WithEvents DataGridView2 As System.Windows.Forms.DataGridView
     Friend WithEvents Emp_P As System.Windows.Forms.TabPage
     Friend WithEvents TabControl2 As System.Windows.Forms.TabControl
@@ -4098,7 +4098,7 @@ Partial Class Home
     Friend WithEvents TabPage9 As System.Windows.Forms.TabPage
     Friend WithEvents Panel1 As System.Windows.Forms.Panel
     Friend WithEvents Label2 As System.Windows.Forms.Label
-    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents txt_Emp As System.Windows.Forms.TextBox
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
     Friend WithEvents TabControl1 As System.Windows.Forms.TabControl
@@ -4245,7 +4245,7 @@ Partial Class Home
     Friend WithEvents Button14 As System.Windows.Forms.Button
     Friend WithEvents Button13 As System.Windows.Forms.Button
     Friend WithEvents Label85 As System.Windows.Forms.Label
-    Friend WithEvents TextBox27 As System.Windows.Forms.TextBox
+    Friend WithEvents txt_mang As System.Windows.Forms.TextBox
     Friend WithEvents DataGridView4 As System.Windows.Forms.DataGridView
     Friend WithEvents TabPage4 As System.Windows.Forms.TabPage
     Friend WithEvents Button12 As System.Windows.Forms.Button
@@ -4262,7 +4262,7 @@ Partial Class Home
     Friend WithEvents Button21 As System.Windows.Forms.Button
     Friend WithEvents Button22 As System.Windows.Forms.Button
     Friend WithEvents Label88 As System.Windows.Forms.Label
-    Friend WithEvents TextBox30 As System.Windows.Forms.TextBox
+    Friend WithEvents txt_dep As System.Windows.Forms.TextBox
     Friend WithEvents DataGridView5 As System.Windows.Forms.DataGridView
     Friend WithEvents TabControl5 As System.Windows.Forms.TabControl
     Friend WithEvents TabPage13 As System.Windows.Forms.TabPage
@@ -4270,7 +4270,7 @@ Partial Class Home
     Friend WithEvents TabControl6 As System.Windows.Forms.TabControl
     Friend WithEvents TabPage15 As System.Windows.Forms.TabPage
     Friend WithEvents Label98 As System.Windows.Forms.Label
-    Friend WithEvents TextBox38 As System.Windows.Forms.TextBox
+    Friend WithEvents txt_U As System.Windows.Forms.TextBox
     Friend WithEvents DataGridView8 As System.Windows.Forms.DataGridView
     Friend WithEvents TabPage16 As System.Windows.Forms.TabPage
     Friend WithEvents Button23 As System.Windows.Forms.Button
@@ -4290,7 +4290,7 @@ Partial Class Home
     Friend WithEvents Button26 As System.Windows.Forms.Button
     Friend WithEvents Button27 As System.Windows.Forms.Button
     Friend WithEvents Label91 As System.Windows.Forms.Label
-    Friend WithEvents TextBox31 As System.Windows.Forms.TextBox
+    Friend WithEvents txt_C As System.Windows.Forms.TextBox
     Friend WithEvents DataGridView6 As System.Windows.Forms.DataGridView
     Friend WithEvents Button28 As System.Windows.Forms.Button
     Friend WithEvents Panel9 As System.Windows.Forms.Panel
@@ -4305,7 +4305,7 @@ Partial Class Home
     Friend WithEvents Button31 As System.Windows.Forms.Button
     Friend WithEvents Button32 As System.Windows.Forms.Button
     Friend WithEvents Label97 As System.Windows.Forms.Label
-    Friend WithEvents TextBox35 As System.Windows.Forms.TextBox
+    Friend WithEvents txt_T As System.Windows.Forms.TextBox
     Friend WithEvents DataGridView7 As System.Windows.Forms.DataGridView
     Friend WithEvents Button38 As System.Windows.Forms.Button
     Friend WithEvents Button33 As System.Windows.Forms.Button

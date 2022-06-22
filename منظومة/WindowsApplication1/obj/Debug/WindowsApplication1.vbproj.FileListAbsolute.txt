@@ -21,3 +21,7 @@ C:\Users\radww\OneDrive\Desktop\المشروع الجماعي\WindowsApplication
 C:\Users\radww\OneDrive\Desktop\المشروع الجماعي\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.add_Job.resources
 C:\Users\radww\OneDrive\Desktop\المشروع الجماعي\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Job.resources
 C:\Users\radww\OneDrive\Desktop\المشروع الجماعي\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Documents\GitHub\Number_One\منظومة\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\User\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\User\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\User\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

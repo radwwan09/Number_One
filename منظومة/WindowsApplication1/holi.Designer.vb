@@ -23,17 +23,17 @@ Partial Class holi
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
-        Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
-        Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker()
+        Me.H_type_A = New System.Windows.Forms.ComboBox()
+        Me.H_end_A = New System.Windows.Forms.DateTimePicker()
+        Me.H_start_A = New System.Windows.Forms.DateTimePicker()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.TextBox8 = New System.Windows.Forms.TextBox()
-        Me.TextBox6 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.H_period_A = New System.Windows.Forms.TextBox()
+        Me.Dey_A = New System.Windows.Forms.TextBox()
+        Me.Day_Annual_A = New System.Windows.Forms.TextBox()
+        Me.Day_Emergency_A = New System.Windows.Forms.TextBox()
+        Me.Emp_id_A = New System.Windows.Forms.TextBox()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
@@ -52,17 +52,17 @@ Partial Class holi
         '
         'GroupBox2
         '
-        Me.GroupBox2.Controls.Add(Me.ComboBox1)
-        Me.GroupBox2.Controls.Add(Me.DateTimePicker2)
-        Me.GroupBox2.Controls.Add(Me.DateTimePicker1)
+        Me.GroupBox2.Controls.Add(Me.H_type_A)
+        Me.GroupBox2.Controls.Add(Me.H_end_A)
+        Me.GroupBox2.Controls.Add(Me.H_start_A)
         Me.GroupBox2.Controls.Add(Me.Label6)
         Me.GroupBox2.Controls.Add(Me.Label4)
         Me.GroupBox2.Controls.Add(Me.Label5)
-        Me.GroupBox2.Controls.Add(Me.TextBox8)
-        Me.GroupBox2.Controls.Add(Me.TextBox6)
-        Me.GroupBox2.Controls.Add(Me.TextBox3)
-        Me.GroupBox2.Controls.Add(Me.TextBox2)
-        Me.GroupBox2.Controls.Add(Me.TextBox1)
+        Me.GroupBox2.Controls.Add(Me.H_period_A)
+        Me.GroupBox2.Controls.Add(Me.Dey_A)
+        Me.GroupBox2.Controls.Add(Me.Day_Annual_A)
+        Me.GroupBox2.Controls.Add(Me.Day_Emergency_A)
+        Me.GroupBox2.Controls.Add(Me.Emp_id_A)
         Me.GroupBox2.Controls.Add(Me.Label8)
         Me.GroupBox2.Controls.Add(Me.Label7)
         Me.GroupBox2.Controls.Add(Me.Label3)
@@ -78,30 +78,30 @@ Partial Class holi
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "معلومات الاجازة :"
         '
-        'ComboBox1
+        'H_type_A
         '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Location = New System.Drawing.Point(666, 142)
-        Me.ComboBox1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(148, 27)
-        Me.ComboBox1.TabIndex = 28
+        Me.H_type_A.FormattingEnabled = True
+        Me.H_type_A.Location = New System.Drawing.Point(666, 142)
+        Me.H_type_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_type_A.Name = "H_type_A"
+        Me.H_type_A.Size = New System.Drawing.Size(148, 24)
+        Me.H_type_A.TabIndex = 28
         '
-        'DateTimePicker2
+        'H_end_A
         '
-        Me.DateTimePicker2.Location = New System.Drawing.Point(24, 137)
-        Me.DateTimePicker2.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.DateTimePicker2.Name = "DateTimePicker2"
-        Me.DateTimePicker2.Size = New System.Drawing.Size(191, 27)
-        Me.DateTimePicker2.TabIndex = 27
+        Me.H_end_A.Location = New System.Drawing.Point(24, 137)
+        Me.H_end_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_end_A.Name = "H_end_A"
+        Me.H_end_A.Size = New System.Drawing.Size(191, 23)
+        Me.H_end_A.TabIndex = 27
         '
-        'DateTimePicker1
+        'H_start_A
         '
-        Me.DateTimePicker1.Location = New System.Drawing.Point(341, 137)
-        Me.DateTimePicker1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.DateTimePicker1.Name = "DateTimePicker1"
-        Me.DateTimePicker1.Size = New System.Drawing.Size(209, 27)
-        Me.DateTimePicker1.TabIndex = 26
+        Me.H_start_A.Location = New System.Drawing.Point(341, 137)
+        Me.H_start_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_start_A.Name = "H_start_A"
+        Me.H_start_A.Size = New System.Drawing.Size(209, 23)
+        Me.H_start_A.TabIndex = 26
         '
         'Label6
         '
@@ -109,7 +109,7 @@ Partial Class holi
         Me.Label6.Location = New System.Drawing.Point(823, 146)
         Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(81, 19)
+        Me.Label6.Size = New System.Drawing.Size(68, 16)
         Me.Label6.TabIndex = 25
         Me.Label6.Text = "نوع الاجازة :"
         '
@@ -119,7 +119,7 @@ Partial Class holi
         Me.Label4.Location = New System.Drawing.Point(223, 143)
         Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(108, 19)
+        Me.Label4.Size = New System.Drawing.Size(89, 16)
         Me.Label4.TabIndex = 21
         Me.Label4.Text = "ت/انتهاء الاجازة :"
         '
@@ -129,49 +129,49 @@ Partial Class holi
         Me.Label5.Location = New System.Drawing.Point(559, 145)
         Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(102, 19)
+        Me.Label5.Size = New System.Drawing.Size(84, 16)
         Me.Label5.TabIndex = 20
         Me.Label5.Text = "ت/بداية الاجازة :"
         '
-        'TextBox8
+        'H_period_A
         '
-        Me.TextBox8.Location = New System.Drawing.Point(562, 194)
-        Me.TextBox8.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox8.Name = "TextBox8"
-        Me.TextBox8.Size = New System.Drawing.Size(148, 27)
-        Me.TextBox8.TabIndex = 19
+        Me.H_period_A.Location = New System.Drawing.Point(562, 194)
+        Me.H_period_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.H_period_A.Name = "H_period_A"
+        Me.H_period_A.Size = New System.Drawing.Size(148, 23)
+        Me.H_period_A.TabIndex = 19
         '
-        'TextBox6
+        'Dey_A
         '
-        Me.TextBox6.Location = New System.Drawing.Point(102, 194)
-        Me.TextBox6.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.Size = New System.Drawing.Size(148, 27)
-        Me.TextBox6.TabIndex = 18
+        Me.Dey_A.Location = New System.Drawing.Point(102, 194)
+        Me.Dey_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Dey_A.Name = "Dey_A"
+        Me.Dey_A.Size = New System.Drawing.Size(148, 23)
+        Me.Dey_A.TabIndex = 18
         '
-        'TextBox3
+        'Day_Annual_A
         '
-        Me.TextBox3.Location = New System.Drawing.Point(341, 71)
-        Me.TextBox3.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(148, 27)
-        Me.TextBox3.TabIndex = 15
+        Me.Day_Annual_A.Location = New System.Drawing.Point(341, 71)
+        Me.Day_Annual_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Day_Annual_A.Name = "Day_Annual_A"
+        Me.Day_Annual_A.Size = New System.Drawing.Size(148, 23)
+        Me.Day_Annual_A.TabIndex = 15
         '
-        'TextBox2
+        'Day_Emergency_A
         '
-        Me.TextBox2.Location = New System.Drawing.Point(24, 70)
-        Me.TextBox2.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(148, 27)
-        Me.TextBox2.TabIndex = 15
+        Me.Day_Emergency_A.Location = New System.Drawing.Point(24, 70)
+        Me.Day_Emergency_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Day_Emergency_A.Name = "Day_Emergency_A"
+        Me.Day_Emergency_A.Size = New System.Drawing.Size(148, 23)
+        Me.Day_Emergency_A.TabIndex = 15
         '
-        'TextBox1
+        'Emp_id_A
         '
-        Me.TextBox1.Location = New System.Drawing.Point(666, 71)
-        Me.TextBox1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(148, 27)
-        Me.TextBox1.TabIndex = 14
+        Me.Emp_id_A.Location = New System.Drawing.Point(666, 71)
+        Me.Emp_id_A.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.Emp_id_A.Name = "Emp_id_A"
+        Me.Emp_id_A.Size = New System.Drawing.Size(148, 23)
+        Me.Emp_id_A.TabIndex = 14
         '
         'Label8
         '
@@ -179,7 +179,7 @@ Partial Class holi
         Me.Label8.Location = New System.Drawing.Point(252, 198)
         Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(82, 19)
+        Me.Label8.Size = New System.Drawing.Size(68, 16)
         Me.Label8.TabIndex = 13
         Me.Label8.Text = "الايام الفعلية :"
         '
@@ -189,7 +189,7 @@ Partial Class holi
         Me.Label7.Location = New System.Drawing.Point(717, 198)
         Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(79, 19)
+        Me.Label7.Size = New System.Drawing.Size(65, 16)
         Me.Label7.TabIndex = 12
         Me.Label7.Text = "المدة بالايام :"
         '
@@ -199,7 +199,7 @@ Partial Class holi
         Me.Label3.Location = New System.Drawing.Point(195, 74)
         Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(123, 19)
+        Me.Label3.Size = New System.Drawing.Size(101, 16)
         Me.Label3.TabIndex = 9
         Me.Label3.Text = "ايام الاجازة الطارئة :"
         '
@@ -209,7 +209,7 @@ Partial Class holi
         Me.Label2.Location = New System.Drawing.Point(498, 75)
         Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(121, 19)
+        Me.Label2.Size = New System.Drawing.Size(99, 16)
         Me.Label2.TabIndex = 8
         Me.Label2.Text = "ايام الاجازة السنوية :"
         '
@@ -219,7 +219,7 @@ Partial Class holi
         Me.Label1.Location = New System.Drawing.Point(810, 74)
         Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(86, 19)
+        Me.Label1.Size = New System.Drawing.Size(72, 16)
         Me.Label1.TabIndex = 7
         Me.Label1.Text = "رقم الموظف :"
         '
@@ -275,7 +275,7 @@ Partial Class holi
         Me.RadioButton3.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.RadioButton3.Name = "RadioButton3"
         Me.RadioButton3.RightToLeft = System.Windows.Forms.RightToLeft.Yes
-        Me.RadioButton3.Size = New System.Drawing.Size(114, 23)
+        Me.RadioButton3.Size = New System.Drawing.Size(95, 20)
         Me.RadioButton3.TabIndex = 2
         Me.RadioButton3.TabStop = True
         Me.RadioButton3.Text = "تعديل الاجازات"
@@ -288,7 +288,7 @@ Partial Class holi
         Me.RadioButton2.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.RadioButton2.Name = "RadioButton2"
         Me.RadioButton2.RightToLeft = System.Windows.Forms.RightToLeft.Yes
-        Me.RadioButton2.Size = New System.Drawing.Size(182, 23)
+        Me.RadioButton2.Size = New System.Drawing.Size(153, 20)
         Me.RadioButton2.TabIndex = 1
         Me.RadioButton2.TabStop = True
         Me.RadioButton2.Text = "اضافة اجازة لموظف موجود"
@@ -301,7 +301,7 @@ Partial Class holi
         Me.RadioButton1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.RadioButton1.Name = "RadioButton1"
         Me.RadioButton1.RightToLeft = System.Windows.Forms.RightToLeft.Yes
-        Me.RadioButton1.Size = New System.Drawing.Size(171, 23)
+        Me.RadioButton1.Size = New System.Drawing.Size(143, 20)
         Me.RadioButton1.TabIndex = 0
         Me.RadioButton1.TabStop = True
         Me.RadioButton1.Text = "اضافة اجازة لموظف جديد"
@@ -309,7 +309,7 @@ Partial Class holi
         '
         'holi
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 19.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1173, 448)
         Me.ControlBox = False
@@ -332,17 +332,17 @@ Partial Class holi
 
     End Sub
     Friend WithEvents GroupBox2 As System.Windows.Forms.GroupBox
-    Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
-    Friend WithEvents DateTimePicker2 As System.Windows.Forms.DateTimePicker
-    Friend WithEvents DateTimePicker1 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents H_type_A As System.Windows.Forms.ComboBox
+    Friend WithEvents H_end_A As System.Windows.Forms.DateTimePicker
+    Friend WithEvents H_start_A As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label6 As System.Windows.Forms.Label
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Label5 As System.Windows.Forms.Label
-    Friend WithEvents TextBox8 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox6 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox3 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents H_period_A As System.Windows.Forms.TextBox
+    Friend WithEvents Dey_A As System.Windows.Forms.TextBox
+    Friend WithEvents Day_Annual_A As System.Windows.Forms.TextBox
+    Friend WithEvents Day_Emergency_A As System.Windows.Forms.TextBox
+    Friend WithEvents Emp_id_A As System.Windows.Forms.TextBox
     Friend WithEvents Label8 As System.Windows.Forms.Label
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
