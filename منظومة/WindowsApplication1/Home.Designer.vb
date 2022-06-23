@@ -210,64 +210,64 @@ Partial Class Home
         Me.Label24 = New System.Windows.Forms.Label()
         Me.Panel3 = New System.Windows.Forms.Panel()
         Me.Label52 = New System.Windows.Forms.Label()
-        Me.ComboBox12 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox11 = New System.Windows.Forms.ComboBox()
+        Me.Dep_A = New System.Windows.Forms.ComboBox()
+        Me.Country_A = New System.Windows.Forms.ComboBox()
         Me.Label30 = New System.Windows.Forms.Label()
-        Me.DateTimePicker5 = New System.Windows.Forms.DateTimePicker()
+        Me.Getting_date_A = New System.Windows.Forms.DateTimePicker()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Label29 = New System.Windows.Forms.Label()
-        Me.ComboBox10 = New System.Windows.Forms.ComboBox()
+        Me.Costing_A = New System.Windows.Forms.ComboBox()
         Me.Button6 = New System.Windows.Forms.Button()
         Me.Label28 = New System.Windows.Forms.Label()
-        Me.ComboBox9 = New System.Windows.Forms.ComboBox()
+        Me.Qual_A = New System.Windows.Forms.ComboBox()
         Me.Label27 = New System.Windows.Forms.Label()
-        Me.ComboBox8 = New System.Windows.Forms.ComboBox()
+        Me.Spec_A = New System.Windows.Forms.ComboBox()
         Me.Label26 = New System.Windows.Forms.Label()
         Me.Label25 = New System.Windows.Forms.Label()
-        Me.TextBox11 = New System.Windows.Forms.TextBox()
-        Me.ComboBox7 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox4 = New System.Windows.Forms.ComboBox()
-        Me.TextBox12 = New System.Windows.Forms.TextBox()
+        Me.Cer_id_A = New System.Windows.Forms.TextBox()
+        Me.Fun_Level_A = New System.Windows.Forms.ComboBox()
+        Me.Job_n_A = New System.Windows.Forms.ComboBox()
+        Me.Annual_A = New System.Windows.Forms.TextBox()
         Me.Label22 = New System.Windows.Forms.Label()
-        Me.DateTimePicker6 = New System.Windows.Forms.DateTimePicker()
+        Me.Data_direct_A = New System.Windows.Forms.DateTimePicker()
         Me.Label23 = New System.Windows.Forms.Label()
         Me.Label31 = New System.Windows.Forms.Label()
-        Me.ComboBox5 = New System.Windows.Forms.ComboBox()
+        Me.Fun_Deg_A = New System.Windows.Forms.ComboBox()
         Me.Label32 = New System.Windows.Forms.Label()
         Me.Label33 = New System.Windows.Forms.Label()
         Me.Label34 = New System.Windows.Forms.Label()
-        Me.TextBox13 = New System.Windows.Forms.TextBox()
+        Me.Emergency_A = New System.Windows.Forms.TextBox()
         Me.Label35 = New System.Windows.Forms.Label()
-        Me.DateTimePicker7 = New System.Windows.Forms.DateTimePicker()
+        Me.Data_original_A = New System.Windows.Forms.DateTimePicker()
         Me.Label36 = New System.Windows.Forms.Label()
         Me.Label37 = New System.Windows.Forms.Label()
         Me.Panel4 = New System.Windows.Forms.Panel()
         Me.Label53 = New System.Windows.Forms.Label()
-        Me.Birth_Place = New System.Windows.Forms.ComboBox()
-        Me.Conf_Id = New System.Windows.Forms.TextBox()
+        Me.Birth_Place_A = New System.Windows.Forms.ComboBox()
+        Me.Conf_Id_A = New System.Windows.Forms.TextBox()
         Me.Emp_Id = New System.Windows.Forms.TextBox()
         Me.Label38 = New System.Windows.Forms.Label()
-        Me.Email = New System.Windows.Forms.TextBox()
+        Me.Email_A = New System.Windows.Forms.TextBox()
         Me.Emp_Name = New System.Windows.Forms.TextBox()
         Me.Label39 = New System.Windows.Forms.Label()
         Me.Label40 = New System.Windows.Forms.Label()
-        Me.Phone = New System.Windows.Forms.TextBox()
-        Me.Emp_M = New System.Windows.Forms.TextBox()
+        Me.Phone_A = New System.Windows.Forms.TextBox()
+        Me.Emp_M_A = New System.Windows.Forms.TextBox()
         Me.Label41 = New System.Windows.Forms.Label()
         Me.Label42 = New System.Windows.Forms.Label()
-        Me.Address = New System.Windows.Forms.TextBox()
+        Me.Address_A = New System.Windows.Forms.TextBox()
         Me.Label43 = New System.Windows.Forms.Label()
         Me.Label44 = New System.Windows.Forms.Label()
-        Me.Emp_NW = New System.Windows.Forms.TextBox()
-        Me.Nationa = New System.Windows.Forms.TextBox()
+        Me.Emp_NW_A = New System.Windows.Forms.TextBox()
+        Me.Nationa_A = New System.Windows.Forms.TextBox()
         Me.Label45 = New System.Windows.Forms.Label()
         Me.Label46 = New System.Windows.Forms.Label()
-        Me.Conf_Type = New System.Windows.Forms.ComboBox()
-        Me.Gender = New System.Windows.Forms.ComboBox()
+        Me.Conf_Type_A = New System.Windows.Forms.ComboBox()
+        Me.Gender_A = New System.Windows.Forms.ComboBox()
         Me.Label47 = New System.Windows.Forms.Label()
         Me.Label48 = New System.Windows.Forms.Label()
-        Me.Birth_Data = New System.Windows.Forms.DateTimePicker()
-        Me.Social_Case = New System.Windows.Forms.ComboBox()
+        Me.Birth_Data_A = New System.Windows.Forms.DateTimePicker()
+        Me.Social_Case_A = New System.Windows.Forms.ComboBox()
         Me.Label49 = New System.Windows.Forms.Label()
         Me.Label50 = New System.Windows.Forms.Label()
         Me.Label51 = New System.Windows.Forms.Label()
@@ -275,63 +275,63 @@ Partial Class Home
         Me.Panel5 = New System.Windows.Forms.Panel()
         Me.Button10 = New System.Windows.Forms.Button()
         Me.Label54 = New System.Windows.Forms.Label()
-        Me.ComboBox3 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox6 = New System.Windows.Forms.ComboBox()
+        Me.Dep_id_E = New System.Windows.Forms.ComboBox()
+        Me.Country_E = New System.Windows.Forms.ComboBox()
         Me.Label55 = New System.Windows.Forms.Label()
-        Me.DateTimePicker8 = New System.Windows.Forms.DateTimePicker()
+        Me.Getting_date_E = New System.Windows.Forms.DateTimePicker()
         Me.Button7 = New System.Windows.Forms.Button()
         Me.Label56 = New System.Windows.Forms.Label()
-        Me.ComboBox13 = New System.Windows.Forms.ComboBox()
+        Me.Costing_E = New System.Windows.Forms.ComboBox()
         Me.Button8 = New System.Windows.Forms.Button()
         Me.Label57 = New System.Windows.Forms.Label()
-        Me.ComboBox14 = New System.Windows.Forms.ComboBox()
+        Me.Qual_E = New System.Windows.Forms.ComboBox()
         Me.Label58 = New System.Windows.Forms.Label()
-        Me.ComboBox15 = New System.Windows.Forms.ComboBox()
+        Me.Spec_E = New System.Windows.Forms.ComboBox()
         Me.Label59 = New System.Windows.Forms.Label()
         Me.Label60 = New System.Windows.Forms.Label()
-        Me.TextBox14 = New System.Windows.Forms.TextBox()
-        Me.ComboBox16 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox17 = New System.Windows.Forms.ComboBox()
-        Me.TextBox15 = New System.Windows.Forms.TextBox()
+        Me.Cer_id_E = New System.Windows.Forms.TextBox()
+        Me.Fun_Level_E = New System.Windows.Forms.ComboBox()
+        Me.Job_E = New System.Windows.Forms.ComboBox()
+        Me.Annual_E = New System.Windows.Forms.TextBox()
         Me.Label61 = New System.Windows.Forms.Label()
-        Me.DateTimePicker9 = New System.Windows.Forms.DateTimePicker()
+        Me.Data_direct_E = New System.Windows.Forms.DateTimePicker()
         Me.Label62 = New System.Windows.Forms.Label()
         Me.Label63 = New System.Windows.Forms.Label()
-        Me.ComboBox18 = New System.Windows.Forms.ComboBox()
+        Me.Fun_Deg_E = New System.Windows.Forms.ComboBox()
         Me.Label64 = New System.Windows.Forms.Label()
         Me.Label65 = New System.Windows.Forms.Label()
         Me.Label66 = New System.Windows.Forms.Label()
-        Me.TextBox16 = New System.Windows.Forms.TextBox()
+        Me.Emergency_E = New System.Windows.Forms.TextBox()
         Me.Label67 = New System.Windows.Forms.Label()
-        Me.DateTimePicker10 = New System.Windows.Forms.DateTimePicker()
+        Me.Data_original_E = New System.Windows.Forms.DateTimePicker()
         Me.Label68 = New System.Windows.Forms.Label()
         Me.Panel6 = New System.Windows.Forms.Panel()
         Me.Label69 = New System.Windows.Forms.Label()
-        Me.ComboBox19 = New System.Windows.Forms.ComboBox()
-        Me.TextBox17 = New System.Windows.Forms.TextBox()
-        Me.TextBox18 = New System.Windows.Forms.TextBox()
+        Me.Birth_Place_E = New System.Windows.Forms.ComboBox()
+        Me.Conf_id_E = New System.Windows.Forms.TextBox()
+        Me.emp_E = New System.Windows.Forms.TextBox()
         Me.Label70 = New System.Windows.Forms.Label()
-        Me.TextBox19 = New System.Windows.Forms.TextBox()
-        Me.TextBox20 = New System.Windows.Forms.TextBox()
+        Me.Email_E = New System.Windows.Forms.TextBox()
+        Me.e_name_E = New System.Windows.Forms.TextBox()
         Me.Label71 = New System.Windows.Forms.Label()
         Me.Label72 = New System.Windows.Forms.Label()
-        Me.TextBox21 = New System.Windows.Forms.TextBox()
-        Me.TextBox22 = New System.Windows.Forms.TextBox()
+        Me.Phon_E = New System.Windows.Forms.TextBox()
+        Me.emp_m_E = New System.Windows.Forms.TextBox()
         Me.Label73 = New System.Windows.Forms.Label()
         Me.Label74 = New System.Windows.Forms.Label()
-        Me.TextBox23 = New System.Windows.Forms.TextBox()
+        Me.Address_E = New System.Windows.Forms.TextBox()
         Me.Label75 = New System.Windows.Forms.Label()
         Me.Label76 = New System.Windows.Forms.Label()
-        Me.TextBox24 = New System.Windows.Forms.TextBox()
-        Me.TextBox25 = New System.Windows.Forms.TextBox()
+        Me.emp_NW_E = New System.Windows.Forms.TextBox()
+        Me.Nationa_E = New System.Windows.Forms.TextBox()
         Me.Label77 = New System.Windows.Forms.Label()
         Me.Label78 = New System.Windows.Forms.Label()
-        Me.ComboBox20 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox21 = New System.Windows.Forms.ComboBox()
+        Me.Conf_type_E = New System.Windows.Forms.ComboBox()
+        Me.Gender_E = New System.Windows.Forms.ComboBox()
         Me.Label79 = New System.Windows.Forms.Label()
         Me.Label80 = New System.Windows.Forms.Label()
-        Me.DateTimePicker11 = New System.Windows.Forms.DateTimePicker()
-        Me.ComboBox22 = New System.Windows.Forms.ComboBox()
+        Me.Birth_date_E = New System.Windows.Forms.DateTimePicker()
+        Me.Social_case_E = New System.Windows.Forms.ComboBox()
         Me.Label81 = New System.Windows.Forms.Label()
         Me.Label82 = New System.Windows.Forms.Label()
         Me.Label83 = New System.Windows.Forms.Label()
@@ -339,7 +339,7 @@ Partial Class Home
         Me.Button11 = New System.Windows.Forms.Button()
         Me.Button9 = New System.Windows.Forms.Button()
         Me.Label84 = New System.Windows.Forms.Label()
-        Me.TextBox26 = New System.Windows.Forms.TextBox()
+        Me.Family_Serah = New System.Windows.Forms.TextBox()
         Me.DataGridView3 = New System.Windows.Forms.DataGridView()
         Me.TabPage17 = New System.Windows.Forms.TabPage()
         Me.Label2 = New System.Windows.Forms.Label()
@@ -2391,35 +2391,35 @@ Partial Class Home
         'Panel3
         '
         Me.Panel3.Controls.Add(Me.Label52)
-        Me.Panel3.Controls.Add(Me.ComboBox12)
-        Me.Panel3.Controls.Add(Me.ComboBox11)
+        Me.Panel3.Controls.Add(Me.Dep_A)
+        Me.Panel3.Controls.Add(Me.Country_A)
         Me.Panel3.Controls.Add(Me.Label30)
-        Me.Panel3.Controls.Add(Me.DateTimePicker5)
+        Me.Panel3.Controls.Add(Me.Getting_date_A)
         Me.Panel3.Controls.Add(Me.Button3)
         Me.Panel3.Controls.Add(Me.Label29)
-        Me.Panel3.Controls.Add(Me.ComboBox10)
+        Me.Panel3.Controls.Add(Me.Costing_A)
         Me.Panel3.Controls.Add(Me.Button6)
         Me.Panel3.Controls.Add(Me.Label28)
-        Me.Panel3.Controls.Add(Me.ComboBox9)
+        Me.Panel3.Controls.Add(Me.Qual_A)
         Me.Panel3.Controls.Add(Me.Label27)
-        Me.Panel3.Controls.Add(Me.ComboBox8)
+        Me.Panel3.Controls.Add(Me.Spec_A)
         Me.Panel3.Controls.Add(Me.Label26)
         Me.Panel3.Controls.Add(Me.Label25)
-        Me.Panel3.Controls.Add(Me.TextBox11)
-        Me.Panel3.Controls.Add(Me.ComboBox7)
-        Me.Panel3.Controls.Add(Me.ComboBox4)
-        Me.Panel3.Controls.Add(Me.TextBox12)
+        Me.Panel3.Controls.Add(Me.Cer_id_A)
+        Me.Panel3.Controls.Add(Me.Fun_Level_A)
+        Me.Panel3.Controls.Add(Me.Job_n_A)
+        Me.Panel3.Controls.Add(Me.Annual_A)
         Me.Panel3.Controls.Add(Me.Label22)
-        Me.Panel3.Controls.Add(Me.DateTimePicker6)
+        Me.Panel3.Controls.Add(Me.Data_direct_A)
         Me.Panel3.Controls.Add(Me.Label23)
         Me.Panel3.Controls.Add(Me.Label31)
-        Me.Panel3.Controls.Add(Me.ComboBox5)
+        Me.Panel3.Controls.Add(Me.Fun_Deg_A)
         Me.Panel3.Controls.Add(Me.Label32)
         Me.Panel3.Controls.Add(Me.Label33)
         Me.Panel3.Controls.Add(Me.Label34)
-        Me.Panel3.Controls.Add(Me.TextBox13)
+        Me.Panel3.Controls.Add(Me.Emergency_A)
         Me.Panel3.Controls.Add(Me.Label35)
-        Me.Panel3.Controls.Add(Me.DateTimePicker7)
+        Me.Panel3.Controls.Add(Me.Data_original_A)
         Me.Panel3.Controls.Add(Me.Label36)
         Me.Panel3.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Panel3.Location = New System.Drawing.Point(4, 6)
@@ -2440,25 +2440,25 @@ Partial Class Home
         Me.Label52.Text = "بيانات المؤهل"
         Me.Label52.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'ComboBox12
+        'Dep_A
         '
-        Me.ComboBox12.FormattingEnabled = True
-        Me.ComboBox12.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox12.Location = New System.Drawing.Point(13, 208)
-        Me.ComboBox12.Name = "ComboBox12"
-        Me.ComboBox12.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox12.TabIndex = 57
-        Me.ComboBox12.UseWaitCursor = True
+        Me.Dep_A.FormattingEnabled = True
+        Me.Dep_A.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Dep_A.Location = New System.Drawing.Point(13, 208)
+        Me.Dep_A.Name = "Dep_A"
+        Me.Dep_A.Size = New System.Drawing.Size(129, 24)
+        Me.Dep_A.TabIndex = 57
+        Me.Dep_A.UseWaitCursor = True
         '
-        'ComboBox11
+        'Country_A
         '
-        Me.ComboBox11.FormattingEnabled = True
-        Me.ComboBox11.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox11.Location = New System.Drawing.Point(13, 178)
-        Me.ComboBox11.Name = "ComboBox11"
-        Me.ComboBox11.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox11.TabIndex = 56
-        Me.ComboBox11.UseWaitCursor = True
+        Me.Country_A.FormattingEnabled = True
+        Me.Country_A.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Country_A.Location = New System.Drawing.Point(13, 178)
+        Me.Country_A.Name = "Country_A"
+        Me.Country_A.Size = New System.Drawing.Size(129, 24)
+        Me.Country_A.TabIndex = 56
+        Me.Country_A.UseWaitCursor = True
         '
         'Label30
         '
@@ -2471,13 +2471,13 @@ Partial Class Home
         Me.Label30.Text = "مكان الاصدار"
         Me.Label30.UseWaitCursor = True
         '
-        'DateTimePicker5
+        'Getting_date_A
         '
-        Me.DateTimePicker5.Location = New System.Drawing.Point(13, 143)
-        Me.DateTimePicker5.Name = "DateTimePicker5"
-        Me.DateTimePicker5.Size = New System.Drawing.Size(127, 24)
-        Me.DateTimePicker5.TabIndex = 53
-        Me.DateTimePicker5.UseWaitCursor = True
+        Me.Getting_date_A.Location = New System.Drawing.Point(13, 143)
+        Me.Getting_date_A.Name = "Getting_date_A"
+        Me.Getting_date_A.Size = New System.Drawing.Size(127, 24)
+        Me.Getting_date_A.TabIndex = 53
+        Me.Getting_date_A.UseWaitCursor = True
         '
         'Button3
         '
@@ -2499,15 +2499,15 @@ Partial Class Home
         Me.Label29.Text = "تاريخ الاصدار"
         Me.Label29.UseWaitCursor = True
         '
-        'ComboBox10
+        'Costing_A
         '
-        Me.ComboBox10.FormattingEnabled = True
-        Me.ComboBox10.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox10.Location = New System.Drawing.Point(11, 109)
-        Me.ComboBox10.Name = "ComboBox10"
-        Me.ComboBox10.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox10.TabIndex = 52
-        Me.ComboBox10.UseWaitCursor = True
+        Me.Costing_A.FormattingEnabled = True
+        Me.Costing_A.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Costing_A.Location = New System.Drawing.Point(11, 109)
+        Me.Costing_A.Name = "Costing_A"
+        Me.Costing_A.Size = New System.Drawing.Size(129, 24)
+        Me.Costing_A.TabIndex = 52
+        Me.Costing_A.UseWaitCursor = True
         '
         'Button6
         '
@@ -2529,15 +2529,15 @@ Partial Class Home
         Me.Label28.Text = "التقدير"
         Me.Label28.UseWaitCursor = True
         '
-        'ComboBox9
+        'Qual_A
         '
-        Me.ComboBox9.FormattingEnabled = True
-        Me.ComboBox9.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox9.Location = New System.Drawing.Point(11, 77)
-        Me.ComboBox9.Name = "ComboBox9"
-        Me.ComboBox9.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox9.TabIndex = 50
-        Me.ComboBox9.UseWaitCursor = True
+        Me.Qual_A.FormattingEnabled = True
+        Me.Qual_A.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Qual_A.Location = New System.Drawing.Point(11, 77)
+        Me.Qual_A.Name = "Qual_A"
+        Me.Qual_A.Size = New System.Drawing.Size(129, 24)
+        Me.Qual_A.TabIndex = 50
+        Me.Qual_A.UseWaitCursor = True
         '
         'Label27
         '
@@ -2550,15 +2550,15 @@ Partial Class Home
         Me.Label27.Text = "المؤهل"
         Me.Label27.UseWaitCursor = True
         '
-        'ComboBox8
+        'Spec_A
         '
-        Me.ComboBox8.FormattingEnabled = True
-        Me.ComboBox8.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox8.Location = New System.Drawing.Point(11, 41)
-        Me.ComboBox8.Name = "ComboBox8"
-        Me.ComboBox8.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox8.TabIndex = 48
-        Me.ComboBox8.UseWaitCursor = True
+        Me.Spec_A.FormattingEnabled = True
+        Me.Spec_A.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Spec_A.Location = New System.Drawing.Point(11, 41)
+        Me.Spec_A.Name = "Spec_A"
+        Me.Spec_A.Size = New System.Drawing.Size(129, 24)
+        Me.Spec_A.TabIndex = 48
+        Me.Spec_A.UseWaitCursor = True
         '
         'Label26
         '
@@ -2582,43 +2582,43 @@ Partial Class Home
         Me.Label25.Text = "رقم وثيقة التخرج"
         Me.Label25.UseWaitCursor = True
         '
-        'TextBox11
+        'Cer_id_A
         '
-        Me.TextBox11.Location = New System.Drawing.Point(246, 268)
-        Me.TextBox11.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox11.Name = "TextBox11"
-        Me.TextBox11.Size = New System.Drawing.Size(132, 24)
-        Me.TextBox11.TabIndex = 45
-        Me.TextBox11.UseWaitCursor = True
+        Me.Cer_id_A.Location = New System.Drawing.Point(246, 268)
+        Me.Cer_id_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Cer_id_A.Name = "Cer_id_A"
+        Me.Cer_id_A.Size = New System.Drawing.Size(132, 24)
+        Me.Cer_id_A.TabIndex = 45
+        Me.Cer_id_A.UseWaitCursor = True
         '
-        'ComboBox7
+        'Fun_Level_A
         '
-        Me.ComboBox7.FormattingEnabled = True
-        Me.ComboBox7.Items.AddRange(New Object() {"أعزب", "متزوج"})
-        Me.ComboBox7.Location = New System.Drawing.Point(246, 201)
-        Me.ComboBox7.Name = "ComboBox7"
-        Me.ComboBox7.Size = New System.Drawing.Size(131, 24)
-        Me.ComboBox7.TabIndex = 44
-        Me.ComboBox7.UseWaitCursor = True
+        Me.Fun_Level_A.FormattingEnabled = True
+        Me.Fun_Level_A.Items.AddRange(New Object() {"أعزب", "متزوج"})
+        Me.Fun_Level_A.Location = New System.Drawing.Point(246, 201)
+        Me.Fun_Level_A.Name = "Fun_Level_A"
+        Me.Fun_Level_A.Size = New System.Drawing.Size(131, 24)
+        Me.Fun_Level_A.TabIndex = 44
+        Me.Fun_Level_A.UseWaitCursor = True
         '
-        'ComboBox4
+        'Job_n_A
         '
-        Me.ComboBox4.FormattingEnabled = True
-        Me.ComboBox4.Items.AddRange(New Object() {"أعزب", "متزوج"})
-        Me.ComboBox4.Location = New System.Drawing.Point(245, 169)
-        Me.ComboBox4.Name = "ComboBox4"
-        Me.ComboBox4.Size = New System.Drawing.Size(132, 24)
-        Me.ComboBox4.TabIndex = 29
-        Me.ComboBox4.UseWaitCursor = True
+        Me.Job_n_A.FormattingEnabled = True
+        Me.Job_n_A.Items.AddRange(New Object() {"أعزب", "متزوج"})
+        Me.Job_n_A.Location = New System.Drawing.Point(245, 169)
+        Me.Job_n_A.Name = "Job_n_A"
+        Me.Job_n_A.Size = New System.Drawing.Size(132, 24)
+        Me.Job_n_A.TabIndex = 29
+        Me.Job_n_A.UseWaitCursor = True
         '
-        'TextBox12
+        'Annual_A
         '
-        Me.TextBox12.Location = New System.Drawing.Point(246, 104)
-        Me.TextBox12.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox12.Name = "TextBox12"
-        Me.TextBox12.Size = New System.Drawing.Size(132, 24)
-        Me.TextBox12.TabIndex = 42
-        Me.TextBox12.UseWaitCursor = True
+        Me.Annual_A.Location = New System.Drawing.Point(246, 104)
+        Me.Annual_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Annual_A.Name = "Annual_A"
+        Me.Annual_A.Size = New System.Drawing.Size(132, 24)
+        Me.Annual_A.TabIndex = 42
+        Me.Annual_A.UseWaitCursor = True
         '
         'Label22
         '
@@ -2631,13 +2631,13 @@ Partial Class Home
         Me.Label22.Text = "رصيد الاجازات السنوية"
         Me.Label22.UseWaitCursor = True
         '
-        'DateTimePicker6
+        'Data_direct_A
         '
-        Me.DateTimePicker6.Location = New System.Drawing.Point(246, 42)
-        Me.DateTimePicker6.Name = "DateTimePicker6"
-        Me.DateTimePicker6.Size = New System.Drawing.Size(132, 24)
-        Me.DateTimePicker6.TabIndex = 40
-        Me.DateTimePicker6.UseWaitCursor = True
+        Me.Data_direct_A.Location = New System.Drawing.Point(246, 42)
+        Me.Data_direct_A.Name = "Data_direct_A"
+        Me.Data_direct_A.Size = New System.Drawing.Size(132, 24)
+        Me.Data_direct_A.TabIndex = 40
+        Me.Data_direct_A.UseWaitCursor = True
         '
         'Label23
         '
@@ -2661,15 +2661,15 @@ Partial Class Home
         Me.Label31.Text = "رقم القسم"
         Me.Label31.UseWaitCursor = True
         '
-        'ComboBox5
+        'Fun_Deg_A
         '
-        Me.ComboBox5.FormattingEnabled = True
-        Me.ComboBox5.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox5.Location = New System.Drawing.Point(246, 235)
-        Me.ComboBox5.Name = "ComboBox5"
-        Me.ComboBox5.Size = New System.Drawing.Size(132, 24)
-        Me.ComboBox5.TabIndex = 38
-        Me.ComboBox5.UseWaitCursor = True
+        Me.Fun_Deg_A.FormattingEnabled = True
+        Me.Fun_Deg_A.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Fun_Deg_A.Location = New System.Drawing.Point(246, 235)
+        Me.Fun_Deg_A.Name = "Fun_Deg_A"
+        Me.Fun_Deg_A.Size = New System.Drawing.Size(132, 24)
+        Me.Fun_Deg_A.TabIndex = 38
+        Me.Fun_Deg_A.UseWaitCursor = True
         '
         'Label32
         '
@@ -2704,14 +2704,14 @@ Partial Class Home
         Me.Label34.Text = "اسم الوظيفة"
         Me.Label34.UseWaitCursor = True
         '
-        'TextBox13
+        'Emergency_A
         '
-        Me.TextBox13.Location = New System.Drawing.Point(246, 136)
-        Me.TextBox13.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox13.Name = "TextBox13"
-        Me.TextBox13.Size = New System.Drawing.Size(132, 24)
-        Me.TextBox13.TabIndex = 30
-        Me.TextBox13.UseWaitCursor = True
+        Me.Emergency_A.Location = New System.Drawing.Point(246, 136)
+        Me.Emergency_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Emergency_A.Name = "Emergency_A"
+        Me.Emergency_A.Size = New System.Drawing.Size(132, 24)
+        Me.Emergency_A.TabIndex = 30
+        Me.Emergency_A.UseWaitCursor = True
         '
         'Label35
         '
@@ -2724,13 +2724,13 @@ Partial Class Home
         Me.Label35.Text = "رصيد الاجازات الطارئة"
         Me.Label35.UseWaitCursor = True
         '
-        'DateTimePicker7
+        'Data_original_A
         '
-        Me.DateTimePicker7.Location = New System.Drawing.Point(246, 72)
-        Me.DateTimePicker7.Name = "DateTimePicker7"
-        Me.DateTimePicker7.Size = New System.Drawing.Size(132, 24)
-        Me.DateTimePicker7.TabIndex = 28
-        Me.DateTimePicker7.UseWaitCursor = True
+        Me.Data_original_A.Location = New System.Drawing.Point(246, 72)
+        Me.Data_original_A.Name = "Data_original_A"
+        Me.Data_original_A.Size = New System.Drawing.Size(132, 24)
+        Me.Data_original_A.TabIndex = 28
+        Me.Data_original_A.UseWaitCursor = True
         '
         'Label36
         '
@@ -2755,31 +2755,31 @@ Partial Class Home
         'Panel4
         '
         Me.Panel4.Controls.Add(Me.Label53)
-        Me.Panel4.Controls.Add(Me.Birth_Place)
-        Me.Panel4.Controls.Add(Me.Conf_Id)
+        Me.Panel4.Controls.Add(Me.Birth_Place_A)
+        Me.Panel4.Controls.Add(Me.Conf_Id_A)
         Me.Panel4.Controls.Add(Me.Emp_Id)
         Me.Panel4.Controls.Add(Me.Label38)
-        Me.Panel4.Controls.Add(Me.Email)
+        Me.Panel4.Controls.Add(Me.Email_A)
         Me.Panel4.Controls.Add(Me.Emp_Name)
         Me.Panel4.Controls.Add(Me.Label39)
         Me.Panel4.Controls.Add(Me.Label40)
-        Me.Panel4.Controls.Add(Me.Phone)
-        Me.Panel4.Controls.Add(Me.Emp_M)
+        Me.Panel4.Controls.Add(Me.Phone_A)
+        Me.Panel4.Controls.Add(Me.Emp_M_A)
         Me.Panel4.Controls.Add(Me.Label41)
         Me.Panel4.Controls.Add(Me.Label42)
-        Me.Panel4.Controls.Add(Me.Address)
+        Me.Panel4.Controls.Add(Me.Address_A)
         Me.Panel4.Controls.Add(Me.Label43)
         Me.Panel4.Controls.Add(Me.Label44)
-        Me.Panel4.Controls.Add(Me.Emp_NW)
-        Me.Panel4.Controls.Add(Me.Nationa)
+        Me.Panel4.Controls.Add(Me.Emp_NW_A)
+        Me.Panel4.Controls.Add(Me.Nationa_A)
         Me.Panel4.Controls.Add(Me.Label45)
         Me.Panel4.Controls.Add(Me.Label46)
-        Me.Panel4.Controls.Add(Me.Conf_Type)
-        Me.Panel4.Controls.Add(Me.Gender)
+        Me.Panel4.Controls.Add(Me.Conf_Type_A)
+        Me.Panel4.Controls.Add(Me.Gender_A)
         Me.Panel4.Controls.Add(Me.Label47)
         Me.Panel4.Controls.Add(Me.Label48)
-        Me.Panel4.Controls.Add(Me.Birth_Data)
-        Me.Panel4.Controls.Add(Me.Social_Case)
+        Me.Panel4.Controls.Add(Me.Birth_Data_A)
+        Me.Panel4.Controls.Add(Me.Social_Case_A)
         Me.Panel4.Controls.Add(Me.Label49)
         Me.Panel4.Controls.Add(Me.Label50)
         Me.Panel4.Controls.Add(Me.Label51)
@@ -2804,24 +2804,24 @@ Partial Class Home
         Me.Label53.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.Label53.UseWaitCursor = True
         '
-        'Birth_Place
+        'Birth_Place_A
         '
-        Me.Birth_Place.FormattingEnabled = True
-        Me.Birth_Place.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
-        Me.Birth_Place.Location = New System.Drawing.Point(347, 210)
-        Me.Birth_Place.Name = "Birth_Place"
-        Me.Birth_Place.Size = New System.Drawing.Size(129, 24)
-        Me.Birth_Place.TabIndex = 28
-        Me.Birth_Place.UseWaitCursor = True
+        Me.Birth_Place_A.FormattingEnabled = True
+        Me.Birth_Place_A.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
+        Me.Birth_Place_A.Location = New System.Drawing.Point(347, 210)
+        Me.Birth_Place_A.Name = "Birth_Place_A"
+        Me.Birth_Place_A.Size = New System.Drawing.Size(129, 24)
+        Me.Birth_Place_A.TabIndex = 28
+        Me.Birth_Place_A.UseWaitCursor = True
         '
-        'Conf_Id
+        'Conf_Id_A
         '
-        Me.Conf_Id.Location = New System.Drawing.Point(347, 107)
-        Me.Conf_Id.Margin = New System.Windows.Forms.Padding(4)
-        Me.Conf_Id.Name = "Conf_Id"
-        Me.Conf_Id.Size = New System.Drawing.Size(129, 24)
-        Me.Conf_Id.TabIndex = 6
-        Me.Conf_Id.UseWaitCursor = True
+        Me.Conf_Id_A.Location = New System.Drawing.Point(347, 107)
+        Me.Conf_Id_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Conf_Id_A.Name = "Conf_Id_A"
+        Me.Conf_Id_A.Size = New System.Drawing.Size(129, 24)
+        Me.Conf_Id_A.TabIndex = 6
+        Me.Conf_Id_A.UseWaitCursor = True
         '
         'Emp_Id
         '
@@ -2845,14 +2845,14 @@ Partial Class Home
         Me.Label38.Text = "رقم الموظف"
         Me.Label38.UseWaitCursor = True
         '
-        'Email
+        'Email_A
         '
-        Me.Email.Location = New System.Drawing.Point(10, 271)
-        Me.Email.Margin = New System.Windows.Forms.Padding(4)
-        Me.Email.Name = "Email"
-        Me.Email.Size = New System.Drawing.Size(210, 24)
-        Me.Email.TabIndex = 27
-        Me.Email.UseWaitCursor = True
+        Me.Email_A.Location = New System.Drawing.Point(10, 271)
+        Me.Email_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Email_A.Name = "Email_A"
+        Me.Email_A.Size = New System.Drawing.Size(210, 24)
+        Me.Email_A.TabIndex = 27
+        Me.Email_A.UseWaitCursor = True
         '
         'Emp_Name
         '
@@ -2885,23 +2885,23 @@ Partial Class Home
         Me.Label40.Text = "اسم الموظف"
         Me.Label40.UseWaitCursor = True
         '
-        'Phone
+        'Phone_A
         '
-        Me.Phone.Location = New System.Drawing.Point(10, 234)
-        Me.Phone.Margin = New System.Windows.Forms.Padding(4)
-        Me.Phone.Name = "Phone"
-        Me.Phone.Size = New System.Drawing.Size(210, 24)
-        Me.Phone.TabIndex = 25
-        Me.Phone.UseWaitCursor = True
+        Me.Phone_A.Location = New System.Drawing.Point(10, 234)
+        Me.Phone_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Phone_A.Name = "Phone_A"
+        Me.Phone_A.Size = New System.Drawing.Size(210, 24)
+        Me.Phone_A.TabIndex = 25
+        Me.Phone_A.UseWaitCursor = True
         '
-        'Emp_M
+        'Emp_M_A
         '
-        Me.Emp_M.Location = New System.Drawing.Point(10, 66)
-        Me.Emp_M.Margin = New System.Windows.Forms.Padding(4)
-        Me.Emp_M.Name = "Emp_M"
-        Me.Emp_M.Size = New System.Drawing.Size(210, 24)
-        Me.Emp_M.TabIndex = 4
-        Me.Emp_M.UseWaitCursor = True
+        Me.Emp_M_A.Location = New System.Drawing.Point(10, 66)
+        Me.Emp_M_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Emp_M_A.Name = "Emp_M_A"
+        Me.Emp_M_A.Size = New System.Drawing.Size(210, 24)
+        Me.Emp_M_A.TabIndex = 4
+        Me.Emp_M_A.UseWaitCursor = True
         '
         'Label41
         '
@@ -2925,14 +2925,14 @@ Partial Class Home
         Me.Label42.Text = "اسم الام"
         Me.Label42.UseWaitCursor = True
         '
-        'Address
+        'Address_A
         '
-        Me.Address.Location = New System.Drawing.Point(10, 200)
-        Me.Address.Margin = New System.Windows.Forms.Padding(4)
-        Me.Address.Name = "Address"
-        Me.Address.Size = New System.Drawing.Size(210, 24)
-        Me.Address.TabIndex = 23
-        Me.Address.UseWaitCursor = True
+        Me.Address_A.Location = New System.Drawing.Point(10, 200)
+        Me.Address_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Address_A.Name = "Address_A"
+        Me.Address_A.Size = New System.Drawing.Size(210, 24)
+        Me.Address_A.TabIndex = 23
+        Me.Address_A.UseWaitCursor = True
         '
         'Label43
         '
@@ -2956,23 +2956,23 @@ Partial Class Home
         Me.Label44.Text = "العنوان"
         Me.Label44.UseWaitCursor = True
         '
-        'Emp_NW
+        'Emp_NW_A
         '
-        Me.Emp_NW.Location = New System.Drawing.Point(347, 142)
-        Me.Emp_NW.Margin = New System.Windows.Forms.Padding(4)
-        Me.Emp_NW.Name = "Emp_NW"
-        Me.Emp_NW.Size = New System.Drawing.Size(129, 24)
-        Me.Emp_NW.TabIndex = 8
-        Me.Emp_NW.UseWaitCursor = True
+        Me.Emp_NW_A.Location = New System.Drawing.Point(347, 142)
+        Me.Emp_NW_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Emp_NW_A.Name = "Emp_NW_A"
+        Me.Emp_NW_A.Size = New System.Drawing.Size(129, 24)
+        Me.Emp_NW_A.TabIndex = 8
+        Me.Emp_NW_A.UseWaitCursor = True
         '
-        'Nationa
+        'Nationa_A
         '
-        Me.Nationa.Location = New System.Drawing.Point(10, 167)
-        Me.Nationa.Margin = New System.Windows.Forms.Padding(4)
-        Me.Nationa.Name = "Nationa"
-        Me.Nationa.Size = New System.Drawing.Size(210, 24)
-        Me.Nationa.TabIndex = 21
-        Me.Nationa.UseWaitCursor = True
+        Me.Nationa_A.Location = New System.Drawing.Point(10, 167)
+        Me.Nationa_A.Margin = New System.Windows.Forms.Padding(4)
+        Me.Nationa_A.Name = "Nationa_A"
+        Me.Nationa_A.Size = New System.Drawing.Size(210, 24)
+        Me.Nationa_A.TabIndex = 21
+        Me.Nationa_A.UseWaitCursor = True
         '
         'Label45
         '
@@ -2996,25 +2996,25 @@ Partial Class Home
         Me.Label46.Text = "الجنسية"
         Me.Label46.UseWaitCursor = True
         '
-        'Conf_Type
+        'Conf_Type_A
         '
-        Me.Conf_Type.FormattingEnabled = True
-        Me.Conf_Type.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
-        Me.Conf_Type.Location = New System.Drawing.Point(347, 68)
-        Me.Conf_Type.Name = "Conf_Type"
-        Me.Conf_Type.Size = New System.Drawing.Size(129, 24)
-        Me.Conf_Type.TabIndex = 10
-        Me.Conf_Type.UseWaitCursor = True
+        Me.Conf_Type_A.FormattingEnabled = True
+        Me.Conf_Type_A.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
+        Me.Conf_Type_A.Location = New System.Drawing.Point(347, 68)
+        Me.Conf_Type_A.Name = "Conf_Type_A"
+        Me.Conf_Type_A.Size = New System.Drawing.Size(129, 24)
+        Me.Conf_Type_A.TabIndex = 10
+        Me.Conf_Type_A.UseWaitCursor = True
         '
-        'Gender
+        'Gender_A
         '
-        Me.Gender.FormattingEnabled = True
-        Me.Gender.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.Gender.Location = New System.Drawing.Point(86, 135)
-        Me.Gender.Name = "Gender"
-        Me.Gender.Size = New System.Drawing.Size(134, 24)
-        Me.Gender.TabIndex = 19
-        Me.Gender.UseWaitCursor = True
+        Me.Gender_A.FormattingEnabled = True
+        Me.Gender_A.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Gender_A.Location = New System.Drawing.Point(86, 135)
+        Me.Gender_A.Name = "Gender_A"
+        Me.Gender_A.Size = New System.Drawing.Size(134, 24)
+        Me.Gender_A.TabIndex = 19
+        Me.Gender_A.UseWaitCursor = True
         '
         'Label47
         '
@@ -3038,23 +3038,23 @@ Partial Class Home
         Me.Label48.Text = "الجنس"
         Me.Label48.UseWaitCursor = True
         '
-        'Birth_Data
+        'Birth_Data_A
         '
-        Me.Birth_Data.Location = New System.Drawing.Point(347, 175)
-        Me.Birth_Data.Name = "Birth_Data"
-        Me.Birth_Data.Size = New System.Drawing.Size(129, 24)
-        Me.Birth_Data.TabIndex = 12
-        Me.Birth_Data.UseWaitCursor = True
+        Me.Birth_Data_A.Location = New System.Drawing.Point(347, 175)
+        Me.Birth_Data_A.Name = "Birth_Data_A"
+        Me.Birth_Data_A.Size = New System.Drawing.Size(129, 24)
+        Me.Birth_Data_A.TabIndex = 12
+        Me.Birth_Data_A.UseWaitCursor = True
         '
-        'Social_Case
+        'Social_Case_A
         '
-        Me.Social_Case.FormattingEnabled = True
-        Me.Social_Case.Items.AddRange(New Object() {"أعزب", "متزوج"})
-        Me.Social_Case.Location = New System.Drawing.Point(86, 104)
-        Me.Social_Case.Name = "Social_Case"
-        Me.Social_Case.Size = New System.Drawing.Size(134, 24)
-        Me.Social_Case.TabIndex = 17
-        Me.Social_Case.UseWaitCursor = True
+        Me.Social_Case_A.FormattingEnabled = True
+        Me.Social_Case_A.Items.AddRange(New Object() {"أعزب", "متزوج"})
+        Me.Social_Case_A.Location = New System.Drawing.Point(86, 104)
+        Me.Social_Case_A.Name = "Social_Case_A"
+        Me.Social_Case_A.Size = New System.Drawing.Size(134, 24)
+        Me.Social_Case_A.TabIndex = 17
+        Me.Social_Case_A.UseWaitCursor = True
         '
         'Label49
         '
@@ -3105,35 +3105,35 @@ Partial Class Home
         '
         Me.Panel5.Controls.Add(Me.Button10)
         Me.Panel5.Controls.Add(Me.Label54)
-        Me.Panel5.Controls.Add(Me.ComboBox3)
-        Me.Panel5.Controls.Add(Me.ComboBox6)
+        Me.Panel5.Controls.Add(Me.Dep_id_E)
+        Me.Panel5.Controls.Add(Me.Country_E)
         Me.Panel5.Controls.Add(Me.Label55)
-        Me.Panel5.Controls.Add(Me.DateTimePicker8)
+        Me.Panel5.Controls.Add(Me.Getting_date_E)
         Me.Panel5.Controls.Add(Me.Button7)
         Me.Panel5.Controls.Add(Me.Label56)
-        Me.Panel5.Controls.Add(Me.ComboBox13)
+        Me.Panel5.Controls.Add(Me.Costing_E)
         Me.Panel5.Controls.Add(Me.Button8)
         Me.Panel5.Controls.Add(Me.Label57)
-        Me.Panel5.Controls.Add(Me.ComboBox14)
+        Me.Panel5.Controls.Add(Me.Qual_E)
         Me.Panel5.Controls.Add(Me.Label58)
-        Me.Panel5.Controls.Add(Me.ComboBox15)
+        Me.Panel5.Controls.Add(Me.Spec_E)
         Me.Panel5.Controls.Add(Me.Label59)
         Me.Panel5.Controls.Add(Me.Label60)
-        Me.Panel5.Controls.Add(Me.TextBox14)
-        Me.Panel5.Controls.Add(Me.ComboBox16)
-        Me.Panel5.Controls.Add(Me.ComboBox17)
-        Me.Panel5.Controls.Add(Me.TextBox15)
+        Me.Panel5.Controls.Add(Me.Cer_id_E)
+        Me.Panel5.Controls.Add(Me.Fun_Level_E)
+        Me.Panel5.Controls.Add(Me.Job_E)
+        Me.Panel5.Controls.Add(Me.Annual_E)
         Me.Panel5.Controls.Add(Me.Label61)
-        Me.Panel5.Controls.Add(Me.DateTimePicker9)
+        Me.Panel5.Controls.Add(Me.Data_direct_E)
         Me.Panel5.Controls.Add(Me.Label62)
         Me.Panel5.Controls.Add(Me.Label63)
-        Me.Panel5.Controls.Add(Me.ComboBox18)
+        Me.Panel5.Controls.Add(Me.Fun_Deg_E)
         Me.Panel5.Controls.Add(Me.Label64)
         Me.Panel5.Controls.Add(Me.Label65)
         Me.Panel5.Controls.Add(Me.Label66)
-        Me.Panel5.Controls.Add(Me.TextBox16)
+        Me.Panel5.Controls.Add(Me.Emergency_E)
         Me.Panel5.Controls.Add(Me.Label67)
-        Me.Panel5.Controls.Add(Me.DateTimePicker10)
+        Me.Panel5.Controls.Add(Me.Data_original_E)
         Me.Panel5.Controls.Add(Me.Label68)
         Me.Panel5.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Panel5.Location = New System.Drawing.Point(5, 6)
@@ -3163,25 +3163,25 @@ Partial Class Home
         Me.Label54.Text = "البيانات الشخصية"
         Me.Label54.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'ComboBox3
+        'Dep_id_E
         '
-        Me.ComboBox3.FormattingEnabled = True
-        Me.ComboBox3.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox3.Location = New System.Drawing.Point(13, 208)
-        Me.ComboBox3.Name = "ComboBox3"
-        Me.ComboBox3.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox3.TabIndex = 57
-        Me.ComboBox3.UseWaitCursor = True
+        Me.Dep_id_E.FormattingEnabled = True
+        Me.Dep_id_E.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Dep_id_E.Location = New System.Drawing.Point(13, 208)
+        Me.Dep_id_E.Name = "Dep_id_E"
+        Me.Dep_id_E.Size = New System.Drawing.Size(129, 24)
+        Me.Dep_id_E.TabIndex = 57
+        Me.Dep_id_E.UseWaitCursor = True
         '
-        'ComboBox6
+        'Country_E
         '
-        Me.ComboBox6.FormattingEnabled = True
-        Me.ComboBox6.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox6.Location = New System.Drawing.Point(13, 178)
-        Me.ComboBox6.Name = "ComboBox6"
-        Me.ComboBox6.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox6.TabIndex = 56
-        Me.ComboBox6.UseWaitCursor = True
+        Me.Country_E.FormattingEnabled = True
+        Me.Country_E.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Country_E.Location = New System.Drawing.Point(13, 178)
+        Me.Country_E.Name = "Country_E"
+        Me.Country_E.Size = New System.Drawing.Size(129, 24)
+        Me.Country_E.TabIndex = 56
+        Me.Country_E.UseWaitCursor = True
         '
         'Label55
         '
@@ -3194,13 +3194,13 @@ Partial Class Home
         Me.Label55.Text = "مكان الاصدار"
         Me.Label55.UseWaitCursor = True
         '
-        'DateTimePicker8
+        'Getting_date_E
         '
-        Me.DateTimePicker8.Location = New System.Drawing.Point(13, 143)
-        Me.DateTimePicker8.Name = "DateTimePicker8"
-        Me.DateTimePicker8.Size = New System.Drawing.Size(127, 24)
-        Me.DateTimePicker8.TabIndex = 53
-        Me.DateTimePicker8.UseWaitCursor = True
+        Me.Getting_date_E.Location = New System.Drawing.Point(13, 143)
+        Me.Getting_date_E.Name = "Getting_date_E"
+        Me.Getting_date_E.Size = New System.Drawing.Size(127, 24)
+        Me.Getting_date_E.TabIndex = 53
+        Me.Getting_date_E.UseWaitCursor = True
         '
         'Button7
         '
@@ -3222,15 +3222,15 @@ Partial Class Home
         Me.Label56.Text = "تاريخ الاصدار"
         Me.Label56.UseWaitCursor = True
         '
-        'ComboBox13
+        'Costing_E
         '
-        Me.ComboBox13.FormattingEnabled = True
-        Me.ComboBox13.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox13.Location = New System.Drawing.Point(11, 109)
-        Me.ComboBox13.Name = "ComboBox13"
-        Me.ComboBox13.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox13.TabIndex = 52
-        Me.ComboBox13.UseWaitCursor = True
+        Me.Costing_E.FormattingEnabled = True
+        Me.Costing_E.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Costing_E.Location = New System.Drawing.Point(11, 109)
+        Me.Costing_E.Name = "Costing_E"
+        Me.Costing_E.Size = New System.Drawing.Size(129, 24)
+        Me.Costing_E.TabIndex = 52
+        Me.Costing_E.UseWaitCursor = True
         '
         'Button8
         '
@@ -3252,15 +3252,15 @@ Partial Class Home
         Me.Label57.Text = "التقدير"
         Me.Label57.UseWaitCursor = True
         '
-        'ComboBox14
+        'Qual_E
         '
-        Me.ComboBox14.FormattingEnabled = True
-        Me.ComboBox14.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox14.Location = New System.Drawing.Point(11, 77)
-        Me.ComboBox14.Name = "ComboBox14"
-        Me.ComboBox14.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox14.TabIndex = 50
-        Me.ComboBox14.UseWaitCursor = True
+        Me.Qual_E.FormattingEnabled = True
+        Me.Qual_E.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Qual_E.Location = New System.Drawing.Point(11, 77)
+        Me.Qual_E.Name = "Qual_E"
+        Me.Qual_E.Size = New System.Drawing.Size(129, 24)
+        Me.Qual_E.TabIndex = 50
+        Me.Qual_E.UseWaitCursor = True
         '
         'Label58
         '
@@ -3273,15 +3273,15 @@ Partial Class Home
         Me.Label58.Text = "المؤهل"
         Me.Label58.UseWaitCursor = True
         '
-        'ComboBox15
+        'Spec_E
         '
-        Me.ComboBox15.FormattingEnabled = True
-        Me.ComboBox15.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox15.Location = New System.Drawing.Point(11, 41)
-        Me.ComboBox15.Name = "ComboBox15"
-        Me.ComboBox15.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox15.TabIndex = 48
-        Me.ComboBox15.UseWaitCursor = True
+        Me.Spec_E.FormattingEnabled = True
+        Me.Spec_E.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Spec_E.Location = New System.Drawing.Point(11, 41)
+        Me.Spec_E.Name = "Spec_E"
+        Me.Spec_E.Size = New System.Drawing.Size(129, 24)
+        Me.Spec_E.TabIndex = 48
+        Me.Spec_E.UseWaitCursor = True
         '
         'Label59
         '
@@ -3305,43 +3305,43 @@ Partial Class Home
         Me.Label60.Text = "رقم وثيقة التخرج"
         Me.Label60.UseWaitCursor = True
         '
-        'TextBox14
+        'Cer_id_E
         '
-        Me.TextBox14.Location = New System.Drawing.Point(261, 242)
-        Me.TextBox14.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox14.Name = "TextBox14"
-        Me.TextBox14.Size = New System.Drawing.Size(132, 24)
-        Me.TextBox14.TabIndex = 45
-        Me.TextBox14.UseWaitCursor = True
+        Me.Cer_id_E.Location = New System.Drawing.Point(261, 242)
+        Me.Cer_id_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.Cer_id_E.Name = "Cer_id_E"
+        Me.Cer_id_E.Size = New System.Drawing.Size(132, 24)
+        Me.Cer_id_E.TabIndex = 45
+        Me.Cer_id_E.UseWaitCursor = True
         '
-        'ComboBox16
+        'Fun_Level_E
         '
-        Me.ComboBox16.FormattingEnabled = True
-        Me.ComboBox16.Items.AddRange(New Object() {"أعزب", "متزوج"})
-        Me.ComboBox16.Location = New System.Drawing.Point(262, 201)
-        Me.ComboBox16.Name = "ComboBox16"
-        Me.ComboBox16.Size = New System.Drawing.Size(131, 24)
-        Me.ComboBox16.TabIndex = 44
-        Me.ComboBox16.UseWaitCursor = True
+        Me.Fun_Level_E.FormattingEnabled = True
+        Me.Fun_Level_E.Items.AddRange(New Object() {"أعزب", "متزوج"})
+        Me.Fun_Level_E.Location = New System.Drawing.Point(262, 201)
+        Me.Fun_Level_E.Name = "Fun_Level_E"
+        Me.Fun_Level_E.Size = New System.Drawing.Size(131, 24)
+        Me.Fun_Level_E.TabIndex = 44
+        Me.Fun_Level_E.UseWaitCursor = True
         '
-        'ComboBox17
+        'Job_E
         '
-        Me.ComboBox17.FormattingEnabled = True
-        Me.ComboBox17.Items.AddRange(New Object() {"أعزب", "متزوج"})
-        Me.ComboBox17.Location = New System.Drawing.Point(261, 169)
-        Me.ComboBox17.Name = "ComboBox17"
-        Me.ComboBox17.Size = New System.Drawing.Size(132, 24)
-        Me.ComboBox17.TabIndex = 29
-        Me.ComboBox17.UseWaitCursor = True
+        Me.Job_E.FormattingEnabled = True
+        Me.Job_E.Items.AddRange(New Object() {"أعزب", "متزوج"})
+        Me.Job_E.Location = New System.Drawing.Point(261, 169)
+        Me.Job_E.Name = "Job_E"
+        Me.Job_E.Size = New System.Drawing.Size(132, 24)
+        Me.Job_E.TabIndex = 29
+        Me.Job_E.UseWaitCursor = True
         '
-        'TextBox15
+        'Annual_E
         '
-        Me.TextBox15.Location = New System.Drawing.Point(262, 104)
-        Me.TextBox15.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox15.Name = "TextBox15"
-        Me.TextBox15.Size = New System.Drawing.Size(132, 24)
-        Me.TextBox15.TabIndex = 42
-        Me.TextBox15.UseWaitCursor = True
+        Me.Annual_E.Location = New System.Drawing.Point(262, 104)
+        Me.Annual_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.Annual_E.Name = "Annual_E"
+        Me.Annual_E.Size = New System.Drawing.Size(132, 24)
+        Me.Annual_E.TabIndex = 42
+        Me.Annual_E.UseWaitCursor = True
         '
         'Label61
         '
@@ -3354,13 +3354,13 @@ Partial Class Home
         Me.Label61.Text = "رصيد الاجازات السنوية"
         Me.Label61.UseWaitCursor = True
         '
-        'DateTimePicker9
+        'Data_direct_E
         '
-        Me.DateTimePicker9.Location = New System.Drawing.Point(262, 42)
-        Me.DateTimePicker9.Name = "DateTimePicker9"
-        Me.DateTimePicker9.Size = New System.Drawing.Size(132, 24)
-        Me.DateTimePicker9.TabIndex = 40
-        Me.DateTimePicker9.UseWaitCursor = True
+        Me.Data_direct_E.Location = New System.Drawing.Point(262, 42)
+        Me.Data_direct_E.Name = "Data_direct_E"
+        Me.Data_direct_E.Size = New System.Drawing.Size(132, 24)
+        Me.Data_direct_E.TabIndex = 40
+        Me.Data_direct_E.UseWaitCursor = True
         '
         'Label62
         '
@@ -3384,15 +3384,15 @@ Partial Class Home
         Me.Label63.Text = "رقم القسم"
         Me.Label63.UseWaitCursor = True
         '
-        'ComboBox18
+        'Fun_Deg_E
         '
-        Me.ComboBox18.FormattingEnabled = True
-        Me.ComboBox18.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox18.Location = New System.Drawing.Point(11, 242)
-        Me.ComboBox18.Name = "ComboBox18"
-        Me.ComboBox18.Size = New System.Drawing.Size(132, 24)
-        Me.ComboBox18.TabIndex = 38
-        Me.ComboBox18.UseWaitCursor = True
+        Me.Fun_Deg_E.FormattingEnabled = True
+        Me.Fun_Deg_E.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Fun_Deg_E.Location = New System.Drawing.Point(11, 242)
+        Me.Fun_Deg_E.Name = "Fun_Deg_E"
+        Me.Fun_Deg_E.Size = New System.Drawing.Size(132, 24)
+        Me.Fun_Deg_E.TabIndex = 38
+        Me.Fun_Deg_E.UseWaitCursor = True
         '
         'Label64
         '
@@ -3427,14 +3427,14 @@ Partial Class Home
         Me.Label66.Text = "اسم الوظيفة"
         Me.Label66.UseWaitCursor = True
         '
-        'TextBox16
+        'Emergency_E
         '
-        Me.TextBox16.Location = New System.Drawing.Point(262, 136)
-        Me.TextBox16.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox16.Name = "TextBox16"
-        Me.TextBox16.Size = New System.Drawing.Size(132, 24)
-        Me.TextBox16.TabIndex = 30
-        Me.TextBox16.UseWaitCursor = True
+        Me.Emergency_E.Location = New System.Drawing.Point(262, 136)
+        Me.Emergency_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.Emergency_E.Name = "Emergency_E"
+        Me.Emergency_E.Size = New System.Drawing.Size(132, 24)
+        Me.Emergency_E.TabIndex = 30
+        Me.Emergency_E.UseWaitCursor = True
         '
         'Label67
         '
@@ -3447,13 +3447,13 @@ Partial Class Home
         Me.Label67.Text = "رصيد الاجازات الطارئة"
         Me.Label67.UseWaitCursor = True
         '
-        'DateTimePicker10
+        'Data_original_E
         '
-        Me.DateTimePicker10.Location = New System.Drawing.Point(262, 72)
-        Me.DateTimePicker10.Name = "DateTimePicker10"
-        Me.DateTimePicker10.Size = New System.Drawing.Size(132, 24)
-        Me.DateTimePicker10.TabIndex = 28
-        Me.DateTimePicker10.UseWaitCursor = True
+        Me.Data_original_E.Location = New System.Drawing.Point(262, 72)
+        Me.Data_original_E.Name = "Data_original_E"
+        Me.Data_original_E.Size = New System.Drawing.Size(132, 24)
+        Me.Data_original_E.TabIndex = 28
+        Me.Data_original_E.UseWaitCursor = True
         '
         'Label68
         '
@@ -3469,31 +3469,31 @@ Partial Class Home
         'Panel6
         '
         Me.Panel6.Controls.Add(Me.Label69)
-        Me.Panel6.Controls.Add(Me.ComboBox19)
-        Me.Panel6.Controls.Add(Me.TextBox17)
-        Me.Panel6.Controls.Add(Me.TextBox18)
+        Me.Panel6.Controls.Add(Me.Birth_Place_E)
+        Me.Panel6.Controls.Add(Me.Conf_id_E)
+        Me.Panel6.Controls.Add(Me.emp_E)
         Me.Panel6.Controls.Add(Me.Label70)
-        Me.Panel6.Controls.Add(Me.TextBox19)
-        Me.Panel6.Controls.Add(Me.TextBox20)
+        Me.Panel6.Controls.Add(Me.Email_E)
+        Me.Panel6.Controls.Add(Me.e_name_E)
         Me.Panel6.Controls.Add(Me.Label71)
         Me.Panel6.Controls.Add(Me.Label72)
-        Me.Panel6.Controls.Add(Me.TextBox21)
-        Me.Panel6.Controls.Add(Me.TextBox22)
+        Me.Panel6.Controls.Add(Me.Phon_E)
+        Me.Panel6.Controls.Add(Me.emp_m_E)
         Me.Panel6.Controls.Add(Me.Label73)
         Me.Panel6.Controls.Add(Me.Label74)
-        Me.Panel6.Controls.Add(Me.TextBox23)
+        Me.Panel6.Controls.Add(Me.Address_E)
         Me.Panel6.Controls.Add(Me.Label75)
         Me.Panel6.Controls.Add(Me.Label76)
-        Me.Panel6.Controls.Add(Me.TextBox24)
-        Me.Panel6.Controls.Add(Me.TextBox25)
+        Me.Panel6.Controls.Add(Me.emp_NW_E)
+        Me.Panel6.Controls.Add(Me.Nationa_E)
         Me.Panel6.Controls.Add(Me.Label77)
         Me.Panel6.Controls.Add(Me.Label78)
-        Me.Panel6.Controls.Add(Me.ComboBox20)
-        Me.Panel6.Controls.Add(Me.ComboBox21)
+        Me.Panel6.Controls.Add(Me.Conf_type_E)
+        Me.Panel6.Controls.Add(Me.Gender_E)
         Me.Panel6.Controls.Add(Me.Label79)
         Me.Panel6.Controls.Add(Me.Label80)
-        Me.Panel6.Controls.Add(Me.DateTimePicker11)
-        Me.Panel6.Controls.Add(Me.ComboBox22)
+        Me.Panel6.Controls.Add(Me.Birth_date_E)
+        Me.Panel6.Controls.Add(Me.Social_case_E)
         Me.Panel6.Controls.Add(Me.Label81)
         Me.Panel6.Controls.Add(Me.Label82)
         Me.Panel6.Controls.Add(Me.Label83)
@@ -3518,35 +3518,35 @@ Partial Class Home
         Me.Label69.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.Label69.UseWaitCursor = True
         '
-        'ComboBox19
+        'Birth_Place_E
         '
-        Me.ComboBox19.FormattingEnabled = True
-        Me.ComboBox19.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
-        Me.ComboBox19.Location = New System.Drawing.Point(326, 217)
-        Me.ComboBox19.Name = "ComboBox19"
-        Me.ComboBox19.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox19.TabIndex = 28
-        Me.ComboBox19.UseWaitCursor = True
+        Me.Birth_Place_E.FormattingEnabled = True
+        Me.Birth_Place_E.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
+        Me.Birth_Place_E.Location = New System.Drawing.Point(326, 217)
+        Me.Birth_Place_E.Name = "Birth_Place_E"
+        Me.Birth_Place_E.Size = New System.Drawing.Size(129, 24)
+        Me.Birth_Place_E.TabIndex = 28
+        Me.Birth_Place_E.UseWaitCursor = True
         '
-        'TextBox17
+        'Conf_id_E
         '
-        Me.TextBox17.Location = New System.Drawing.Point(326, 114)
-        Me.TextBox17.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox17.Name = "TextBox17"
-        Me.TextBox17.Size = New System.Drawing.Size(129, 24)
-        Me.TextBox17.TabIndex = 6
-        Me.TextBox17.UseWaitCursor = True
+        Me.Conf_id_E.Location = New System.Drawing.Point(326, 114)
+        Me.Conf_id_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.Conf_id_E.Name = "Conf_id_E"
+        Me.Conf_id_E.Size = New System.Drawing.Size(129, 24)
+        Me.Conf_id_E.TabIndex = 6
+        Me.Conf_id_E.UseWaitCursor = True
         '
-        'TextBox18
+        'emp_E
         '
-        Me.TextBox18.BackColor = System.Drawing.Color.White
-        Me.TextBox18.Location = New System.Drawing.Point(326, 42)
-        Me.TextBox18.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox18.Name = "TextBox18"
-        Me.TextBox18.ReadOnly = True
-        Me.TextBox18.Size = New System.Drawing.Size(126, 24)
-        Me.TextBox18.TabIndex = 0
-        Me.TextBox18.UseWaitCursor = True
+        Me.emp_E.BackColor = System.Drawing.Color.White
+        Me.emp_E.Location = New System.Drawing.Point(326, 42)
+        Me.emp_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.emp_E.Name = "emp_E"
+        Me.emp_E.ReadOnly = True
+        Me.emp_E.Size = New System.Drawing.Size(126, 24)
+        Me.emp_E.TabIndex = 0
+        Me.emp_E.UseWaitCursor = True
         '
         'Label70
         '
@@ -3559,23 +3559,23 @@ Partial Class Home
         Me.Label70.Text = "رقم الموظف"
         Me.Label70.UseWaitCursor = True
         '
-        'TextBox19
+        'Email_E
         '
-        Me.TextBox19.Location = New System.Drawing.Point(4, 278)
-        Me.TextBox19.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox19.Name = "TextBox19"
-        Me.TextBox19.Size = New System.Drawing.Size(193, 24)
-        Me.TextBox19.TabIndex = 27
-        Me.TextBox19.UseWaitCursor = True
+        Me.Email_E.Location = New System.Drawing.Point(4, 278)
+        Me.Email_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.Email_E.Name = "Email_E"
+        Me.Email_E.Size = New System.Drawing.Size(193, 24)
+        Me.Email_E.TabIndex = 27
+        Me.Email_E.UseWaitCursor = True
         '
-        'TextBox20
+        'e_name_E
         '
-        Me.TextBox20.Location = New System.Drawing.Point(4, 39)
-        Me.TextBox20.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox20.Name = "TextBox20"
-        Me.TextBox20.Size = New System.Drawing.Size(193, 24)
-        Me.TextBox20.TabIndex = 2
-        Me.TextBox20.UseWaitCursor = True
+        Me.e_name_E.Location = New System.Drawing.Point(4, 39)
+        Me.e_name_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.e_name_E.Name = "e_name_E"
+        Me.e_name_E.Size = New System.Drawing.Size(193, 24)
+        Me.e_name_E.TabIndex = 2
+        Me.e_name_E.UseWaitCursor = True
         '
         'Label71
         '
@@ -3599,23 +3599,23 @@ Partial Class Home
         Me.Label72.Text = "اسم الموظف"
         Me.Label72.UseWaitCursor = True
         '
-        'TextBox21
+        'Phon_E
         '
-        Me.TextBox21.Location = New System.Drawing.Point(4, 241)
-        Me.TextBox21.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox21.Name = "TextBox21"
-        Me.TextBox21.Size = New System.Drawing.Size(193, 24)
-        Me.TextBox21.TabIndex = 25
-        Me.TextBox21.UseWaitCursor = True
+        Me.Phon_E.Location = New System.Drawing.Point(4, 241)
+        Me.Phon_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.Phon_E.Name = "Phon_E"
+        Me.Phon_E.Size = New System.Drawing.Size(193, 24)
+        Me.Phon_E.TabIndex = 25
+        Me.Phon_E.UseWaitCursor = True
         '
-        'TextBox22
+        'emp_m_E
         '
-        Me.TextBox22.Location = New System.Drawing.Point(4, 73)
-        Me.TextBox22.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox22.Name = "TextBox22"
-        Me.TextBox22.Size = New System.Drawing.Size(193, 24)
-        Me.TextBox22.TabIndex = 4
-        Me.TextBox22.UseWaitCursor = True
+        Me.emp_m_E.Location = New System.Drawing.Point(4, 73)
+        Me.emp_m_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.emp_m_E.Name = "emp_m_E"
+        Me.emp_m_E.Size = New System.Drawing.Size(193, 24)
+        Me.emp_m_E.TabIndex = 4
+        Me.emp_m_E.UseWaitCursor = True
         '
         'Label73
         '
@@ -3639,14 +3639,14 @@ Partial Class Home
         Me.Label74.Text = "اسم الام"
         Me.Label74.UseWaitCursor = True
         '
-        'TextBox23
+        'Address_E
         '
-        Me.TextBox23.Location = New System.Drawing.Point(4, 207)
-        Me.TextBox23.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox23.Name = "TextBox23"
-        Me.TextBox23.Size = New System.Drawing.Size(193, 24)
-        Me.TextBox23.TabIndex = 23
-        Me.TextBox23.UseWaitCursor = True
+        Me.Address_E.Location = New System.Drawing.Point(4, 207)
+        Me.Address_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.Address_E.Name = "Address_E"
+        Me.Address_E.Size = New System.Drawing.Size(193, 24)
+        Me.Address_E.TabIndex = 23
+        Me.Address_E.UseWaitCursor = True
         '
         'Label75
         '
@@ -3670,23 +3670,23 @@ Partial Class Home
         Me.Label76.Text = "العنوان"
         Me.Label76.UseWaitCursor = True
         '
-        'TextBox24
+        'emp_NW_E
         '
-        Me.TextBox24.Location = New System.Drawing.Point(326, 149)
-        Me.TextBox24.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox24.Name = "TextBox24"
-        Me.TextBox24.Size = New System.Drawing.Size(129, 24)
-        Me.TextBox24.TabIndex = 8
-        Me.TextBox24.UseWaitCursor = True
+        Me.emp_NW_E.Location = New System.Drawing.Point(326, 149)
+        Me.emp_NW_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.emp_NW_E.Name = "emp_NW_E"
+        Me.emp_NW_E.Size = New System.Drawing.Size(129, 24)
+        Me.emp_NW_E.TabIndex = 8
+        Me.emp_NW_E.UseWaitCursor = True
         '
-        'TextBox25
+        'Nationa_E
         '
-        Me.TextBox25.Location = New System.Drawing.Point(4, 174)
-        Me.TextBox25.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox25.Name = "TextBox25"
-        Me.TextBox25.Size = New System.Drawing.Size(193, 24)
-        Me.TextBox25.TabIndex = 21
-        Me.TextBox25.UseWaitCursor = True
+        Me.Nationa_E.Location = New System.Drawing.Point(4, 174)
+        Me.Nationa_E.Margin = New System.Windows.Forms.Padding(4)
+        Me.Nationa_E.Name = "Nationa_E"
+        Me.Nationa_E.Size = New System.Drawing.Size(193, 24)
+        Me.Nationa_E.TabIndex = 21
+        Me.Nationa_E.UseWaitCursor = True
         '
         'Label77
         '
@@ -3710,25 +3710,25 @@ Partial Class Home
         Me.Label78.Text = "الجنسية"
         Me.Label78.UseWaitCursor = True
         '
-        'ComboBox20
+        'Conf_type_E
         '
-        Me.ComboBox20.FormattingEnabled = True
-        Me.ComboBox20.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
-        Me.ComboBox20.Location = New System.Drawing.Point(326, 75)
-        Me.ComboBox20.Name = "ComboBox20"
-        Me.ComboBox20.Size = New System.Drawing.Size(129, 24)
-        Me.ComboBox20.TabIndex = 10
-        Me.ComboBox20.UseWaitCursor = True
+        Me.Conf_type_E.FormattingEnabled = True
+        Me.Conf_type_E.Items.AddRange(New Object() {"جواز سفر", "بطاقة شخصية"})
+        Me.Conf_type_E.Location = New System.Drawing.Point(326, 75)
+        Me.Conf_type_E.Name = "Conf_type_E"
+        Me.Conf_type_E.Size = New System.Drawing.Size(129, 24)
+        Me.Conf_type_E.TabIndex = 10
+        Me.Conf_type_E.UseWaitCursor = True
         '
-        'ComboBox21
+        'Gender_E
         '
-        Me.ComboBox21.FormattingEnabled = True
-        Me.ComboBox21.Items.AddRange(New Object() {"ذكر", "انثي"})
-        Me.ComboBox21.Location = New System.Drawing.Point(63, 142)
-        Me.ComboBox21.Name = "ComboBox21"
-        Me.ComboBox21.Size = New System.Drawing.Size(134, 24)
-        Me.ComboBox21.TabIndex = 19
-        Me.ComboBox21.UseWaitCursor = True
+        Me.Gender_E.FormattingEnabled = True
+        Me.Gender_E.Items.AddRange(New Object() {"ذكر", "انثي"})
+        Me.Gender_E.Location = New System.Drawing.Point(63, 142)
+        Me.Gender_E.Name = "Gender_E"
+        Me.Gender_E.Size = New System.Drawing.Size(134, 24)
+        Me.Gender_E.TabIndex = 19
+        Me.Gender_E.UseWaitCursor = True
         '
         'Label79
         '
@@ -3752,23 +3752,23 @@ Partial Class Home
         Me.Label80.Text = "الجنس"
         Me.Label80.UseWaitCursor = True
         '
-        'DateTimePicker11
+        'Birth_date_E
         '
-        Me.DateTimePicker11.Location = New System.Drawing.Point(326, 182)
-        Me.DateTimePicker11.Name = "DateTimePicker11"
-        Me.DateTimePicker11.Size = New System.Drawing.Size(129, 24)
-        Me.DateTimePicker11.TabIndex = 12
-        Me.DateTimePicker11.UseWaitCursor = True
+        Me.Birth_date_E.Location = New System.Drawing.Point(326, 182)
+        Me.Birth_date_E.Name = "Birth_date_E"
+        Me.Birth_date_E.Size = New System.Drawing.Size(129, 24)
+        Me.Birth_date_E.TabIndex = 12
+        Me.Birth_date_E.UseWaitCursor = True
         '
-        'ComboBox22
+        'Social_case_E
         '
-        Me.ComboBox22.FormattingEnabled = True
-        Me.ComboBox22.Items.AddRange(New Object() {"أعزب", "متزوج"})
-        Me.ComboBox22.Location = New System.Drawing.Point(63, 111)
-        Me.ComboBox22.Name = "ComboBox22"
-        Me.ComboBox22.Size = New System.Drawing.Size(134, 24)
-        Me.ComboBox22.TabIndex = 17
-        Me.ComboBox22.UseWaitCursor = True
+        Me.Social_case_E.FormattingEnabled = True
+        Me.Social_case_E.Items.AddRange(New Object() {"أعزب", "متزوج"})
+        Me.Social_case_E.Location = New System.Drawing.Point(63, 111)
+        Me.Social_case_E.Name = "Social_case_E"
+        Me.Social_case_E.Size = New System.Drawing.Size(134, 24)
+        Me.Social_case_E.TabIndex = 17
+        Me.Social_case_E.UseWaitCursor = True
         '
         'Label81
         '
@@ -3808,7 +3808,7 @@ Partial Class Home
         Me.TabPage9.Controls.Add(Me.Button11)
         Me.TabPage9.Controls.Add(Me.Button9)
         Me.TabPage9.Controls.Add(Me.Label84)
-        Me.TabPage9.Controls.Add(Me.TextBox26)
+        Me.TabPage9.Controls.Add(Me.Family_Serah)
         Me.TabPage9.Controls.Add(Me.DataGridView3)
         Me.TabPage9.Location = New System.Drawing.Point(4, 29)
         Me.TabPage9.Name = "TabPage9"
@@ -3848,14 +3848,14 @@ Partial Class Home
         Me.Label84.Text = "بحث :"
         Me.Label84.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'TextBox26
+        'Family_Serah
         '
-        Me.TextBox26.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox26.Location = New System.Drawing.Point(388, 5)
-        Me.TextBox26.Name = "TextBox26"
-        Me.TextBox26.Size = New System.Drawing.Size(395, 24)
-        Me.TextBox26.TabIndex = 6
-        Me.TextBox26.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.Family_Serah.Font = New System.Drawing.Font("Times New Roman", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Family_Serah.Location = New System.Drawing.Point(388, 5)
+        Me.Family_Serah.Name = "Family_Serah"
+        Me.Family_Serah.Size = New System.Drawing.Size(395, 24)
+        Me.Family_Serah.TabIndex = 6
+        Me.Family_Serah.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'DataGridView3
         '
@@ -4104,61 +4104,61 @@ Partial Class Home
     Friend WithEvents TabControl1 As System.Windows.Forms.TabControl
     Friend WithEvents Label24 As System.Windows.Forms.Label
     Friend WithEvents Panel3 As System.Windows.Forms.Panel
-    Friend WithEvents ComboBox12 As System.Windows.Forms.ComboBox
-    Friend WithEvents ComboBox11 As System.Windows.Forms.ComboBox
+    Friend WithEvents Dep_A As System.Windows.Forms.ComboBox
+    Friend WithEvents Country_A As System.Windows.Forms.ComboBox
     Friend WithEvents Label30 As System.Windows.Forms.Label
-    Friend WithEvents DateTimePicker5 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Getting_date_A As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label29 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox10 As System.Windows.Forms.ComboBox
+    Friend WithEvents Costing_A As System.Windows.Forms.ComboBox
     Friend WithEvents Label28 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox9 As System.Windows.Forms.ComboBox
+    Friend WithEvents Qual_A As System.Windows.Forms.ComboBox
     Friend WithEvents Label27 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox8 As System.Windows.Forms.ComboBox
+    Friend WithEvents Spec_A As System.Windows.Forms.ComboBox
     Friend WithEvents Label26 As System.Windows.Forms.Label
     Friend WithEvents Label25 As System.Windows.Forms.Label
-    Friend WithEvents TextBox11 As System.Windows.Forms.TextBox
-    Friend WithEvents ComboBox7 As System.Windows.Forms.ComboBox
-    Friend WithEvents ComboBox4 As System.Windows.Forms.ComboBox
-    Friend WithEvents TextBox12 As System.Windows.Forms.TextBox
+    Friend WithEvents Cer_id_A As System.Windows.Forms.TextBox
+    Friend WithEvents Fun_Level_A As System.Windows.Forms.ComboBox
+    Friend WithEvents Job_n_A As System.Windows.Forms.ComboBox
+    Friend WithEvents Annual_A As System.Windows.Forms.TextBox
     Friend WithEvents Label22 As System.Windows.Forms.Label
-    Friend WithEvents DateTimePicker6 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Data_direct_A As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label23 As System.Windows.Forms.Label
     Friend WithEvents Label31 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox5 As System.Windows.Forms.ComboBox
+    Friend WithEvents Fun_Deg_A As System.Windows.Forms.ComboBox
     Friend WithEvents Label32 As System.Windows.Forms.Label
     Friend WithEvents Label33 As System.Windows.Forms.Label
     Friend WithEvents Label34 As System.Windows.Forms.Label
-    Friend WithEvents TextBox13 As System.Windows.Forms.TextBox
+    Friend WithEvents Emergency_A As System.Windows.Forms.TextBox
     Friend WithEvents Label35 As System.Windows.Forms.Label
-    Friend WithEvents DateTimePicker7 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Data_original_A As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label36 As System.Windows.Forms.Label
     Friend WithEvents Label37 As System.Windows.Forms.Label
     Friend WithEvents Panel4 As System.Windows.Forms.Panel
-    Friend WithEvents Birth_Place As System.Windows.Forms.ComboBox
-    Friend WithEvents Conf_Id As System.Windows.Forms.TextBox
+    Friend WithEvents Birth_Place_A As System.Windows.Forms.ComboBox
+    Friend WithEvents Conf_Id_A As System.Windows.Forms.TextBox
     Friend WithEvents Emp_Id As System.Windows.Forms.TextBox
     Friend WithEvents Label38 As System.Windows.Forms.Label
-    Friend WithEvents Email As System.Windows.Forms.TextBox
+    Friend WithEvents Email_A As System.Windows.Forms.TextBox
     Friend WithEvents Emp_Name As System.Windows.Forms.TextBox
     Friend WithEvents Label39 As System.Windows.Forms.Label
     Friend WithEvents Label40 As System.Windows.Forms.Label
-    Friend WithEvents Phone As System.Windows.Forms.TextBox
-    Friend WithEvents Emp_M As System.Windows.Forms.TextBox
+    Friend WithEvents Phone_A As System.Windows.Forms.TextBox
+    Friend WithEvents Emp_M_A As System.Windows.Forms.TextBox
     Friend WithEvents Label41 As System.Windows.Forms.Label
     Friend WithEvents Label42 As System.Windows.Forms.Label
-    Friend WithEvents Address As System.Windows.Forms.TextBox
+    Friend WithEvents Address_A As System.Windows.Forms.TextBox
     Friend WithEvents Label43 As System.Windows.Forms.Label
     Friend WithEvents Label44 As System.Windows.Forms.Label
-    Friend WithEvents Emp_NW As System.Windows.Forms.TextBox
-    Friend WithEvents Nationa As System.Windows.Forms.TextBox
+    Friend WithEvents Emp_NW_A As System.Windows.Forms.TextBox
+    Friend WithEvents Nationa_A As System.Windows.Forms.TextBox
     Friend WithEvents Label45 As System.Windows.Forms.Label
     Friend WithEvents Label46 As System.Windows.Forms.Label
-    Friend WithEvents Conf_Type As System.Windows.Forms.ComboBox
-    Friend WithEvents Gender As System.Windows.Forms.ComboBox
+    Friend WithEvents Conf_Type_A As System.Windows.Forms.ComboBox
+    Friend WithEvents Gender_A As System.Windows.Forms.ComboBox
     Friend WithEvents Label47 As System.Windows.Forms.Label
     Friend WithEvents Label48 As System.Windows.Forms.Label
-    Friend WithEvents Birth_Data As System.Windows.Forms.DateTimePicker
-    Friend WithEvents Social_Case As System.Windows.Forms.ComboBox
+    Friend WithEvents Birth_Data_A As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Social_Case_A As System.Windows.Forms.ComboBox
     Friend WithEvents Label49 As System.Windows.Forms.Label
     Friend WithEvents Label50 As System.Windows.Forms.Label
     Friend WithEvents Label51 As System.Windows.Forms.Label
@@ -4168,69 +4168,69 @@ Partial Class Home
     Friend WithEvents Label53 As System.Windows.Forms.Label
     Friend WithEvents Panel5 As System.Windows.Forms.Panel
     Friend WithEvents Label54 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox3 As System.Windows.Forms.ComboBox
-    Friend WithEvents ComboBox6 As System.Windows.Forms.ComboBox
+    Friend WithEvents Dep_id_E As System.Windows.Forms.ComboBox
+    Friend WithEvents Country_E As System.Windows.Forms.ComboBox
     Friend WithEvents Label55 As System.Windows.Forms.Label
-    Friend WithEvents DateTimePicker8 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Getting_date_E As System.Windows.Forms.DateTimePicker
     Friend WithEvents Button7 As System.Windows.Forms.Button
     Friend WithEvents Label56 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox13 As System.Windows.Forms.ComboBox
+    Friend WithEvents Costing_E As System.Windows.Forms.ComboBox
     Friend WithEvents Button8 As System.Windows.Forms.Button
     Friend WithEvents Label57 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox14 As System.Windows.Forms.ComboBox
+    Friend WithEvents Qual_E As System.Windows.Forms.ComboBox
     Friend WithEvents Label58 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox15 As System.Windows.Forms.ComboBox
+    Friend WithEvents Spec_E As System.Windows.Forms.ComboBox
     Friend WithEvents Label59 As System.Windows.Forms.Label
     Friend WithEvents Label60 As System.Windows.Forms.Label
-    Friend WithEvents TextBox14 As System.Windows.Forms.TextBox
-    Friend WithEvents ComboBox16 As System.Windows.Forms.ComboBox
-    Friend WithEvents ComboBox17 As System.Windows.Forms.ComboBox
-    Friend WithEvents TextBox15 As System.Windows.Forms.TextBox
+    Friend WithEvents Cer_id_E As System.Windows.Forms.TextBox
+    Friend WithEvents Fun_Level_E As System.Windows.Forms.ComboBox
+    Friend WithEvents Job_E As System.Windows.Forms.ComboBox
+    Friend WithEvents Annual_E As System.Windows.Forms.TextBox
     Friend WithEvents Label61 As System.Windows.Forms.Label
-    Friend WithEvents DateTimePicker9 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Data_direct_E As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label62 As System.Windows.Forms.Label
     Friend WithEvents Label63 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox18 As System.Windows.Forms.ComboBox
+    Friend WithEvents Fun_Deg_E As System.Windows.Forms.ComboBox
     Friend WithEvents Label64 As System.Windows.Forms.Label
     Friend WithEvents Label65 As System.Windows.Forms.Label
     Friend WithEvents Label66 As System.Windows.Forms.Label
-    Friend WithEvents TextBox16 As System.Windows.Forms.TextBox
+    Friend WithEvents Emergency_E As System.Windows.Forms.TextBox
     Friend WithEvents Label67 As System.Windows.Forms.Label
-    Friend WithEvents DateTimePicker10 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Data_original_E As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label68 As System.Windows.Forms.Label
     Friend WithEvents Panel6 As System.Windows.Forms.Panel
     Friend WithEvents Label69 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox19 As System.Windows.Forms.ComboBox
-    Friend WithEvents TextBox17 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox18 As System.Windows.Forms.TextBox
+    Friend WithEvents Birth_Place_E As System.Windows.Forms.ComboBox
+    Friend WithEvents Conf_id_E As System.Windows.Forms.TextBox
+    Friend WithEvents emp_E As System.Windows.Forms.TextBox
     Friend WithEvents Label70 As System.Windows.Forms.Label
-    Friend WithEvents TextBox19 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox20 As System.Windows.Forms.TextBox
+    Friend WithEvents Email_E As System.Windows.Forms.TextBox
+    Friend WithEvents e_name_E As System.Windows.Forms.TextBox
     Friend WithEvents Label71 As System.Windows.Forms.Label
     Friend WithEvents Label72 As System.Windows.Forms.Label
-    Friend WithEvents TextBox21 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox22 As System.Windows.Forms.TextBox
+    Friend WithEvents Phon_E As System.Windows.Forms.TextBox
+    Friend WithEvents emp_m_E As System.Windows.Forms.TextBox
     Friend WithEvents Label73 As System.Windows.Forms.Label
     Friend WithEvents Label74 As System.Windows.Forms.Label
-    Friend WithEvents TextBox23 As System.Windows.Forms.TextBox
+    Friend WithEvents Address_E As System.Windows.Forms.TextBox
     Friend WithEvents Label75 As System.Windows.Forms.Label
     Friend WithEvents Label76 As System.Windows.Forms.Label
-    Friend WithEvents TextBox24 As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox25 As System.Windows.Forms.TextBox
+    Friend WithEvents emp_NW_E As System.Windows.Forms.TextBox
+    Friend WithEvents Nationa_E As System.Windows.Forms.TextBox
     Friend WithEvents Label77 As System.Windows.Forms.Label
     Friend WithEvents Label78 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox20 As System.Windows.Forms.ComboBox
-    Friend WithEvents ComboBox21 As System.Windows.Forms.ComboBox
+    Friend WithEvents Conf_type_E As System.Windows.Forms.ComboBox
+    Friend WithEvents Gender_E As System.Windows.Forms.ComboBox
     Friend WithEvents Label79 As System.Windows.Forms.Label
     Friend WithEvents Label80 As System.Windows.Forms.Label
-    Friend WithEvents DateTimePicker11 As System.Windows.Forms.DateTimePicker
-    Friend WithEvents ComboBox22 As System.Windows.Forms.ComboBox
+    Friend WithEvents Birth_date_E As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Social_case_E As System.Windows.Forms.ComboBox
     Friend WithEvents Label81 As System.Windows.Forms.Label
     Friend WithEvents Label82 As System.Windows.Forms.Label
     Friend WithEvents Label83 As System.Windows.Forms.Label
     Friend WithEvents Button10 As System.Windows.Forms.Button
     Friend WithEvents Label84 As System.Windows.Forms.Label
-    Friend WithEvents TextBox26 As System.Windows.Forms.TextBox
+    Friend WithEvents Family_Serah As System.Windows.Forms.TextBox
     Friend WithEvents DataGridView3 As System.Windows.Forms.DataGridView
     Friend WithEvents Button11 As System.Windows.Forms.Button
     Friend WithEvents Button9 As System.Windows.Forms.Button
