@@ -25,7 +25,6 @@ C:\Users\User\Documents\GitHub\Number_One\منظومة\WindowsApplication1\bin\D
 C:\Users\User\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 C:\Users\User\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.xml
 C:\Users\User\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
-<<<<<<< Updated upstream
 C:\Users\hp\Documents\GitHub\Number_One\منظومة\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
 C:\Users\hp\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 C:\Users\hp\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.xml
@@ -48,9 +47,3 @@ C:\Users\hp\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Deb
 C:\Users\hp\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.SendCode.resources
 C:\Users\hp\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.Type_Holiday.resources
 C:\Users\hp\Documents\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
-=======
-C:\Users\radww\OneDrive\المستندات\GitHub\Number_One\منظومة\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
-C:\Users\radww\OneDrive\المستندات\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.exe
-C:\Users\radww\OneDrive\المستندات\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.xml
-C:\Users\radww\OneDrive\المستندات\GitHub\Number_One\منظومة\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
->>>>>>> Stashed changes
